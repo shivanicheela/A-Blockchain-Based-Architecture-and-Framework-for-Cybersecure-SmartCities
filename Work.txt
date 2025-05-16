@@ -1,0 +1,35 @@
+A Blockchain Based Architecture and Framework for Cybersecure Smart Cities
+
+
+
+IEEE Transaction on Machine Learning,Volume:11,Issue Date:18.July.2023
+
+
+Smart city, smart grid, cybersecurity, framework, IoT, blockchain, big data, artificial
+intelligence.
+
+A_Blockchain_Based_Architecture
+
+a_blockchain_based_architecture
+
+
+
+predict_Cybersecure_Smart_City
+
+
+
+
+RID	
+city	
+city_ascii	
+lat	
+lng	
+country	
+iso2	
+iso3	
+admin_name	
+capital	
+population	
+optimization_block	
+features_block
+Prediction

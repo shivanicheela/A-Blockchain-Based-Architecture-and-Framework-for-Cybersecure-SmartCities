@@ -1,0 +1,1238 @@
+ ,city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,optimization_block,features_block,Label
+172.217.6.202-10.42.0.211-443-47447-6,Tokyo,Tokyo,35.685,139.7514,Japan,JP,JPN,Tokyo,primary,35676000,energy control ,smart healthcare system ,1
+172.217.12.170-10.42.0.151-443-49883-6,New York,New York,40.6943,-73.9249,United States,US,USA,New York,Unknown,19354922,building performance ,better governance ,1
+173.194.175.188-10.42.0.151-5228-34789-6,Mexico City,Mexico City,19.4424,-99.131,Mexico,MX,MEX,Ciudad de México,primary,19028000,street furniture management,better transportation system ,1
+239.255.255.250-10.42.0.1-1900-44477-17,Mumbai,Mumbai,19.017,72.857,India,IN,IND,Maharatira,admin,18978000,waste disposal ,better surveillance for security ,0
+10.42.0.151-104.254.66.16-54085-80-6,São Paulo,Sao Paulo,-23.5587,-46.625,Brazil,BR,BRA,São Paulo,admin,18845000,mobility,smart infrastructure ,1
+172.217.12.206-10.42.0.151-443-34088-6,Delhi,Delhi,28.67,77.23,India,IN,IND,Delhi,admin,15926000,building performance ,better job opportunities,0
+10.42.0.42-54.192.38.154-59370-443-6,Shanghai,Shanghai,31.2165,121.4365,China,CN,CHN,Shanghai,admin,14987000,street furniture management,better governance ,1
+180.149.136.194-10.42.0.211-80-57315-6,Kolkata,Kolkata,22.495,88.3247,India,IN,IND,West Bengal,admin,14787000,building performance ,better transportation system ,0
+10.42.0.42-66.198.178.91-52456-443-6,Los Angeles,Los Angeles,34.1139,-118.4068,United States,US,USA,California,Unknown,12815475,street furniture management,better surveillance for security ,0
+10.42.0.151-10.42.0.1-40150-53-17,Dhaka,Dhaka,23.7231,90.4086,Bangladesh,BD,BGD,Dhaka,primary,12797394,waste disposal ,smart infrastructure ,0
+183.79.248.124-10.42.0.211-443-40398-6,Buenos Aires,Buenos Aires,-34.6025,-58.3975,Argentina,AR,ARG,"Buenos Aires, Ciudad Autónoma de",primary,12795000,mobility,better governance ,1
+10.42.0.151-91.190.219.146-54317-443-6,Karachi,Karachi,24.87,66.99,Pakistan,PK,PAK,Sindh,admin,12130000,building performance ,better transportation system ,0
+169.45.214.248-10.42.0.151-5222-56112-6,Cairo,Cairo,30.05,31.25,Egypt,EG,EGY,Al Qāhirah,primary,11893000,street furniture management,better surveillance for security ,0
+10.42.0.211-10.42.0.1-49857-53-17,Rio de Janeiro,Rio de Janeiro,-22.925,-43.225,Brazil,BR,BRA,Rio de Janeiro,admin,11748000,building performance ,smart infrastructure ,0
+10.42.0.151-10.42.0.1-41614-53-17,Ōsaka,Osaka,34.75,135.4601,Japan,JP,JPN,Ōsaka,admin,11294000,street furniture management,smart healthcare system ,1
+10.42.0.151-10.42.0.1-9903-53-17,Beijing,Beijing,39.9289,116.3883,China,CN,CHN,Beijing,primary,11106000,waste disposal ,better governance ,1
+10.42.0.42-13.66.26.172-53130-443-6,Manila,Manila,14.6042,120.9822,Philippines,PH,PHL,Manila,primary,11100000,mobility,better transportation system ,0
+172.217.10.100-10.42.0.151-443-41030-6,Moscow,Moscow,55.7522,37.6155,Russia,RU,RUS,Moskva,primary,10452000,building performance ,better surveillance for security ,0
+172.217.10.74-10.42.0.151-443-57211-6,Istanbul,Istanbul,41.105,29.01,Turkey,TR,TUR,İstanbul,admin,10061000,street furniture management,smart infrastructure ,0
+172.217.12.170-10.42.0.42-443-52998-6,Paris,Paris,48.8667,2.3333,France,FR,FRA,Île-de-France,primary,9904000,building performance ,better job opportunities,0
+206.126.112.142-10.42.0.151-443-39311-6,Seoul,Seoul,37.5663,126.9997,"Korea, South",KR,KOR,Seoul,primary,9796000,street furniture management,better governance ,1
+172.217.10.42-10.42.0.42-443-56914-6,Lagos,Lagos,6.4433,3.3915,Nigeria,NG,NGA,Lagos,minor,9466000,street furniture management,better transportation system ,1
+203.205.158.23-10.42.0.151-80-48808-6,Jakarta,Jakarta,-6.1744,106.8294,Indonesia,ID,IDN,Jakarta,primary,9125000,waste disposal ,better surveillance for security ,0
+10.42.0.1-10.42.0.42-53-41717-17,Guangzhou,Guangzhou,23.145,113.325,China,CN,CHN,Guangdong,admin,8829000,mobility,smart infrastructure ,1
+10.42.0.151-104.244.43.131-48232-443-6,Chicago,Chicago,41.8373,-87.6862,United States,US,USA,Illinois,Unknown,8675982,building performance ,better governance ,0
+10.42.0.211-119.146.74.31-58603-443-6,London,London,51.5,-0.1167,United Kingdom,GB,GBR,"London, City of",primary,8567000,street furniture management,better transportation system ,0
+10.42.0.211-98.139.225.43-50554-443-6,Lima,Lima,-12.048,-77.0501,Peru,PE,PER,Lima,primary,8012000,building performance ,better surveillance for security ,0
+192.229.173.173-10.42.0.211-443-43640-6,Tehran,Tehran,35.6719,51.4243,Iran,IR,IRN,Tehrān,primary,7873000,street furniture management,smart infrastructure ,1
+10.42.0.211-98.139.180.180-37794-443-6,Kinshasa,Kinshasa,-4.3297,15.315,Congo (Kinshasa),CD,COD,Kinshasa,primary,7843000,waste disposal ,smart healthcare system ,1
+10.42.0.211-23.21.95.195-47277-443-6,Bogotá,Bogota,4.5964,-74.0833,Colombia,CO,COL,Bogotá,primary,7772000,mobility,better governance ,1
+10.42.0.211-10.42.0.1-5070-53-17,Shenzhen,Shenzhen,22.5524,114.1221,China,CN,CHN,Guangdong,minor,7581000,building performance ,better transportation system ,0
+203.205.158.60-10.42.0.42-80-33363-6,Wuhan,Wuhan,30.58,114.27,China,CN,CHN,Hubei,admin,7243000,street furniture management,better surveillance for security ,0
+10.42.0.211-104.244.42.129-53464-80-6,Hong Kong,Hong Kong,22.305,114.185,Hong Kong,HK,HKG,Unknown,Unknown,7206000,building performance ,smart infrastructure ,0
+175.100.207.233-10.42.0.211-80-47336-6,Tianjin,Tianjin,39.13,117.2,China,CN,CHN,Tianjin,admin,7180000,street furniture management,better job opportunities,0
+10.42.0.151-10.42.0.1-20557-53-17,Chennai,Chennai,13.09,80.28,India,IN,IND,Tamil Nādu ,admin,7163000,waste disposal ,better governance ,0
+10.42.0.211-23.206.166.62-42171-80-6,Taipei,Taipei,25.0358,121.5683,Taiwan,TW,TWN,Taipei,primary,6900273,mobility,better transportation system ,1
+198.11.188.78-10.42.0.42-443-45000-6,Bengalūru,Bengaluru,12.97,77.56,India,IN,IND,Karnātaka,admin,6787000,building performance ,better surveillance for security ,0
+172.217.10.65-10.42.0.211-443-40213-6,Bangkok,Bangkok,13.75,100.5166,Thailand,TH,THA,Krung Thep Maha Nakhon,primary,6704000,street furniture management,smart infrastructure ,1
+10.42.0.151-91.190.216.60-36975-12350-6,Lahore,Lahore,31.56,74.35,Pakistan,PK,PAK,Punjab,admin,6577000,street furniture management,better governance ,0
+8.0.6.4-8.6.0.1-0-0-0,Chongqing,Chongqing,29.565,106.595,China,CN,CHN,Chongqing,admin,6461000,waste disposal ,better transportation system ,0
+172.217.7.164-10.42.0.42-443-38539-6,Miami,Miami,25.7839,-80.2102,United States,US,USA,Florida,Unknown,6381966,mobility,better surveillance for security ,0
+10.42.0.1-10.42.0.42-53-50679-17,Hyderabad,Hyderabad,17.4,78.48,India,IN,IND,Telangana,admin,6376000,building performance ,smart infrastructure ,1
+172.217.6.202-10.42.0.42-443-33738-6,Dallas,Dallas,32.7936,-96.7662,United States,US,USA,Texas,Unknown,5733259,street furniture management,smart infrastructure ,1
+10.42.0.211-10.42.0.1-14200-53-17,Santiago,Santiago,-33.45,-70.667,Chile,CL,CHL,Región Metropolitana,primary,5720000,building performance ,smart healthcare system ,1
+180.149.136.194-10.42.0.211-80-48637-6,Philadelphia,Philadelphia,40.0077,-75.1339,United States,US,USA,Pennsylvania,Unknown,5637884,street furniture management,better governance ,1
+10.42.0.151-125.88.193.226-57182-80-6,Belo Horizonte,Belo Horizonte,-19.915,-43.915,Brazil,BR,BRA,Minas Gerais,admin,5575000,waste disposal ,better transportation system ,0
+10.42.0.211-104.192.108.27-53833-80-6,Madrid,Madrid,40.4,-3.6834,Spain,ES,ESP,Madrid,primary,5567000,mobility,better surveillance for security ,0
+10.42.0.211-10.42.0.1-31723-53-17,Houston,Houston,29.7869,-95.3905,United States,US,USA,Texas,Unknown,5446468,building performance ,smart infrastructure ,0
+10.42.0.211-111.202.114.77-49801-443-6,Ahmadābād,Ahmadabad,23.0301,72.58,India,IN,IND,Gujarāt,minor,5375000,street furniture management,better job opportunities,1
+203.130.53.126-10.42.0.211-80-52064-6,Ho Chi Minh City,Ho Chi Minh City,10.78,106.695,Vietnam,VN,VNM,Hồ Chí Minh,admin,5314000,building performance ,better governance ,1
+172.217.10.10-10.42.0.151-443-39296-6,Washington,Washington,38.9047,-77.0163,United States,US,USA,District of Columbia,primary,5289420,street furniture management,better transportation system ,0
+10.42.0.1-10.42.0.42-53-24839-17,Atlanta,Atlanta,33.7627,-84.4225,United States,US,USA,Georgia,admin,5228750,waste disposal ,better surveillance for security ,0
+172.217.10.131-10.42.0.151-443-48358-6,Toronto,Toronto,43.7,-79.42,Canada,CA,CAN,Ontario,admin,5213000,mobility,smart infrastructure ,0
+140.205.140.87-10.42.0.211-80-39636-6,Singapore,Singapore,1.293,103.8558,Singapore,SG,SGP,Unknown,primary,5183700,building performance ,better governance ,1
+203.205.151.47-10.42.0.151-80-60295-6,Luanda,Luanda,-8.8383,13.2344,Angola,AO,AGO,Luanda,primary,5172900,street furniture management,better transportation system ,0
+10.42.0.151-104.244.43.227-49848-443-6,Baghdad,Baghdad,33.3386,44.3939,Iraq,IQ,IRQ,Baghdād,primary,5054000,waste disposal ,smart infrastructure ,1
+10.42.0.151-10.42.0.1-46697-53-17,Barcelona,Barcelona,41.3833,2.1834,Spain,ES,ESP,Catalonia,admin,4920000,mobility,smart healthcare system ,1
+10.42.0.211-52.84.29.154-57116-443-6,Hāora,Haora,22.5804,88.3299,India,IN,IND,West Bengal,Unknown,4841638,building performance ,better governance ,0
+10.42.0.151-10.42.0.1-32711-53-17,Shenyang,Shenyang,41.805,123.45,China,CN,CHN,Liaoning,admin,4787000,street furniture management,better transportation system ,0
+10.42.0.211-66.231.239.124-55348-80-6,Khartoum,Khartoum,15.5881,32.5342,Sudan,SD,SDN,Khartoum,primary,4754000,building performance ,better surveillance for security ,0
+10.42.0.42-123.59.190.237-58925-80-6,Pune,Pune,18.53,73.85,India,IN,IND,Mahārāshtra,Unknown,4672000,street furniture management,smart infrastructure ,0
+216.58.219.226-10.42.0.211-443-44879-6,Boston,Boston,42.3188,-71.0846,United States,US,USA,Massachusetts,admin,4637537,waste disposal ,better job opportunities,1
+172.217.9.234-10.42.0.211-443-46345-6,Sydney,Sydney,-33.92,151.1852,Australia,AU,AUS,New South Wales,admin,4630000,mobility,better governance ,0
+202.77.129.161-10.42.0.42-80-54595-6,Saint Petersburg,Saint Petersburg,59.939,30.316,Russia,RU,RUS,Sankt-Peterburg,admin,4553000,building performance ,better transportation system ,0
+10.42.0.211-54.192.38.154-53349-443-6,Chittagong,Chittagong,22.33,91.8,Bangladesh,BD,BGD,Chittagong,admin,4529000,street furniture management,better surveillance for security ,0
+216.58.217.163-10.42.0.151-443-48940-6,Dongguan,Dongguan,23.0489,113.7447,China,CN,CHN,Guangdong,minor,4528000,building performance ,smart infrastructure ,0
+152.163.56.2-10.42.0.211-443-48457-6,Riyadh,Riyadh,24.6408,46.7727,Saudi Arabia,SA,SAU,Riyadh,primary,4465000,street furniture management,better governance ,1
+10.42.0.151-10.42.0.1-55810-53-17,Hanoi,Hanoi,21.0333,105.85,Vietnam,VN,VNM,Hanoi,primary,4378000,waste disposal ,better transportation system ,1
+10.42.0.211-115.239.210.141-51785-80-6,Guadalajara,Guadalajara,20.67,-103.33,Mexico,MX,MEX,Jalisco,admin,4198000,mobility,smart healthcare system ,0
+10.42.0.151-98.139.183.24-55392-443-6,Melbourne,Melbourne,-37.82,144.975,Australia,AU,AUS,Victoria,admin,4170000,building performance ,better governance ,0
+8.0.6.4-8.6.0.1-0-0-0,Alexandria,Alexandria,31.2,29.95,Egypt,EG,EGY,Al Iskandarīyah,admin,4165000,street furniture management,better transportation system ,0
+172.217.9.227-10.42.0.151-443-57870-6,Chengdu,Chengdu,30.67,104.07,China,CN,CHN,Sichuan,admin,4123000,building performance ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-47002-53-17,Rangoon,Rangoon,16.7834,96.1667,Burma,MM,MMR,Yangon,primary,4088000,street furniture management,smart infrastructure ,1
+172.217.10.110-10.42.0.151-443-38067-6,Phoenix,Phoenix,33.5722,-112.0891,United States,US,USA,Arizona,admin,4081849,street furniture management,better job opportunities,1
+206.126.112.142-10.42.0.151-443-33251-6,Xi’an,Xi'an,34.275,108.895,China,CN,CHN,Shaanxi,admin,4009000,waste disposal ,better governance ,1
+152.163.56.2-10.42.0.211-443-36198-6,Porto Alegre,Porto Alegre,-30.05,-51.2,Brazil,BR,BRA,Rio Grande do Sul,admin,3917000,mobility,better transportation system ,0
+10.42.0.42-106.39.169.66-43528-443-6,Sūrat,Surat,21.2,72.84,India,IN,IND,Gujarāt,Unknown,3842000,building performance ,better surveillance for security ,0
+180.149.136.194-10.42.0.151-80-54144-6,Hechi,Hechi,23.0965,109.6091,China,CN,CHN,Guangxi,Unknown,3830000,street furniture management,smart infrastructure ,0
+10.42.0.211-119.146.74.34-43439-80-6,Abidjan,Abidjan,5.32,-4.04,Côte D’Ivoire,CI,CIV,Abidjan,primary,3802000,building performance ,better governance ,1
+172.217.3.99-10.42.0.211-443-43528-6,Brasília,Brasilia,-15.7833,-47.9161,Brazil,BR,BRA,Distrito Federal,primary,3716996,street furniture management,better transportation system ,0
+216.58.218.227-10.42.0.42-443-50608-6,Ankara,Ankara,39.9272,32.8644,Turkey,TR,TUR,Ankara,primary,3716000,waste disposal ,smart infrastructure ,1
+10.42.0.151-106.11.176.1-47627-443-6,Monterrey,Monterrey,25.67,-100.33,Mexico,MX,MEX,Nuevo León,admin,3712000,mobility,smart healthcare system ,0
+10.42.0.42-52.179.189.71-47940-443-6,Yokohama,Yokohama,35.32,139.58,Japan,JP,JPN,Kanagawa,admin,3697894,building performance ,better governance ,1
+198.11.136.24-10.42.0.211-443-52636-6,Nanjing,Nanjing,32.05,118.78,China,CN,CHN,Jiangsu,admin,3679000,street furniture management,better transportation system ,0
+10.42.0.211-10.42.0.1-39313-53-17,Montréal,Montreal,45.5,-73.5833,Canada,CA,CAN,Québec,Unknown,3678000,building performance ,better surveillance for security ,0
+10.42.0.211-66.231.239.124-34031-443-6,Guiyang,Guiyang,26.58,106.72,China,CN,CHN,Guizhou,admin,3662000,street furniture management,smart infrastructure ,0
+10.42.0.151-104.254.66.16-50163-80-6,Recife,Recife,-8.0756,-34.9156,Brazil,BR,BRA,Pernambuco,admin,3651000,waste disposal ,better job opportunities,1
+202.77.129.230-10.42.0.151-80-58523-6,Seattle,Seattle,47.6211,-122.3244,United States,US,USA,Washington,Unknown,3643765,mobility,better governance ,1
+203.205.158.61-10.42.0.42-80-54023-6,Harbin,Harbin,45.75,126.65,China,CN,CHN,Heilongjiang,admin,3621000,building performance ,better transportation system ,0
+10.42.0.211-121.12.98.63-47417-80-6,San Francisco,San Francisco,37.7562,-122.443,United States,US,USA,California,Unknown,3603761,street furniture management,smart healthcare system ,0
+172.217.10.72-10.42.0.211-443-34855-6,Fortaleza,Fortaleza,-3.75,-38.58,Brazil,BR,BRA,Ceará,admin,3602319,street furniture management,better governance ,0
+10.42.0.211-10.42.0.1-61032-53-17,Zhangzhou,Zhangzhou,24.5204,117.67,China,CN,CHN,Fujian,minor,3531147,waste disposal ,better transportation system ,0
+172.217.10.234-10.42.0.151-443-46171-6,Detroit,Detroit,42.3834,-83.1024,United States,US,USA,Michigan,Unknown,3522206,mobility,better surveillance for security ,0
+172.217.11.10-10.42.0.211-443-49984-6,Salvador,Salvador,-12.97,-38.48,Brazil,BR,BRA,Bahia,admin,3484000,building performance ,smart infrastructure ,1
+203.205.158.61-10.42.0.211-80-36236-6,Busan,Busan,35.0951,129.01,"Korea, South",KR,KOR,Busan,admin,3480000,street furniture management,better job opportunities,1
+205.204.101.182-10.42.0.42-443-47869-6,Johannesburg,Johannesburg,-26.17,28.03,South Africa,ZA,ZAF,Gauteng,admin,3435000,building performance ,better governance ,1
+172.217.10.106-10.42.0.151-443-41606-6,Berlin,Berlin,52.5218,13.4015,Germany,DE,DEU,Berlin,primary,3406000,street furniture management,better transportation system ,0
+203.205.179.170-10.42.0.211-80-57794-6,Algiers,Algiers,36.7631,3.0506,Algeria,DZ,DZA,Alger,primary,3354000,waste disposal ,better surveillance for security ,0
+10.42.0.211-98.139.199.204-37890-443-6,Rome,Rome,41.896,12.4833,Italy,IT,ITA,Lazio,primary,3339000,mobility,smart infrastructure ,0
+10.42.0.211-69.147.82.61-41637-443-6,Pyongyang,Pyongyang,39.0194,125.7547,"Korea, North",KP,PRK,P’yŏngyang,primary,3300000,building performance ,better governance ,1
+10.42.0.211-23.205.20.233-46359-80-6,Medellín,Medellin,6.275,-75.575,Colombia,CO,COL,Antioquia,admin,3297000,street furniture management,better transportation system ,1
+10.42.0.42-104.192.110.245-43650-443-6,Kabul,Kabul,34.5167,69.1833,Afghanistan,AF,AFG,Kābul,primary,3277000,building performance ,smart infrastructure ,1
+10.42.0.211-119.146.74.34-59087-80-6,Athens,Athens,37.9833,23.7333,Greece,GR,GRC,Attikí,primary,3242000,street furniture management,smart healthcare system ,0
+10.42.0.211-52.0.244.7-44682-443-6,Nagoya,Nagoya,35.155,136.915,Japan,JP,JPN,Aichi,admin,3230000,waste disposal ,better governance ,0
+183.79.250.123-10.42.0.211-443-35953-6,Cape Town,Cape Town,-33.92,18.435,South Africa,ZA,ZAF,Western Cape,primary,3215000,mobility,better transportation system ,0
+10.42.0.211-54.243.211.28-39454-443-6,San Diego,San Diego,32.8312,-117.1225,United States,US,USA,California,Unknown,3210314,waste disposal ,better surveillance for security ,0
+151.101.21.140-10.42.0.211-443-33380-6,Changchun,Changchun,43.865,125.34,China,CN,CHN,Jilin,admin,3183000,mobility,smart infrastructure ,0
+203.205.147.229-10.42.0.151-80-36648-6,Casablanca,Casablanca,33.6,-7.6164,Morocco,MA,MAR,Casablanca-Settat,admin,3181000,building performance ,better job opportunities,1
+172.217.10.3-10.42.0.151-443-60003-6,Dalian,Dalian,38.9228,121.6298,China,CN,CHN,Liaoning,Unknown,3167000,street furniture management,better governance ,1
+172.217.12.131-10.42.0.211-443-37454-6,Cawnpore,Cawnpore,26.46,80.32,India,IN,IND,Uttar Pradesh,Unknown,3162000,building performance ,better transportation system ,1
+10.42.0.211-64.71.142.124-40223-80-6,Kano,Kano,12,8.52,Nigeria,NG,NGA,Kano,admin,3140000,street furniture management,smart healthcare system ,0
+202.77.129.150-10.42.0.211-443-43404-6,Tel Aviv-Yafo,Tel Aviv-Yafo,32.08,34.77,Israel,IL,ISR,Tel Aviv,admin,3112000,waste disposal ,better governance ,0
+172.217.3.106-10.42.0.151-443-43050-6,Addis Ababa,Addis Ababa,9.0333,38.7,Ethiopia,ET,ETH,Ādīs Ābeba,primary,3100000,mobility,better transportation system ,0
+183.79.250.123-10.42.0.211-443-36972-6,Curitiba,Curitiba,-25.42,-49.32,Brazil,BR,BRA,Paraná,admin,3084000,building performance ,better surveillance for security ,0
+202.77.129.150-10.42.0.42-80-40130-6,Zibo,Zibo,36.8,118.05,China,CN,CHN,Shandong,Unknown,3061000,street furniture management,smart infrastructure ,1
+10.42.0.211-54.230.51.24-50398-80-6,Jeddah,Jeddah,21.5169,39.2192,Saudi Arabia,SA,SAU,Makkah al Mukarramah,Unknown,3012000,building performance ,better job opportunities,1
+10.42.0.211-95.213.11.133-37968-443-6,Nairobi,Nairobi,-1.2833,36.8167,Kenya,KE,KEN,Nairobi City,primary,3010000,street furniture management,better governance ,1
+222.73.28.96-10.42.0.42-80-43351-6,Hangzhou,Hangzhou,30.25,120.17,China,CN,CHN,Zhejiang,admin,3007000,waste disposal ,better transportation system ,0
+10.42.0.211-66.102.255.61-51792-80-6,Benoni,Benoni,-26.1496,28.3299,South Africa,ZA,ZAF,Gauteng,Unknown,2986000,mobility,better surveillance for security ,0
+10.42.0.1-10.42.0.42-53-29805-17,Caracas,Caracas,10.501,-66.917,Venezuela,VE,VEN,Distrito Capital,primary,2985000,building performance ,smart infrastructure ,0
+172.217.11.14-10.42.0.151-443-35230-6,Milan,Milan,45.47,9.205,Italy,IT,ITA,Lombardy,admin,2945000,street furniture management,better governance ,1
+10.42.0.42-72.21.206.53-45580-443-6,Stuttgart,Stuttgart,48.78,9.2,Germany,DE,DEU,Baden-Württemberg,admin,2944700,building performance ,better transportation system ,1
+209.10.120.26-10.42.0.211-80-43093-6,Kunming,Kunming,25.07,102.68,China,CN,CHN,Yunnan,admin,2931000,street furniture management,smart infrastructure ,0
+172.217.10.42-10.42.0.42-443-34080-6,Dar es Salaam,Dar es Salaam,-6.8,39.2683,Tanzania,TZ,TZA,Dar es Salaam,primary,2930000,street furniture management,smart healthcare system ,1
+183.79.17.108-10.42.0.151-443-60437-6,Minneapolis,Minneapolis,44.9635,-93.2678,United States,US,USA,Minnesota,Unknown,2926757,waste disposal ,better governance ,0
+172.217.12.195-10.42.0.211-443-49630-6,Jaipur,Jaipur,26.9211,75.81,India,IN,IND,Rājasthān,admin,2917000,mobility,better transportation system ,0
+10.42.0.151-119.146.74.34-42472-80-6,Taiyuan,Taiyuan,37.875,112.5451,China,CN,CHN,Shanxi,admin,2913000,building performance ,better surveillance for security ,0
+172.217.6.237-10.42.0.151-443-54754-6,Frankfurt,Frankfurt,50.1,8.675,Germany,DE,DEU,Hesse,minor,2895000,street furniture management,smart infrastructure ,0
+163.177.93.222-10.42.0.151-80-46812-6,Qingdao,Qingdao,36.09,120.33,China,CN,CHN,Shandong,minor,2866000,building performance ,better job opportunities,1
+10.42.0.151-74.125.22.188-37263-5228-6,Surabaya,Surabaya,-7.2492,112.7508,Indonesia,ID,IDN,Jawa Timur,admin,2845000,street furniture management,better governance ,0
+202.77.129.230-10.42.0.151-80-47935-6,Lisbon,Lisbon,38.7227,-9.1449,Portugal,PT,PRT,Lisboa,primary,2812000,waste disposal ,better transportation system ,1
+192.229.173.173-10.42.0.151-80-57987-6,Tampa,Tampa,27.9942,-82.4451,United States,US,USA,Florida,Unknown,2804240,mobility,better surveillance for security ,0
+10.42.0.151-119.146.74.31-39177-443-6,Jinan,Jinan,36.675,116.995,China,CN,CHN,Shandong,admin,2798000,building performance ,smart infrastructure ,1
+10.42.0.151-10.42.0.1-13570-53-17,Fukuoka,Fukuoka,33.595,130.41,Japan,JP,JPN,Fukuoka,admin,2792000,street furniture management,better job opportunities,0
+222.73.28.96-10.42.0.211-80-34338-6,Campinas,Campinas,-22.9,-47.1,Brazil,BR,BRA,São Paulo,Unknown,2791000,building performance ,better governance ,1
+10.42.0.42-115.239.210.141-47686-80-6,Denver,Denver,39.7621,-104.8759,United States,US,USA,Colorado,admin,2787266,street furniture management,better transportation system ,0
+10.42.0.151-10.42.0.1-45805-53-17,Kaohsiung,Kaohsiung,22.6333,120.2666,Taiwan,TW,TWN,Kaohsiung,admin,2769072,waste disposal ,better surveillance for security ,0
+174.35.73.135-10.42.0.211-80-41771-6,Quezon City,Quezon City,14.6504,121.03,Philippines,PH,PHL,Quezon,admin,2761720,mobility,smart infrastructure ,0
+180.149.134.221-10.42.0.42-80-41726-6,Katowice,Katowice,50.2604,19.02,Poland,PL,POL,Śląskie,admin,2746000,building performance ,better governance ,1
+10.42.0.211-10.42.0.1-28008-53-17,Aleppo,Aleppo,36.23,37.17,Syria,SY,SYR,Ḩalab,admin,2738000,street furniture management,better transportation system ,0
+10.42.0.211-36.110.213.174-55806-443-6,Durban,Durban,-29.865,30.98,South Africa,ZA,ZAF,KwaZulu-Natal,Unknown,2729000,street furniture management,better surveillance for security ,0
+172.217.11.42-10.42.0.42-443-59418-6,Kyiv,Kyiv,50.4334,30.5166,Ukraine,UA,UKR,"Kyyiv, Misto",primary,2709000,waste disposal ,smart infrastructure ,0
+203.205.158.66-10.42.0.151-80-55440-6,Lucknow,Lucknow,26.855,80.915,India,IN,IND,Uttar Pradesh,admin,2695000,mobility,smart healthcare system ,1
+10.42.0.211-10.42.0.1-45516-53-17,Giza,Giza,30.01,31.19,Egypt,EG,EGY,Al Jīzah,admin,2681863,building performance ,better governance ,0
+10.42.0.211-119.146.74.33-47669-443-6,Zhengzhou,Zhengzhou,34.755,113.6651,China,CN,CHN,Henan,admin,2636000,street furniture management,better transportation system ,1
+216.58.219.226-10.42.0.211-443-55294-6,Taichung,Taichung,24.1521,120.6817,Taiwan,TW,TWN,Taichung,admin,2629323,building performance ,better surveillance for security ,0
+172.217.3.110-10.42.0.151-443-44237-6,Brooklyn,Brooklyn,40.6501,-73.9496,United States,US,USA,New York,Unknown,2629150,street furniture management,smart infrastructure ,1
+172.217.10.42-10.42.0.211-443-57721-6,Ibadan,Ibadan,7.38,3.93,Nigeria,NG,NGA,Oyo,admin,2628000,waste disposal ,better job opportunities,0
+172.217.8.4-10.42.0.42-443-46715-6,Faisalabad,Faisalabad,31.41,73.11,Pakistan,PK,PAK,Punjab,minor,2617000,mobility,better governance ,1
+10.42.0.211-106.11.94.27-35349-443-6,Fuzhou,Fuzhou,26.08,119.3,China,CN,CHN,Fujian,admin,2606000,building performance ,better transportation system ,0
+172.217.10.138-10.42.0.42-443-40117-6,Changsha,Changsha,28.2,112.97,China,CN,CHN,Hunan,admin,2604000,street furniture management,better surveillance for security ,0
+192.229.173.173-10.42.0.151-80-46598-6,Dakar,Dakar,14.7158,-17.4731,Senegal,SN,SEN,Dakar,primary,2604000,building performance ,smart infrastructure ,0
+172.217.12.206-10.42.0.211-443-52386-6,İzmir,Izmir,38.4361,27.1518,Turkey,TR,TUR,İzmir,admin,2587000,street furniture management,better governance ,0
+10.42.0.211-10.42.0.1-52116-53-17,Xiangtan,Xiangtan,27.8504,112.9,China,CN,CHN,Hunan,Unknown,2586948,waste disposal ,better transportation system ,0
+10.42.0.211-64.71.142.120-37148-443-6,Lanzhou,Lanzhou,36.056,103.792,China,CN,CHN,Gansu,admin,2561000,mobility,better surveillance for security ,0
+10.42.0.211-10.42.0.1-11650-53-17,Incheon,Incheon,37.4761,126.6422,"Korea, South",KR,KOR,Incheon,admin,2550000,waste disposal ,smart infrastructure ,1
+10.42.0.42-125.39.83.108-40521-443-6,Sapporo,Sapporo,43.075,141.34,Japan,JP,JPN,Hokkaidō,admin,2544000,mobility,smart healthcare system ,0
+10.42.0.211-106.11.129.143-45644-80-6,Xiamen,Xiamen,24.45,118.08,China,CN,CHN,Fujian,minor,2519000,building performance ,better governance ,0
+172.217.12.132-10.42.0.151-443-33413-6,Guayaquil,Guayaquil,-2.22,-79.92,Ecuador,EC,ECU,Guayas,admin,2514000,street furniture management,better transportation system ,0
+10.42.0.151-10.42.0.1-49656-53-17,George Town,George Town,5.4136,100.3294,Malaysia,MY,MYS,Pulau Pinang,admin,2500000,building performance ,better surveillance for security ,0
+172.217.12.206-10.42.0.151-443-39666-6,Mashhad,Mashhad,36.27,59.57,Iran,IR,IRN,Khorāsān-e Raẕavī,admin,2469000,street furniture management,smart infrastructure ,1
+10.42.0.211-10.42.0.1-8693-53-17,Damascus,Damascus,33.5,36.3,Syria,SY,SYR,Dimashq,primary,2466000,waste disposal ,better job opportunities,1
+205.185.216.42-10.42.0.151-80-41143-6,Daegu,Daegu,35.8668,128.607,"Korea, South",KR,KOR,Daegu,admin,2460000,mobility,better governance ,0
+10.42.0.151-31.13.80.5-35876-443-6,Nāgpur,Nagpur,21.17,79.09,India,IN,IND,Mahārāshtra,Unknown,2454000,building performance ,better transportation system ,0
+172.217.6.202-10.42.0.151-443-56471-6,Lianshan,Lianshan,40.7503,120.83,China,CN,CHN,Liaoning,minor,2426000,street furniture management,better surveillance for security ,0
+10.42.0.211-118.178.143.65-48075-80-6,Shijiazhuang,Shijiazhuang,38.05,114.48,China,CN,CHN,Hebei,admin,2417000,building performance ,smart infrastructure ,0
+10.42.0.211-23.206.166.66-49063-80-6,Tunis,Tunis,36.8028,10.1797,Tunisia,TN,TUN,Tunis,primary,2412500,street furniture management,better governance ,1
+10.42.0.151-104.254.66.16-54073-80-6,Vienna,Vienna,48.2,16.3666,Austria,AT,AUT,Wien,primary,2400000,waste disposal ,better transportation system ,1
+10.42.0.42-14.29.93.243-56301-80-6,Jilin,Jilin,43.85,126.55,China,CN,CHN,Jilin,Unknown,2396000,mobility,better surveillance for security ,0
+10.42.0.42-104.193.88.109-53643-80-6,Omdurman,Omdurman,15.6167,32.48,Sudan,SD,SDN,Khartoum,Unknown,2395159,building performance ,smart infrastructure ,0
+216.58.219.202-10.42.0.151-443-36518-6,Bandung,Bandung,-6.95,107.57,Indonesia,ID,IDN,Jawa Barat,admin,2394000,street furniture management,smart infrastructure ,1
+180.163.255.159-10.42.0.211-80-34697-6,Bekasi,Bekasi,-6.2173,106.9723,Indonesia,ID,IDN,Jawa Barat,Unknown,2378211,building performance ,smart healthcare system ,0
+10.42.0.1-10.42.0.42-53-16366-17,Mannheim,Mannheim,49.5004,8.47,Germany,DE,DEU,Baden-Württemberg,minor,2362000,street furniture management,better governance ,1
+10.42.0.211-23.194.141.143-55295-443-6,Nanchang,Nanchang,28.68,115.88,China,CN,CHN,Jiangxi,admin,2350000,street furniture management,better transportation system ,0
+10.42.0.211-23.7.36.183-36332-80-6,Wenzhou,Wenzhou,28.02,120.6501,China,CN,CHN,Zhejiang,Unknown,2350000,waste disposal ,better surveillance for security ,0
+10.42.0.151-114.134.80.163-44391-80-6,Queens,Queens,40.7498,-73.7976,United States,US,USA,New York,Unknown,2333054,mobility,smart infrastructure ,0
+174.35.73.134-10.42.0.211-80-38368-6,Vancouver,Vancouver,49.2734,-123.1216,Canada,CA,CAN,British Columbia,Unknown,2313328,building performance ,better job opportunities,1
+10.42.0.211-118.242.24.59-37885-18013-6,Birmingham,Birmingham,52.475,-1.92,United Kingdom,GB,GBR,Birmingham,admin,2285000,street furniture management,better governance ,0
+172.217.11.14-10.42.0.211-443-37667-6,Cali,Cali,3.4,-76.5,Colombia,CO,COL,Valle del Cauca,admin,2254000,building performance ,better transportation system ,1
+10.42.0.211-10.42.0.1-9060-53-17,Naples,Naples,40.84,14.245,Italy,IT,ITA,Campania,admin,2250000,street furniture management,better surveillance for security ,0
+180.149.136.194-10.42.0.211-443-60205-6,Sendai,Sendai,38.2871,141.0217,Japan,JP,JPN,Miyagi,admin,2250000,waste disposal ,smart infrastructure ,1
+10.42.0.151-10.42.0.1-23829-53-17,Manchester,Manchester,53.5004,-2.248,United Kingdom,GB,GBR,Manchester,admin,2230000,mobility,better governance ,1
+10.42.0.211-74.125.192.188-60319-5228-6,Puebla,Puebla,19.05,-98.2,Mexico,MX,MEX,Puebla,admin,2195000,building performance ,better transportation system ,0
+10.42.0.211-95.213.11.181-54022-80-6,Tripoli,Tripoli,32.8925,13.18,Libya,LY,LBY,Ţarābulus,primary,2189000,street furniture management,smart infrastructure ,0
+10.42.0.151-64.95.32.26-35204-443-6,Tashkent,Tashkent,41.3117,69.2949,Uzbekistan,UZ,UZB,Toshkent,primary,2184000,building performance ,smart healthcare system ,0
+216.58.217.67-10.42.0.211-443-54011-6,Havana,Havana,23.132,-82.3642,Cuba,CU,CUB,La Habana,primary,2174000,street furniture management,better governance ,0
+180.149.138.210-10.42.0.211-80-52068-6,Gaoping,Gaoping,30.7804,106.13,China,CN,CHN,Sichuan,minor,2174000,waste disposal ,better transportation system ,1
+172.217.6.238-10.42.0.151-443-51144-6,Baltimore,Baltimore,39.3051,-76.6144,United States,US,USA,Maryland,Unknown,2170504,mobility,better surveillance for security ,0
+199.59.148.73-10.42.0.211-443-39193-6,Nanning,Nanning,22.82,108.32,China,CN,CHN,Guangxi,admin,2167000,building performance ,smart infrastructure ,1
+10.42.0.211-74.125.22.188-50270-5228-6,Belém,Belem,-1.45,-48.48,Brazil,BR,BRA,Pará,admin,2167000,street furniture management,better job opportunities,1
+172.217.10.110-10.42.0.42-443-53546-6,Patna,Patna,25.625,85.13,India,IN,IND,Bihār,admin,2158000,street furniture management,better governance ,0
+183.79.250.251-10.42.0.151-443-37631-6,Santo Domingo,Santo Domingo,18.4701,-69.9001,Dominican Republic,DO,DOM,Ozama,primary,2154000,waste disposal ,better transportation system ,0
+172.217.11.42-10.42.0.42-443-58728-6,Ürümqi,Urumqi,43.805,87.575,China,CN,CHN,Xinjiang,admin,2151000,mobility,better surveillance for security ,0
+10.42.0.211-121.12.98.64-56590-80-6,Zaozhuang,Zaozhuang,34.88,117.57,China,CN,CHN,Shandong,Unknown,2145000,building performance ,smart infrastructure ,1
+174.129.31.175-10.42.0.211-443-54768-6,Baku,Baku,40.3953,49.8622,Azerbaijan,AZ,AZE,Bakı,primary,2122300,street furniture management,better governance ,1
+10.42.0.151-74.119.119.68-44489-443-6,Accra,Accra,5.55,-0.2167,Ghana,GH,GHA,Greater Accra,primary,2121000,building performance ,better transportation system ,1
+10.42.0.151-52.84.135.137-57220-443-6,Yantai,Yantai,37.5304,121.4,China,CN,CHN,Shandong,Unknown,2116000,street furniture management,smart healthcare system ,0
+157.55.235.173-10.42.0.42-40024-46360-17,Medan,Medan,3.58,98.65,Indonesia,ID,IDN,Sumatera Utara,admin,2115000,waste disposal ,better governance ,0
+172.217.9.227-10.42.0.151-443-60656-6,Santa Cruz,Santa Cruz,-17.7539,-63.226,Bolivia,BO,BOL,Santa Cruz,Unknown,2102998,mobility,better transportation system ,0
+216.58.219.202-10.42.0.151-443-46727-6,Tongshan,Tongshan,34.28,117.18,China,CN,CHN,Jiangsu,minor,2091000,building performance ,better surveillance for security ,0
+10.42.0.151-88.212.196.103-43511-443-6,Riverside,Riverside,33.9381,-117.3948,United States,US,USA,California,Unknown,2084749,street furniture management,smart infrastructure ,0
+10.42.0.211-64.71.142.125-35944-443-6,Linyi,Linyi,35.08,118.33,China,CN,CHN,Shandong,Unknown,2082000,building performance ,better job opportunities,1
+172.217.10.133-10.42.0.151-443-55487-6,St. Louis,St. Louis,38.6358,-90.2451,United States,US,USA,Missouri,Unknown,2078283,street furniture management,better governance ,1
+180.76.138.25-10.42.0.211-80-47454-6,Las Vegas,Las Vegas,36.2333,-115.2654,United States,US,USA,Nevada,Unknown,2073045,waste disposal ,better transportation system ,1
+203.205.158.61-10.42.0.151-80-40903-6,Maracaibo,Maracaibo,10.73,-71.66,Venezuela,VE,VEN,Zulia,admin,2072000,mobility,better surveillance for security ,0
+203.205.179.172-10.42.0.151-80-51767-6,Kuwait City,Kuwait City,29.3697,47.9783,Kuwait,KW,KWT,Al ‘Āşimah,primary,2063000,street furniture management,smart infrastructure ,0
+10.42.0.42-119.146.74.31-35470-443-6,Ad Dammām,Ad Dammam,26.4282,50.0997,Saudi Arabia,SA,SAU,Ash Sharqīyah,admin,2054710,building performance ,better governance ,0
+10.42.0.151-54.173.220.111-54434-443-6,Portland,Portland,45.5371,-122.65,United States,US,USA,Oregon,Unknown,2052796,street furniture management,better transportation system ,1
+10.42.0.151-52.22.102.34-53632-443-6,Haikou,Haikou,20.05,110.32,China,CN,CHN,Hainan,admin,2046189,waste disposal ,smart infrastructure ,1
+10.42.0.211-10.42.0.1-55667-53-17,Hiroshima,Hiroshima,34.3878,132.4429,Japan,JP,JPN,Hiroshima,admin,2045000,mobility,smart healthcare system ,1
+10.42.0.211-10.42.0.1-18693-53-17,Baotou,Baotou,40.6522,109.822,China,CN,CHN,Inner Mongolia,Unknown,2036000,building performance ,better governance ,1
+10.42.0.42-104.244.43.163-43380-443-6,Hefei,Hefei,31.85,117.28,China,CN,CHN,Anhui,admin,2035000,street furniture management,better transportation system ,0
+10.42.0.211-10.42.0.1-7686-53-17,Indore,Indore,22.7151,75.865,India,IN,IND,Madhya Pradesh,Unknown,2026000,building performance ,better surveillance for security ,0
+172.217.10.106-10.42.0.151-443-48914-6,Goiânia,Goiania,-16.72,-49.3,Brazil,BR,BRA,Goiás,admin,2022000,street furniture management,smart infrastructure ,0
+219.147.93.205-10.42.0.211-443-34071-6,Sanaa,Sanaa,15.3547,44.2066,Yemen,YE,YEM,Amānat al ‘Āşimah,primary,2008000,waste disposal ,better job opportunities,1
+180.149.136.194-10.42.0.42-80-46051-6,San Antonio,San Antonio,29.4658,-98.5254,United States,US,USA,Texas,Unknown,2002530,mobility,better governance ,1
+172.217.12.163-10.42.0.42-443-48160-6,Port-au-Prince,Port-au-Prince,18.541,-72.336,Haiti,HT,HTI,Ouest,primary,1998000,building performance ,better transportation system ,0
+220.181.7.190-10.42.0.211-443-33887-6,Haiphong,Haiphong,20.83,106.6801,Vietnam,VN,VNM,Hải Phòng,admin,1969000,street furniture management,smart healthcare system ,1
+10.42.0.151-10.42.0.1-40169-53-17,Suzhou,Suzhou,33.6361,116.9789,China,CN,CHN,Anhui,Unknown,1964000,street furniture management,better governance ,0
+202.77.129.230-10.42.0.151-80-58558-6,Nanyang,Nanyang,33.0004,112.53,China,CN,CHN,Henan,Unknown,1944000,waste disposal ,better transportation system ,1
+172.217.10.46-10.42.0.151-443-41375-6,Bucharest,Bucharest,44.4334,26.0999,Romania,RO,ROU,Bucureşti,primary,1942000,mobility,better surveillance for security ,0
+157.240.2.36-10.42.0.211-443-32813-6,Ningbo,Ningbo,29.88,121.55,China,CN,CHN,Zhejiang,minor,1923000,building performance ,smart infrastructure ,1
+10.42.0.151-10.42.0.1-12291-53-17,Douala,Douala,4.0604,9.71,Cameroon,CM,CMR,Littoral,admin,1906000,street furniture management,better job opportunities,1
+156.154.200.36-10.42.0.211-443-36404-6,Tangshan,Tangshan,39.6243,118.1944,China,CN,CHN,Hebei,Unknown,1879000,building performance ,better governance ,0
+10.42.0.1-10.42.0.42-53-35050-17,Tainan,Tainan,23,120.2,Taiwan,TW,TWN,Tainan,admin,1876312,street furniture management,better transportation system ,0
+162.208.22.39-10.42.0.211-443-57667-6,Xiping,Xiping,40.08,113.3,China,CN,CHN,Shanxi,minor,1873000,waste disposal ,better surveillance for security ,0
+180.149.136.194-10.42.0.211-80-52226-6,Asunción,Asuncion,-25.2964,-57.6415,Paraguay,PY,PRY,Asunción,primary,1870000,mobility,smart infrastructure ,0
+10.42.0.211-77.234.44.199-51601-80-6,Saidu Sharif,Saidu Sharif,34.75,72.35,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,1860310,building performance ,better governance ,1
+10.42.0.151-119.146.74.33-41908-443-6,Brisbane,Brisbane,-27.455,153.0351,Australia,AU,AUS,Queensland,admin,1860000,street furniture management,better transportation system ,0
+10.42.0.151-104.244.43.99-50129-443-6,Rawalpindi,Rawalpindi,33.6,73.04,Pakistan,PK,PAK,Punjab,minor,1858000,building performance ,smart infrastructure ,0
+175.100.207.233-10.42.0.211-80-47310-6,Sacramento,Sacramento,38.5667,-121.4683,United States,US,USA,California,admin,1854698,street furniture management,smart healthcare system ,0
+10.42.0.211-54.192.36.221-37415-443-6,Beirut,Beirut,33.872,35.5097,Lebanon,LB,LBN,Beyrouth,primary,1846000,waste disposal ,better governance ,0
+157.240.3.19-10.42.0.211-443-35046-6,San Jose,San Jose,37.3021,-121.8489,United States,US,USA,California,Unknown,1821899,mobility,better transportation system ,1
+10.42.0.42-85.93.5.109-48953-80-6,Minsk,Minsk,53.9,27.5666,Belarus,BY,BLR,Minsk,primary,1805000,building performance ,better surveillance for security ,0
+10.42.0.151-69.147.82.60-56405-443-6,Kyōto,Kyoto,35.03,135.75,Japan,JP,JPN,Kyōto,admin,1805000,street furniture management,smart infrastructure ,0
+10.42.0.211-64.71.142.96-53660-443-6,Barranquilla,Barranquilla,10.96,-74.8,Colombia,CO,COL,Atlántico,admin,1798000,waste disposal ,better job opportunities,0
+10.42.0.42-14.29.93.243-52857-80-6,Orlando,Orlando,28.4772,-81.3369,United States,US,USA,Florida,Unknown,1776841,mobility,better governance ,0
+172.217.3.106-10.42.0.42-443-60131-6,Shuyangzha,Shuyangzha,34.1299,118.7734,China,CN,CHN,Jiangsu,Unknown,1770000,building performance ,better transportation system ,0
+183.3.235.80-10.42.0.151-80-40065-6,Valencia,Valencia,10.23,-67.98,Venezuela,VE,VEN,Carabobo,admin,1770000,street furniture management,smart healthcare system ,1
+172.217.3.106-10.42.0.211-443-60594-6,Hamburg,Hamburg,53.55,10,Germany,DE,DEU,Hamburg,admin,1757000,building performance ,better governance ,1
+10.42.0.211-23.203.49.224-36526-443-6,Vadodara,Vadodara,22.31,73.18,India,IN,IND,Gujarāt,Unknown,1756000,street furniture management,better transportation system ,1
+10.42.0.211-23.46.197.118-41352-443-6,Manaus,Manaus,-3.1,-60,Brazil,BR,BRA,Amazonas,admin,1753000,waste disposal ,better surveillance for security ,0
+203.205.158.61-10.42.0.211-80-60014-6,Shangqiu,Shangqiu,34.4504,115.65,China,CN,CHN,Henan,Unknown,1753000,mobility,smart infrastructure ,1
+10.42.0.151-23.66.240.213-55027-80-6,Wuxi,Wuxi,31.58,120.3,China,CN,CHN,Jiangsu,minor,1749000,building performance ,better job opportunities,0
+172.217.12.174-10.42.0.211-443-35221-6,Palembang,Palembang,-2.98,104.75,Indonesia,ID,IDN,Sumatera Selatan,admin,1749000,street furniture management,better governance ,1
+216.58.219.228-10.42.0.211-443-54688-6,Brussels,Brussels,50.8333,4.3333,Belgium,BE,BEL,Brussels-Capital Region,primary,1743000,building performance ,better transportation system ,0
+8.0.6.4-8.6.0.1-0-0-0,Essen,Essen,51.45,7.0166,Germany,DE,DEU,North Rhine-Westphalia,minor,1742135,street furniture management,better surveillance for security ,0
+172.217.10.35-10.42.0.211-80-39600-6,Cleveland,Cleveland,41.4767,-81.6805,United States,US,USA,Ohio,Unknown,1730363,waste disposal ,smart infrastructure ,0
+10.42.0.151-10.42.0.1-4179-53-17,Bhopal,Bhopal,23.25,77.41,India,IN,IND,Madhya Pradesh,admin,1727000,mobility,better governance ,1
+10.42.0.42-23.208.87.120-57700-80-6,Hohhot,Hohhot,40.82,111.66,China,CN,CHN,Inner Mongolia,admin,1726000,building performance ,better transportation system ,0
+10.42.0.42-66.198.24.253-57711-443-6,Pittsburgh,Pittsburgh,40.4396,-79.9763,United States,US,USA,Pennsylvania,Unknown,1715297,street furniture management,smart infrastructure ,1
+10.42.0.211-52.84.37.172-40018-443-6,Luoyang,Luoyang,34.68,112.4701,China,CN,CHN,Henan,Unknown,1715000,building performance ,smart healthcare system ,0
+10.42.0.151-112.90.74.178-48648-80-6,Santos,Santos,-23.9537,-46.3329,Brazil,BR,BRA,São Paulo,Unknown,1709000,street furniture management,better governance ,1
+10.42.0.211-52.84.40.205-47600-443-6,Jingling,Jingling,30.6501,113.16,China,CN,CHN,Hubei,Unknown,1708000,street furniture management,better surveillance for security ,0
+10.42.0.151-23.194.140.73-46795-443-6,Warsaw,Warsaw,52.25,21,Poland,PL,POL,Mazowieckie,primary,1707000,waste disposal ,smart infrastructure ,0
+182.22.31.252-10.42.0.151-443-50779-6,Rabat,Rabat,34.0253,-6.8361,Morocco,MA,MAR,Rabat-Salé-Kénitra,primary,1705000,mobility,better job opportunities,0
+10.42.0.151-10.42.0.1-16886-53-17,Vitória,Vitoria,-20.324,-40.366,Brazil,BR,BRA,Espírito Santo,admin,1704000,building performance ,better governance ,0
+172.217.12.170-10.42.0.211-443-41214-6,Quito,Quito,-0.215,-78.5001,Ecuador,EC,ECU,Pichincha,primary,1701000,street furniture management,better transportation system ,0
+10.42.0.211-64.71.142.124-55657-443-6,Antananarivo,Antananarivo,-18.9166,47.5166,Madagascar,MG,MDG,Antananarivo,primary,1697000,building performance ,better surveillance for security ,0
+172.217.11.14-10.42.0.211-443-55117-6,Coimbatore,Coimbatore,11,76.95,India,IN,IND,Tamil Nādu ,Unknown,1696000,street furniture management,smart infrastructure ,1
+10.42.0.42-58.220.11.230-52223-80-6,Daqing,Daqing,46.58,125,China,CN,CHN,Heilongjiang,Unknown,1693000,waste disposal ,better governance ,1
+202.77.129.150-10.42.0.151-80-51631-6,Lu’an,Lu'an,31.7503,116.48,China,CN,CHN,Anhui,minor,1690000,mobility,better transportation system ,1
+175.100.207.231-10.42.0.211-80-55879-6,Sanzhou,Sanzhou,30.82,108.4,China,CN,CHN,Chongqing,Unknown,1680000,building performance ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-16906-53-17,Budapest,Budapest,47.5,19.0833,Hungary,HU,HUN,Budapest,primary,1679000,street furniture management,smart infrastructure ,0
+10.42.0.1-10.42.0.42-53-16788-17,Turin,Turin,45.0704,7.67,Italy,IT,ITA,Piedmont,admin,1652000,building performance ,smart healthcare system ,0
+10.42.0.211-114.134.80.163-57192-443-6,Suzhou,Suzhou,31.3005,120.62,China,CN,CHN,Jiangsu,minor,1650000,street furniture management,better governance ,1
+10.42.0.211-31.13.69.195-56545-443-6,Ludhiāna,Ludhiana,30.9278,75.8723,India,IN,IND,Punjab,Unknown,1649000,waste disposal ,better transportation system ,1
+10.42.0.42-111.206.25.159-46340-80-6,Cincinnati,Cincinnati,39.1412,-84.506,United States,US,USA,Ohio,Unknown,1648254,mobility,better surveillance for security ,0
+172.217.12.163-10.42.0.211-443-44040-6,Kumasi,Kumasi,6.69,-1.63,Ghana,GH,GHA,Ashanti,admin,1646000,building performance ,smart infrastructure ,0
+208.80.154.224-10.42.0.211-443-47231-6,Manhattan,Manhattan,40.7834,-73.9662,United States,US,USA,New York,Unknown,1643734,street furniture management,better job opportunities,0
+10.42.0.211-121.12.98.62-41147-80-6,Qiqihar,Qiqihar,47.345,123.99,China,CN,CHN,Heilongjiang,minor,1641000,street furniture management,better governance ,0
+10.42.0.211-123.125.46.161-49632-80-6,Anshan,Anshan,41.115,122.94,China,CN,CHN,Liaoning,Unknown,1639000,waste disposal ,better transportation system ,0
+172.217.12.206-10.42.0.151-443-37160-6,Austin,Austin,30.3006,-97.7517,United States,US,USA,Texas,admin,1638716,mobility,better surveillance for security ,0
+157.240.18.36-10.42.0.42-443-56022-6,Zhongli,Zhongli,24.965,121.2168,Taiwan,TW,TWN,Taoyuan,Unknown,1632616,building performance ,smart infrastructure ,1
+172.217.10.227-10.42.0.211-443-40737-6,Handan,Handan,36.58,114.48,China,CN,CHN,Hebei,Unknown,1631000,street furniture management,better governance ,1
+10.42.0.211-119.146.74.33-50805-443-6,Tai’an,Tai'an,36.2,117.1201,China,CN,CHN,Shandong,Unknown,1629000,building performance ,better transportation system ,1
+216.58.219.227-10.42.0.151-443-38221-6,Eşfahān,Esfahan,32.7,51.7,Iran,IR,IRN,Eşfahān,admin,1628000,street furniture management,better surveillance for security ,0
+10.42.0.211-10.42.0.1-55671-53-17,Kansas City,Kansas City,39.1239,-94.5541,United States,US,USA,Missouri,Unknown,1615621,waste disposal ,smart infrastructure ,0
+172.217.11.14-10.42.0.151-443-54822-6,Yaoundé,Yaounde,3.8667,11.5167,Cameroon,CM,CMR,Centre,primary,1611000,mobility,smart healthcare system ,0
+172.217.10.78-10.42.0.151-443-42200-6,Shantou,Shantou,23.37,116.67,China,CN,CHN,Guangdong,minor,1601000,building performance ,better governance ,1
+10.42.0.211-104.254.66.16-47478-80-6,Āgra,Agra,27.1704,78.015,India,IN,IND,Uttar Pradesh,Unknown,1592000,street furniture management,better transportation system ,1
+206.126.112.141-10.42.0.151-443-37248-6,Zhanjiang,Zhanjiang,21.2,110.38,China,CN,CHN,Guangdong,minor,1590000,building performance ,better surveillance for security ,0
+10.42.0.211-36.110.210.167-55476-80-6,La Paz,La Paz,-16.498,-68.15,Bolivia,BO,BOL,La Paz,primary,1590000,street furniture management,smart infrastructure ,1
+10.42.0.211-106.39.169.66-51882-80-6,Kalyān,Kalyan,19.2502,73.1602,India,IN,IND,Mahārāshtra,Unknown,1576614,waste disposal ,better job opportunities,0
+10.42.0.211-104.43.254.159-54229-443-6,Abuja,Abuja,9.0833,7.5333,Nigeria,NG,NGA,Federal Capital Territory,primary,1576000,mobility,better governance ,0
+172.217.10.106-10.42.0.42-443-49651-6,Harare,Harare,-17.8178,31.0447,Zimbabwe,ZW,ZWE,Harare,primary,1572000,waste disposal ,better transportation system ,0
+172.217.12.170-10.42.0.211-443-33885-6,Indianapolis,Indianapolis,39.7771,-86.1458,United States,US,USA,Indiana,admin,1564699,mobility,better surveillance for security ,0
+10.42.0.211-23.203.49.224-39841-443-6,Xiantao,Xiantao,30.3704,113.44,China,CN,CHN,Hubei,Unknown,1556000,building performance ,smart infrastructure ,1
+10.42.0.211-23.206.166.62-42575-80-6,Khulna,Khulna,22.84,89.56,Bangladesh,BD,BGD,Khulna,admin,1553000,street furniture management,better governance ,0
+10.42.0.151-10.42.0.1-3790-53-17,Weifang,Weifang,36.7204,119.1001,China,CN,CHN,Shandong,Unknown,1553000,building performance ,better transportation system ,1
+10.42.0.151-76.13.28.70-33298-443-6,Tijuana,Tijuana,32.5,-117.08,Mexico,MX,MEX,Baja California,minor,1553000,street furniture management,better surveillance for security ,0
+10.42.0.42-104.97.95.172-57436-80-6,Santiago,Santiago,19.5,-70.67,Dominican Republic,DO,DOM,Cibao Norte,admin,1550753,waste disposal ,smart infrastructure ,0
+172.217.10.142-10.42.0.42-443-60830-6,Xinyang,Xinyang,32.1304,114.07,China,CN,CHN,Henan,Unknown,1541000,mobility,smart infrastructure ,1
+10.42.0.211-54.192.38.154-53341-443-6,Luzhou,Luzhou,28.88,105.38,China,CN,CHN,Sichuan,minor,1537000,building performance ,smart healthcare system ,0
+10.42.0.211-64.71.142.95-42886-443-6,Perth,Perth,-31.955,115.84,Australia,AU,AUS,Western Australia,admin,1532000,street furniture management,better governance ,1
+172.217.6.234-10.42.0.151-443-49966-6,Toluca,Toluca,19.3304,-99.67,Mexico,MX,MEX,México,admin,1531000,building performance ,better transportation system ,0
+140.205.172.65-10.42.0.211-443-57261-6,Vishākhapatnam,Vishakhapatnam,17.73,83.305,India,IN,IND,Andhra Pradesh,Unknown,1529000,street furniture management,better surveillance for security ,0
+10.42.0.42-123.125.115.164-53676-443-6,Leeds,Leeds,53.83,-1.58,United Kingdom,GB,GBR,Leeds,admin,1529000,waste disposal ,smart infrastructure ,0
+202.77.129.185-10.42.0.211-80-45813-6,Kōbe,Kobe,34.68,135.17,Japan,JP,JPN,Hyōgo,admin,1528478,mobility,better job opportunities,1
+203.130.53.126-10.42.0.211-80-38980-6,Columbus,Columbus,39.986,-82.9851,United States,US,USA,Ohio,admin,1528314,building performance ,better governance ,0
+172.217.9.227-10.42.0.211-80-45047-6,Multan,Multan,30.2,71.455,Pakistan,PK,PAK,Punjab,minor,1522000,street furniture management,better transportation system ,1
+172.217.12.196-10.42.0.211-443-49324-6,Kochi,Kochi,10.015,76.2239,India,IN,IND,Kerala,Unknown,1519000,building performance ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-64029-53-17,Montevideo,Montevideo,-34.858,-56.1711,Uruguay,UY,URY,Montevideo,primary,1513000,street furniture management,smart infrastructure ,1
+172.217.11.46-10.42.0.151-443-58290-6,Gujranwala,Gujranwala,32.1604,74.185,Pakistan,PK,PAK,Punjab,minor,1513000,street furniture management,better governance ,0
+10.42.0.151-66.102.255.61-38991-80-6,Niterói,Niteroi,-22.9,-43.1,Brazil,BR,BRA,Rio de Janeiro,Unknown,1500513,waste disposal ,better transportation system ,1
+10.42.0.151-31.13.71.7-59286-443-6,Ganzhou,Ganzhou,25.92,114.95,China,CN,CHN,Jiangxi,minor,1500000,mobility,smart infrastructure ,0
+10.42.0.211-58.63.236.212-42038-443-6,Florence,Florence,43.78,11.25,Italy,IT,ITA,Tuscany,admin,1500000,building performance ,smart healthcare system ,1
+10.42.0.1-10.42.0.42-53-2400-17,Liuzhou,Liuzhou,24.28,109.25,China,CN,CHN,Guangxi,minor,1497000,street furniture management,better governance ,0
+10.42.0.42-42.236.125.112-33516-80-6,Bamako,Bamako,12.65,-8,Mali,ML,MLI,Bamako,primary,1494000,building performance ,better transportation system ,1
+10.42.0.42-64.71.142.96-41141-443-6,Conakry,Conakry,9.5315,-13.6802,Guinea,GN,GIN,Conakry,primary,1494000,street furniture management,better surveillance for security ,0
+10.42.0.1-10.42.0.42-53-19260-17,Bursa,Bursa,40.2,29.07,Turkey,TR,TUR,Bursa,admin,1492000,waste disposal ,smart infrastructure ,1
+222.73.28.96-10.42.0.211-80-58375-6,León de los Aldama,Leon de los Aldama,21.15,-101.7,Mexico,MX,MEX,Guanajuato,minor,1488000,mobility,better job opportunities,0
+205.204.101.182-10.42.0.211-443-49143-6,Virginia Beach,Virginia Beach,36.7335,-76.0435,United States,US,USA,Virginia,Unknown,1480383,building performance ,better governance ,1
+10.42.0.151-10.42.0.1-16011-53-17,Nāsik,Nasik,20.0004,73.78,India,IN,IND,Mahārāshtra,Unknown,1473000,street furniture management,better transportation system ,0
+219.142.78.162-10.42.0.151-80-54618-6,Fushun,Fushun,41.8654,123.87,China,CN,CHN,Liaoning,Unknown,1470000,building performance ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-58071-53-17,Changde,Changde,29.03,111.68,China,CN,CHN,Hunan,minor,1469000,street furniture management,smart infrastructure ,0
+10.42.0.151-10.42.0.1-6793-53-17,Daejeon,Daejeon,36.3355,127.425,"Korea, South",KR,KOR,Daejeon,admin,1468000,waste disposal ,better governance ,1
+172.217.3.110-10.42.0.151-443-56652-6,Charlotte,Charlotte,35.2079,-80.8304,United States,US,USA,North Carolina,Unknown,1467362,mobility,better transportation system ,0
+10.42.0.42-123.125.29.220-49199-80-6,Phnom Penh,Phnom Penh,11.55,104.9166,Cambodia,KH,KHM,Phnom Penh,primary,1466000,building performance ,smart healthcare system ,0
+10.42.0.211-23.203.49.224-42376-443-6,Neijiang,Neijiang,29.5804,105.05,China,CN,CHN,Sichuan,minor,1466000,street furniture management,better governance ,0
+10.42.0.151-98.139.199.205-36368-443-6,Quanzhou,Quanzhou,24.9,118.58,China,CN,CHN,Fujian,minor,1463000,street furniture management,better transportation system ,0
+220.243.219.55-10.42.0.42-80-59608-6,Kharkiv,Kharkiv,50,36.25,Ukraine,UA,UKR,Kharkivs’ka Oblast’,admin,1461000,waste disposal ,better surveillance for security ,0
+220.243.219.55-10.42.0.211-80-55151-6,Hyderabad City,Hyderabad City,25.38,68.375,Pakistan,PK,PAK,Sindh,Unknown,1459000,mobility,smart infrastructure ,0
+10.42.0.211-64.71.142.125-58549-443-6,Bronx,Bronx,40.8501,-73.8662,United States,US,USA,New York,Unknown,1455720,building performance ,better job opportunities,0
+209.85.201.188-10.42.0.151-5228-53409-6,Lomé,Lome,6.1319,1.2228,Togo,TG,TGO,Maritime,primary,1452000,street furniture management,better governance ,0
+180.76.147.97-10.42.0.211-80-60005-6,Córdoba,Cordoba,-31.4,-64.1823,Argentina,AR,ARG,Córdoba,admin,1452000,building performance ,better transportation system ,0
+8.0.6.4-8.6.0.1-0-0-0,Huainan,Huainan,32.63,116.98,China,CN,CHN,Anhui,Unknown,1451000,street furniture management,better surveillance for security ,0
+10.42.0.42-40.127.169.165-59453-443-6,Doha,Doha,25.2866,51.533,Qatar,QA,QAT,Ad Dawḩah,primary,1450000,waste disposal ,smart infrastructure ,1
+10.42.0.151-114.134.80.163-35156-443-6,Kuala Lumpur,Kuala Lumpur,3.1667,101.7,Malaysia,MY,MYS,Kuala Lumpur ,primary,1448000,mobility,better governance ,0
+10.42.0.151-103.7.30.118-56203-80-6,Maputo,Maputo,-25.9553,32.5892,Mozambique,MZ,MOZ,Maputo,primary,1446000,building performance ,better transportation system ,0
+206.126.112.141-10.42.0.42-443-40754-6,Kaduna,Kaduna,10.52,7.44,Nigeria,NG,NGA,Kaduna,admin,1442000,street furniture management,smart infrastructure ,0
+10.42.0.151-10.42.0.1-13923-53-17,Gwangju,Gwangju,35.171,126.9104,"Korea, South",KR,KOR,Gwangju,admin,1440000,building performance ,smart healthcare system ,0
+8.0.6.4-8.6.0.1-0-0-0,Kawanakajima,Kawanakajima,35.53,139.705,Japan,JP,JPN,Kanagawa,Unknown,1437266,street furniture management,better governance ,1
+203.205.151.213-10.42.0.151-8080-38720-6,San Salvador,San Salvador,13.71,-89.203,El Salvador,SV,SLV,San Salvador,primary,1433000,waste disposal ,better transportation system ,1
+180.149.134.221-10.42.0.211-80-45965-6,Suining,Suining,30.5333,105.5333,China,CN,CHN,Sichuan,minor,1425000,mobility,better surveillance for security ,0
+10.42.0.1-10.42.0.42-53-59051-17,Lyon,Lyon,45.77,4.83,France,FR,FRA,Auvergne-Rhône-Alpes,admin,1423000,waste disposal ,smart infrastructure ,0
+10.42.0.1-10.42.0.42-53-63423-17,Karaj,Karaj,35.8004,50.97,Iran,IR,IRN,Alborz,admin,1423000,mobility,better job opportunities,1
+180.149.153.234-10.42.0.151-80-44857-6,Kampala,Kampala,0.3167,32.5833,Uganda,UG,UGA,Kampala,primary,1420000,building performance ,better governance ,0
+10.42.0.211-10.42.0.1-40858-53-17,Tabrīz,Tabriz,38.0863,46.3012,Iran,IR,IRN,Āz̄arbāyjān-e Sharqī,admin,1413000,street furniture management,better transportation system ,1
+10.42.0.211-10.42.0.1-51704-53-17,The Hague,The Hague,52.08,4.27,Netherlands,NL,NLD,Zuid-Holland,primary,1406000,building performance ,smart healthcare system ,0
+239.255.255.250-10.42.0.42-1900-57206-17,Davao,Davao,7.11,125.63,Philippines,PH,PHL,Davao,admin,1402000,street furniture management,better governance ,1
+172.217.3.35-10.42.0.42-443-47404-6,Marseille,Marseille,43.29,5.375,France,FR,FRA,Provence-Alpes-Côte d’Azur,admin,1400000,waste disposal ,better transportation system ,0
+10.42.0.1-10.42.0.42-53-4524-17,Meerut,Meerut,29.0004,77.7,India,IN,IND,Uttar Pradesh,Unknown,1398000,mobility,better surveillance for security ,0
+182.22.25.252-10.42.0.211-443-57335-6,Mianyang,Mianyang,31.47,104.77,China,CN,CHN,Sichuan,minor,1396000,building performance ,smart infrastructure ,0
+144.2.1.1-10.42.0.211-80-55371-6,Semarang,Semarang,-6.9666,110.42,Indonesia,ID,IDN,Jawa Tengah,admin,1396000,street furniture management,better job opportunities,1
+180.76.150.180-10.42.0.211-80-39052-6,Farīdābād,Faridabad,28.4333,77.3167,India,IN,IND,Haryāna,Unknown,1394000,building performance ,better governance ,0
+157.240.2.20-10.42.0.211-443-56466-6,Novosibirsk,Novosibirsk,55.03,82.96,Russia,RU,RUS,Novosibirskaya Oblast’,admin,1389000,street furniture management,better transportation system ,1
+172.217.6.234-10.42.0.211-443-55425-6,Mecca,Mecca,21.43,39.82,Saudi Arabia,SA,SAU,Makkah al Mukarramah,admin,1385000,waste disposal ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-59543-53-17,Dubai,Dubai,25.23,55.28,United Arab Emirates,AE,ARE,Dubayy,admin,1379000,mobility,smart infrastructure ,0
+203.205.151.212-10.42.0.151-80-47360-6,Milwaukee,Milwaukee,43.0642,-87.9673,United States,US,USA,Wisconsin,Unknown,1377808,building performance ,better governance ,0
+172.217.3.99-10.42.0.151-443-59517-6,Auckland,Auckland,-36.8481,174.763,New Zealand,NZ,NZL,Auckland,admin,1377200,street furniture management,better transportation system ,0
+10.42.0.151-23.208.147.183-48883-443-6,Ma’anshan,Ma'anshan,31.7304,118.48,China,CN,CHN,Anhui,minor,1366302,building performance ,smart infrastructure ,0
+10.42.0.211-119.6.229.36-42096-80-6,Brazzaville,Brazzaville,-4.2592,15.2847,Congo (Brazzaville),CG,COG,Brazzaville,primary,1355000,street furniture management,smart healthcare system ,1
+239.255.255.250-10.42.0.151-1900-58127-17,Yiyang,Yiyang,28.6004,112.33,China,CN,CHN,Hunan,Unknown,1352000,street furniture management,better governance ,1
+10.42.0.211-77.234.42.92-57427-443-6,Vārānasi,Varanasi,25.33,83,India,IN,IND,Uttar Pradesh,Unknown,1352000,waste disposal ,better transportation system ,1
+175.100.207.232-10.42.0.211-80-46722-6,Lubumbashi,Lubumbashi,-11.68,27.48,Congo (Kinshasa),CD,COD,Haut-Katanga,admin,1352000,mobility,better surveillance for security ,0
+10.42.0.211-115.239.210.141-58262-443-6,Juárez,Juarez,31.6904,-106.49,Mexico,MX,MEX,Chihuahua,minor,1343000,street furniture management,smart infrastructure ,0
+10.42.0.211-77.234.44.79-52881-443-6,Ghāziābād,Ghaziabad,28.6604,77.4084,India,IN,IND,Uttar Pradesh,Unknown,1341000,building performance ,better job opportunities,0
+10.42.0.151-10.42.0.1-44769-53-17,Pretoria,Pretoria,-25.7069,28.2294,South Africa,ZA,ZAF,Gauteng,primary,1338000,street furniture management,better governance ,0
+206.108.0.131-10.42.0.211-123-51817-17,Heze,Heze,35.23,115.45,China,CN,CHN,Shandong,minor,1338000,waste disposal ,better transportation system ,1
+172.217.10.142-10.42.0.151-443-48214-6,Porto,Porto,41.15,-8.62,Portugal,PT,PRT,Porto,admin,1337000,mobility,smart healthcare system ,1
+157.240.0.17-10.42.0.211-443-47115-6,Āsansol,Asansol,23.6833,86.9833,India,IN,IND,West Bengal,Unknown,1328000,building performance ,better governance ,1
+182.22.120.231-10.42.0.151-443-35655-6,Lusaka,Lusaka,-15.4166,28.2833,Zambia,ZM,ZMB,Lusaka,primary,1328000,street furniture management,better transportation system ,0
+182.22.24.124-10.42.0.211-443-41764-6,Changzhou,Changzhou,31.78,119.97,China,CN,CHN,Jiangsu,minor,1327000,building performance ,better surveillance for security ,0
+172.217.6.200-10.42.0.211-443-41694-6,Mosul,Mosul,36.345,43.145,Iraq,IQ,IRQ,Nīnawá,admin,1316000,street furniture management,smart infrastructure ,0
+10.42.0.211-69.147.82.61-41649-443-6,Yekaterinburg,Yekaterinburg,56.85,60.6,Russia,RU,RUS,Sverdlovskaya Oblast’,admin,1313000,waste disposal ,better job opportunities,0
+10.42.0.211-23.206.166.62-41407-80-6,Peshawar,Peshawar,34.005,71.535,Pakistan,PK,PAK,Khyber Pakhtunkhwa,admin,1303000,mobility,better governance ,0
+10.42.0.211-106.11.30.199-36364-443-6,Mandalay,Mandalay,21.97,96.085,Burma,MM,MMR,Mandalay,admin,1300000,building performance ,better transportation system ,1
+172.217.10.106-10.42.0.211-443-59705-6,Jamshedpur,Jamshedpur,22.7875,86.1975,India,IN,IND,Jharkhand,Unknown,1300000,street furniture management,better surveillance for security ,0
+10.42.0.211-10.42.0.1-46221-53-17,Mbuji-Mayi,Mbuji-Mayi,-6.15,23.6,Congo (Kinshasa),CD,COD,Kasaï Oriental,admin,1295000,street furniture management,smart infrastructure ,1
+10.42.0.211-23.208.168.108-51833-443-6,Madura,Madura,9.92,78.12,India,IN,IND,Tamil Nādu ,Unknown,1294000,waste disposal ,better governance ,0
+203.205.158.62-10.42.0.151-80-53994-6,Adana,Adana,36.995,35.32,Turkey,TR,TUR,Adana,admin,1293000,mobility,better transportation system ,0
+180.149.153.234-10.42.0.211-80-53928-6,Sheffield,Sheffield,53.3667,-1.5,United Kingdom,GB,GBR,Sheffield,admin,1292900,building performance ,smart infrastructure ,0
+205.204.101.182-10.42.0.211-443-49824-6,Jabalpur,Jabalpur,23.1751,79.9551,India,IN,IND,Madhya Pradesh,Unknown,1285000,street furniture management,smart healthcare system ,1
+192.229.173.173-10.42.0.42-443-33619-6,San José,San Jose,9.935,-84.0841,Costa Rica,CR,CRI,San José,primary,1284000,building performance ,better governance ,1
+10.42.0.151-64.71.142.96-58074-80-6,Panama City,Panama City,8.968,-79.533,Panama,PA,PAN,Panamá,primary,1281000,street furniture management,better surveillance for security ,0
+10.42.0.211-104.193.88.109-37740-80-6,Nizhniy Novgorod,Nizhniy Novgorod,56.333,44.0001,Russia,RU,RUS,Nizhegorodskaya Oblast’,admin,1278000,waste disposal ,smart infrastructure ,1
+172.217.11.2-10.42.0.211-443-34919-6,Chifeng,Chifeng,42.27,118.95,China,CN,CHN,Inner Mongolia,minor,1277000,mobility,better job opportunities,0
+174.35.73.108-10.42.0.42-443-43146-6,Duisburg,Duisburg,51.43,6.75,Germany,DE,DEU,North Rhine-Westphalia,minor,1276757,building performance ,better governance ,0
+10.42.0.211-23.205.20.233-43570-80-6,Munich,Munich,48.1299,11.575,Germany,DE,DEU,Bavaria,admin,1275000,street furniture management,better transportation system ,0
+172.217.11.46-10.42.0.151-443-48949-6,Huaiyin,Huaiyin,33.58,119.03,China,CN,CHN,Jiangsu,Unknown,1264000,building performance ,better surveillance for security ,0
+10.42.0.211-77.234.42.92-51512-443-6,Stockholm,Stockholm,59.3508,18.0973,Sweden,SE,SWE,Stockholm,primary,1264000,street furniture management,smart infrastructure ,1
+10.42.0.151-52.84.142.16-47647-443-6,Makassar,Makassar,-5.14,119.432,Indonesia,ID,IDN,Sulawesi Selatan,admin,1262000,waste disposal ,better governance ,0
+172.217.10.237-10.42.0.42-443-59294-6,Rājkot,Rajkot,22.31,70.8,India,IN,IND,Gujarāt,Unknown,1260000,mobility,better transportation system ,1
+10.42.0.1-10.42.0.42-53-43407-17,Dhanbād,Dhanbad,23.8004,86.42,India,IN,IND,Jharkhand,Unknown,1246000,building performance ,better surveillance for security ,0
+10.42.0.151-54.192.38.7-43593-443-6,Mudanjiang,Mudanjiang,44.575,129.59,China,CN,CHN,Heilongjiang,minor,1244000,street furniture management,smart infrastructure ,1
+172.217.12.131-10.42.0.151-443-34781-6,Geneva,Geneva,46.21,6.14,Switzerland,CH,CHE,Genève,admin,1240000,waste disposal ,smart healthcare system ,0
+172.217.10.234-10.42.0.42-443-40909-6,Shīrāz,Shiraz,29.63,52.57,Iran,IR,IRN,Fārs,admin,1240000,mobility,better governance ,1
+174.36.210.41-10.42.0.211-5222-55916-6,Huzhou,Huzhou,30.8704,120.1,China,CN,CHN,Zhejiang,minor,1231000,building performance ,better transportation system ,1
+202.77.129.150-10.42.0.211-443-48302-6,Beidao,Beidao,34.6,105.92,China,CN,CHN,Gansu,minor,1225000,street furniture management,better surveillance for security ,0
+151.101.1.140-10.42.0.151-443-56909-6,Shuangshui,Shuangshui,26.5944,104.8333,China,CN,CHN,Guizhou,Unknown,1221000,building performance ,smart infrastructure ,0
+10.42.0.211-58.63.236.212-46649-443-6,Düsseldorf,Dusseldorf,51.2204,6.78,Germany,DE,DEU,North Rhine-Westphalia,admin,1220000,street furniture management,better job opportunities,0
+203.205.158.60-10.42.0.151-80-40687-6,Gaozhou,Gaozhou,21.9204,110.87,China,CN,CHN,Guangdong,Unknown,1217715,waste disposal ,better governance ,0
+10.42.0.211-95.213.11.133-33460-443-6,Sevilla,Sevilla,37.405,-5.98,Spain,ES,ESP,Andalusia,admin,1212045,mobility,better transportation system ,1
+10.42.0.211-106.11.92.16-55173-443-6,Amritsar,Amritsar,31.64,74.87,India,IN,IND,Punjab,Unknown,1212000,building performance ,better surveillance for security ,0
+172.217.3.98-10.42.0.211-443-34371-6,Vila Velha,Vila Velha,-20.3676,-40.318,Brazil,BR,BRA,Espírito Santo,Unknown,1209091,street furniture management,smart infrastructure ,0
+10.42.0.211-106.39.162.36-55111-80-6,Vila Velha,Vila Velha,3.2167,-51.2167,Brazil,BR,BRA,Amapá,Unknown,1209091,building performance ,better governance ,0
+8.8.8.8-10.42.0.211-53-32368-17,Almaty,Almaty,43.325,76.915,Kazakhstan,KZ,KAZ,Almaty,admin,1209000,street furniture management,better transportation system ,0
+10.42.0.211-10.42.0.1-23550-53-17,Providence,Providence,41.823,-71.4187,United States,US,USA,Rhode Island,admin,1206642,waste disposal ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-30749-53-17,Warangal,Warangal,18.01,79.58,India,IN,IND,Telangana,Unknown,1203853,mobility,smart infrastructure ,1
+169.47.42.102-10.42.0.211-443-57250-6,Rosario,Rosario,-32.9511,-60.6663,Argentina,AR,ARG,Santa Fe,minor,1203000,building performance ,smart healthcare system ,0
+202.77.129.150-10.42.0.211-80-34481-6,Allahābād,Allahabad,25.455,81.84,India,IN,IND,Uttar Pradesh,Unknown,1201000,street furniture management,better governance ,0
+10.42.0.211-10.42.0.1-7017-53-17,Benin City,Benin City,6.3405,5.62,Nigeria,NG,NGA,Edo,admin,1190000,building performance ,better transportation system ,0
+10.42.0.211-101.251.100.59-57972-9930-6,Jining,Jining,35.4004,116.55,China,CN,CHN,Shandong,Unknown,1186000,street furniture management,better surveillance for security ,0
+172.217.9.227-10.42.0.211-80-59919-6,Maceió,Maceio,-9.62,-35.73,Brazil,BR,BRA,Alagoas,admin,1186000,street furniture management,smart infrastructure ,1
+140.205.140.87-10.42.0.211-80-60932-6,Sofia,Sofia,42.6833,23.3167,Bulgaria,BG,BGR,Sofia-Grad,primary,1185000,waste disposal ,better job opportunities,1
+172.217.12.131-10.42.0.42-443-40747-6,Abbottabad,Abbottabad,34.1495,73.1995,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,1183647,mobility,better governance ,1
+10.42.0.151-31.13.71.52-55031-80-6,Benghazi,Benghazi,32.1167,20.0667,Libya,LY,LBY,Banghāzī,admin,1180000,building performance ,better transportation system ,0
+10.42.0.211-10.42.0.1-31723-53-17,Cilacap,Cilacap,-7.7188,109.0154,Indonesia,ID,IDN,Jawa Tengah,minor,1174964,street furniture management,better surveillance for security ,0
+172.217.3.99-10.42.0.211-443-51370-6,Prague,Prague,50.0833,14.466,Czechia,CZ,CZE,"Praha, Hlavní Město",primary,1162000,building performance ,smart infrastructure ,0
+172.217.10.68-10.42.0.151-443-36254-6,Glasgow,Glasgow,55.8744,-4.2507,United Kingdom,GB,GBR,Glasgow City,admin,1160000,street furniture management,better governance ,1
+10.42.0.211-95.154.220.116-34342-80-6,Leshan,Leshan,29.5671,103.7333,China,CN,CHN,Sichuan,Unknown,1157000,waste disposal ,better transportation system ,0
+10.42.0.211-77.234.44.200-51293-80-6,Jacksonville,Jacksonville,30.3322,-81.6749,United States,US,USA,Florida,Unknown,1156291,mobility,better surveillance for security ,0
+172.217.10.3-10.42.0.42-443-40122-6,Ouagadougou,Ouagadougou,12.3703,-1.5247,Burkina Faso,BF,BFA,Centre,primary,1149000,building performance ,smart infrastructure ,0
+10.42.0.211-123.125.29.220-55261-80-6,Ottawa,Ottawa,45.4167,-75.7,Canada,CA,CAN,Ontario,primary,1145000,street furniture management,smart infrastructure ,1
+202.77.129.230-10.42.0.42-80-36706-6,Adelaide,Adelaide,-34.935,138.6,Australia,AU,AUS,South Australia,admin,1145000,building performance ,smart healthcare system ,0
+172.217.10.234-10.42.0.151-443-60520-6,Shangrao,Shangrao,28.4704,117.97,China,CN,CHN,Jiangxi,minor,1144577,street furniture management,better governance ,1
+10.42.0.1-10.42.0.42-53-44491-17,Torreón,Torreon,25.5701,-103.42,Mexico,MX,MEX,Coahuila de Zaragoza,minor,1144000,waste disposal ,better transportation system ,0
+10.42.0.211-31.13.71.1-47432-443-6,Srīnagar,Srinagar,34.1,74.815,India,IN,IND,Jammu and Kashmīr,admin,1140000,mobility,better surveillance for security ,0
+10.42.0.42-61.135.185.139-58136-80-6,Bezwāda,Bezwada,16.52,80.63,India,IN,IND,Andhra Pradesh,Unknown,1137000,building performance ,smart infrastructure ,1
+10.42.0.151-31.13.71.3-60663-443-6,Samara,Samara,53.195,50.1513,Russia,RU,RUS,Samarskaya Oblast’,admin,1137000,street furniture management,better job opportunities,0
+8.0.6.4-8.6.0.1-0-0-0,Omsk,Omsk,54.99,73.4,Russia,RU,RUS,Omskaya Oblast’,admin,1135000,street furniture management,better governance ,0
+172.217.3.98-10.42.0.211-443-51317-6,Newcastle,Newcastle,-32.8453,151.815,Australia,AU,AUS,New South Wales,Unknown,1134616,waste disposal ,better transportation system ,0
+205.204.101.182-10.42.0.42-443-36814-6,Yulin,Yulin,22.63,110.15,China,CN,CHN,Guangxi,Unknown,1127000,mobility,better surveillance for security ,0
+198.11.189.2-10.42.0.151-443-41805-6,Namp’o,Namp'o,38.7669,125.4524,"Korea, North",KP,PRK,Unknown,admin,1127000,building performance ,smart infrastructure ,1
+203.205.158.66-10.42.0.211-443-53485-6,Xianyang,Xianyang,34.3456,108.7147,China,CN,CHN,Shaanxi,minor,1126000,street furniture management,better governance ,1
+10.42.0.211-23.208.168.108-49615-443-6,Cagayan de Oro,Cagayan de Oro,8.4508,124.6853,Philippines,PH,PHL,Cagayan de Oro,admin,1121561,building performance ,better transportation system ,1
+172.217.10.78-10.42.0.151-443-36652-6,Cần Thơ,Can Tho,10.05,105.77,Vietnam,VN,VNM,Cần Thơ,admin,1121000,street furniture management,smart infrastructure ,1
+10.42.0.211-106.39.162.36-53896-80-6,Barquisimeto,Barquisimeto,10.05,-69.3,Venezuela,VE,VEN,Lara,admin,1116000,waste disposal ,smart healthcare system ,0
+239.255.255.250-10.42.0.1-1900-56205-17,Helsinki,Helsinki,60.1756,24.9341,Finland,FI,FIN,Uusimaa,primary,1115000,mobility,better governance ,0
+10.42.0.211-66.198.24.224-59002-80-6,Kazan’,Kazan',55.7499,49.1263,Russia,RU,RUS,Tatarstan,admin,1115000,building performance ,better transportation system ,0
+206.126.112.142-10.42.0.151-443-51027-6,Aurangābād,Aurangabad,19.8957,75.3203,India,IN,IND,Mahārāshtra,Unknown,1113000,street furniture management,better surveillance for security ,0
+180.149.138.197-10.42.0.211-80-48624-6,Calgary,Calgary,51.083,-114.08,Canada,CA,CAN,Alberta,Unknown,1110000,building performance ,smart infrastructure ,1
+172.217.7.163-10.42.0.151-443-49709-6,Ciudad Nezahualcóyotl,Ciudad Nezahualcoyotl,19.41,-99.03,Mexico,MX,MEX,México,Unknown,1109363,street furniture management,better job opportunities,1
+10.42.0.151-104.244.43.195-58057-443-6,Zürich,Zurich,47.38,8.55,Switzerland,CH,CHE,Zürich,admin,1108000,waste disposal ,better governance ,0
+10.42.0.211-10.42.0.1-48313-53-17,Baoding,Baoding,38.8704,115.48,China,CN,CHN,Hebei,Unknown,1107000,mobility,better transportation system ,0
+10.42.0.211-77.234.44.40-46926-80-6,Zigong,Zigong,29.4,104.78,China,CN,CHN,Sichuan,Unknown,1105000,waste disposal ,better surveillance for security ,0
+10.42.0.42-52.84.29.55-46491-443-6,Sharjah,Sharjah,25.3714,55.4065,United Arab Emirates,AE,ARE,Ash Shāriqah,admin,1103027,mobility,smart infrastructure ,0
+172.217.9.238-10.42.0.42-443-33455-6,Yerevan,Yerevan,40.1812,44.5136,Armenia,AM,ARM,Yerevan,primary,1102000,building performance ,better governance ,0
+10.42.0.151-10.42.0.1-33832-53-17,Mogadishu,Mogadishu,2.0667,45.3667,Somalia,SO,SOM,Banaadir,primary,1100000,street furniture management,better transportation system ,1
+10.42.0.211-10.42.0.1-25397-53-17,Tbilisi,Tbilisi,41.725,44.7908,Georgia,GE,GEO,Tbilisi,primary,1100000,building performance ,smart healthcare system ,1
+10.42.0.42-123.125.115.164-53516-443-6,Ankang,Ankang,32.68,109.02,China,CN,CHN,Shaanxi,Unknown,1100000,street furniture management,better governance ,1
+10.42.0.211-106.11.176.1-47894-443-6,Huambo,Huambo,-12.75,15.76,Angola,AO,AGO,Huambo,admin,1100000,waste disposal ,better transportation system ,0
+172.217.7.196-10.42.0.151-443-42712-6,Ikare,Ikare,7.5304,5.76,Nigeria,NG,NGA,Ondo,minor,1099931,mobility,better surveillance for security ,0
+172.217.10.74-10.42.0.42-443-47380-6,Belgrade,Belgrade,44.8186,20.468,Serbia,RS,SRB,Beograd,primary,1099000,building performance ,smart infrastructure ,0
+172.217.10.35-10.42.0.211-443-46472-6,Salt Lake City,Salt Lake City,40.7774,-111.93,United States,US,USA,Utah,admin,1098400,street furniture management,better job opportunities,1
+10.42.0.42-36.248.26.201-42248-80-6,Bhilai,Bhilai,21.2167,81.4333,India,IN,IND,Chhattīsgarh,Unknown,1097000,building performance ,better governance ,1
+8.0.6.4-8.6.0.1-0-0-0,Jinhua,Jinhua,29.12,119.65,China,CN,CHN,Zhejiang,minor,1092852,street furniture management,better transportation system ,1
+217.69.133.145-10.42.0.151-443-57440-6,Chelyabinsk,Chelyabinsk,55.155,61.4387,Russia,RU,RUS,Chelyabinskaya Oblast’,admin,1091000,waste disposal ,better surveillance for security ,0
+172.217.3.99-10.42.0.151-443-51157-17,Natal,Natal,-5.78,-35.24,Brazil,BR,BRA,Rio Grande do Norte,admin,1088000,mobility,smart infrastructure ,0
+172.217.3.99-10.42.0.151-443-39445-6,Dushanbe,Dushanbe,38.56,68.7739,Tajikistan,TJ,TJK,Dushanbe,primary,1086244,building performance ,better governance ,0
+173.222.142.156-10.42.0.211-80-36972-6,Copenhagen,Copenhagen,55.6786,12.5635,Denmark,DK,DNK,Hovedstaden,primary,1085000,street furniture management,better transportation system ,0
+182.22.31.252-10.42.0.211-443-54160-6,Changwon,Changwon,35.2191,128.5836,"Korea, South",KR,KOR,Gyeongnam,admin,1081499,building performance ,smart infrastructure ,1
+10.42.0.1-10.42.0.42-53-5589-17,Zhuzhou,Zhuzhou,27.83,113.15,China,CN,CHN,Hunan,minor,1080000,street furniture management,smart healthcare system ,1
+172.217.10.226-10.42.0.211-443-40200-6,Suwon,Suwon,37.2578,127.0109,"Korea, South",KR,KOR,Gyeonggi,admin,1078000,street furniture management,better governance ,0
+8.41.222.241-10.42.0.211-443-40412-6,Nashville,Nashville,36.1715,-86.7843,United States,US,USA,Tennessee,admin,1076645,waste disposal ,better transportation system ,1
+209.10.120.26-10.42.0.211-80-36254-6,Vereeniging,Vereeniging,-26.6496,27.96,South Africa,ZA,ZAF,Gauteng,Unknown,1074000,mobility,better surveillance for security ,0
+10.42.0.151-95.213.11.181-57463-80-6,Xiangyang,Xiangyang,32.02,112.13,China,CN,CHN,Hubei,minor,1069000,building performance ,smart infrastructure ,0
+10.42.0.211-14.17.42.57-43291-80-6,Memphis,Memphis,35.1046,-89.9773,United States,US,USA,Tennessee,Unknown,1068873,street furniture management,better job opportunities,1
+10.42.0.151-52.84.136.83-53163-443-6,Ulsan,Ulsan,35.5467,129.317,"Korea, South",KR,KOR,Ulsan,admin,1061000,building performance ,better governance ,0
+172.217.10.142-10.42.0.211-443-59473-6,Amman,Amman,31.95,35.9333,Jordan,JO,JOR,Al ‘Āşimah,primary,1060000,street furniture management,better transportation system ,1
+172.217.10.225-10.42.0.151-443-58325-6,Mizhou,Mizhou,35.99,119.3801,China,CN,CHN,Shandong,minor,1060000,waste disposal ,smart healthcare system ,0
+10.42.0.211-23.23.129.231-45964-443-6,Richmond,Richmond,37.5295,-77.4756,United States,US,USA,Virginia,admin,1059907,mobility,better governance ,1
+182.22.24.124-10.42.0.211-443-55195-6,Dublin,Dublin,53.3331,-6.2489,Ireland,IE,IRL,Dublin,primary,1059000,building performance ,better transportation system ,0
+10.42.0.211-10.42.0.1-59045-53-17,Edmonton,Edmonton,53.55,-113.5,Canada,CA,CAN,Alberta,admin,1058000,street furniture management,better surveillance for security ,0
+172.217.6.227-10.42.0.151-443-58711-6,Solāpur,Solapur,17.6704,75.9,India,IN,IND,Mahārāshtra,Unknown,1057000,building performance ,smart infrastructure ,0
+10.42.0.211-119.146.74.33-57570-443-6,Rostov-na-Donu,Rostov-na-Donu,47.2346,39.7127,Russia,RU,RUS,Rostovskaya Oblast’,admin,1052000,street furniture management,better job opportunities,1
+10.42.0.211-31.13.71.1-43953-443-6,Dnipro,Dnipro,48.48,35,Ukraine,UA,UKR,Dnipropetrovs’ka Oblast’,admin,1050000,waste disposal ,better governance ,0
+172.217.9.227-10.42.0.211-80-53475-6,Xining,Xining,36.62,101.77,China,CN,CHN,Qinghai,admin,1048000,mobility,better transportation system ,1
+10.42.0.211-10.42.0.1-3958-53-17,Zhangjiakou,Zhangjiakou,40.83,114.93,China,CN,CHN,Hebei,Unknown,1046000,building performance ,better surveillance for security ,0
+10.42.0.211-77.234.44.79-47870-443-6,Lille,Lille,50.65,3.08,France,FR,FRA,Hauts-de-France,admin,1044000,street furniture management,smart infrastructure ,1
+203.205.158.61-10.42.0.42-80-53995-6,Ranchi,Ranchi,23.37,85.33,India,IN,IND,Jharkhand,admin,1044000,street furniture management,better governance ,0
+10.42.0.211-54.243.161.28-60725-443-6,Gaziantep,Gaziantep,37.075,37.385,Turkey,TR,TUR,Gaziantep,admin,1044000,waste disposal ,better transportation system ,1
+10.42.0.151-31.13.71.37-46802-443-6,Monrovia,Monrovia,6.3106,-10.8048,Liberia,LR,LBR,Montserrado,primary,1041000,mobility,smart infrastructure ,0
+10.42.0.211-10.42.0.1-39454-53-17,São Luís,Sao Luis,-2.516,-44.266,Brazil,BR,BRA,Maranhão,admin,1038000,building performance ,smart healthcare system ,1
+192.229.173.173-10.42.0.42-80-41637-6,Amsterdam,Amsterdam,52.35,4.9166,Netherlands,NL,NLD,Noord-Holland,primary,1031000,street furniture management,better governance ,0
+10.42.0.1-10.42.0.42-53-54310-17,Jerusalem,Jerusalem,31.7784,35.2066,Israel,IL,ISR,Unknown,primary,1029300,building performance ,better transportation system ,1
+8.8.8.8-10.42.0.211-53-17618-17,New Orleans,New Orleans,30.0687,-89.9288,United States,US,USA,Louisiana,Unknown,1029123,street furniture management,better surveillance for security ,0
+172.217.10.68-10.42.0.151-443-43434-6,Guatemala City,Guatemala City,14.6211,-90.527,Guatemala,GT,GTM,Guatemala,primary,1024000,waste disposal ,smart infrastructure ,1
+10.42.0.211-36.51.254.232-40875-443-6,Zhuhai,Zhuhai,22.2769,113.5678,China,CN,CHN,Guangdong,minor,1023000,mobility,better job opportunities,0
+172.217.8.4-10.42.0.211-443-46057-6,Florianópolis,Florianopolis,-27.58,-48.52,Brazil,BR,BRA,Santa Catarina,admin,1023000,building performance ,better governance ,1
+10.42.0.211-119.146.74.49-38694-443-6,Port Elizabeth,Port Elizabeth,-33.97,25.6,South Africa,ZA,ZAF,Eastern Cape,Unknown,1021000,street furniture management,better transportation system ,0
+10.42.0.211-10.42.0.1-51235-53-17,Jiamusi,Jiamusi,46.83,130.35,China,CN,CHN,Heilongjiang,minor,1020000,building performance ,smart healthcare system ,1
+10.42.0.151-31.13.71.52-39123-443-6,Port Harcourt,Port Harcourt,4.81,7.01,Nigeria,NG,NGA,Rivers,admin,1020000,street furniture management,better governance ,0
+10.42.0.211-66.231.239.95-46097-443-6,Raleigh,Raleigh,35.8324,-78.6438,United States,US,USA,North Carolina,admin,1018336,waste disposal ,better transportation system ,0
+10.42.0.1-10.42.0.42-53-43802-17,Ufa,Ufa,54.79,56.04,Russia,RU,RUS,Bashkortostan,admin,1018000,mobility,better surveillance for security ,0
+10.42.0.211-10.42.0.1-38836-53-17,Hengyang,Hengyang,26.88,112.59,China,CN,CHN,Hunan,Unknown,1016000,waste disposal ,smart infrastructure ,0
+10.42.0.211-10.42.0.1-41689-53-17,Benxi,Benxi,41.3304,123.75,China,CN,CHN,Liaoning,Unknown,1012000,mobility,better job opportunities,1
+10.42.0.211-115.239.210.141-33504-443-6,Louisville,Louisville,38.1663,-85.6485,United States,US,USA,Kentucky,Unknown,1011696,building performance ,better governance ,1
+172.217.10.42-10.42.0.151-443-50352-6,Haifa,Haifa,32.8204,34.98,Israel,IL,ISR,Haifa,admin,1011000,street furniture management,better transportation system ,0
+10.42.0.211-52.84.29.134-44447-443-6,Medina,Medina,24.5,39.58,Saudi Arabia,SA,SAU,Al Madīnah al Munawwarah,admin,1010000,building performance ,better surveillance for security ,0
+206.126.112.141-10.42.0.42-443-40754-6,Bucaramanga,Bucaramanga,7.1301,-73.1259,Colombia,CO,COL,Santander,admin,1009000,street furniture management,smart infrastructure ,0
+173.222.150.38-10.42.0.211-443-46131-6,Maracay,Maracay,10.2469,-67.5958,Venezuela,VE,VEN,Aragua,admin,1007000,waste disposal ,better governance ,0
+183.79.249.252-10.42.0.211-443-37105-6,Rotterdam,Rotterdam,51.92,4.48,Netherlands,NL,NLD,Zuid-Holland,minor,1005000,mobility,better transportation system ,1
+184.50.111.246-10.42.0.151-443-53508-6,Homs,Homs,34.73,36.72,Syria,SY,SYR,Ḩimş,admin,1005000,building performance ,smart infrastructure ,1
+202.77.129.146-10.42.0.151-80-49656-6,Cologne,Cologne,50.93,6.95,Germany,DE,DEU,North Rhine-Westphalia,Unknown,1004000,street furniture management,smart healthcare system ,1
+203.205.158.44-10.42.0.151-80-39840-6,Qinhuangdao,Qinhuangdao,39.9304,119.62,China,CN,CHN,Hebei,Unknown,1003000,building performance ,better governance ,0
+172.217.10.234-10.42.0.151-443-32815-6,Fès,Fes,34.0546,-5.0004,Morocco,MA,MAR,Fès-Meknès,admin,1002000,street furniture management,better transportation system ,1
+10.42.0.151-52.70.125.189-40737-443-6,N’Djamena,N'Djamena,12.1131,15.0491,Chad,TD,TCD,Ville de N’Djaména,primary,989000,waste disposal ,better surveillance for security ,0
+10.42.0.151-52.84.29.137-39492-443-6,Tegucigalpa,Tegucigalpa,14.102,-87.2175,Honduras,HN,HND,Francisco Morazán,primary,946000,mobility,smart infrastructure ,1
+172.217.10.99-10.42.0.42-443-53814-6,Kingston,Kingston,17.9771,-76.7674,Jamaica,JM,JAM,Kingston,primary,937700,building performance ,better job opportunities,0
+172.217.12.194-10.42.0.211-443-45391-6,Nay Pyi Taw,Nay Pyi Taw,19.7666,96.1186,Burma,MM,MMR,Nay Pyi Taw,primary,930000,street furniture management,better governance ,1
+172.217.12.174-10.42.0.151-443-34240-6,Djibouti,Djibouti,11.595,43.148,Djibouti,DJ,DJI,Djibouti,primary,923000,building performance ,better transportation system ,0
+216.58.219.202-10.42.0.42-443-46439-6,Managua,Managua,12.153,-86.2685,Nicaragua,NI,NIC,Managua,primary,920000,street furniture management,better surveillance for security ,0
+172.217.10.3-10.42.0.151-443-35927-6,Niamey,Niamey,13.5167,2.1167,Niger,NE,NER,Niamey,primary,915000,street furniture management,smart infrastructure ,0
+172.217.12.206-10.42.0.151-443-41811-6,Tirana,Tirana,41.3275,19.8189,Albania,AL,ALB,Tiranë,primary,895350,waste disposal ,better job opportunities,1
+8.0.6.4-8.6.0.1-0-0-0,Kathmandu,Kathmandu,27.7167,85.3166,Nepal,NP,NPL,Bāgmatī,primary,895000,mobility,better governance ,0
+182.22.31.252-10.42.0.211-443-48485-6,Ulaanbaatar,Ulaanbaatar,47.9167,106.9166,Mongolia,MN,MNG,Ulaanbaatar,primary,885000,mobility,better transportation system ,1
+172.217.3.110-10.42.0.211-443-60421-6,Kigali,Kigali,-1.9536,30.0605,Rwanda,RW,RWA,Kigali,primary,860000,building performance ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-31065-53-17,Bishkek,Bishkek,42.8731,74.5852,Kyrgyzstan,KG,KGZ,Bishkek,primary,837000,street furniture management,smart infrastructure ,0
+172.217.12.206-10.42.0.42-443-35767-6,Oslo,Oslo,59.9167,10.75,Norway,NO,NOR,Oslo,primary,835000,building performance ,better governance ,0
+140.205.32.3-10.42.0.211-443-55083-6,Bangui,Bangui,4.3666,18.5583,Central African Republic,CF,CAF,Bangui,primary,831925,street furniture management,better transportation system ,0
+203.205.147.229-10.42.0.211-80-52309-6,Freetown,Freetown,8.47,-13.2342,Sierra Leone,SL,SLE,Western Area,primary,827000,waste disposal ,better surveillance for security ,0
+10.42.0.151-91.190.216.54-54248-12350-6,Islamabad,Islamabad,33.7,73.1666,Pakistan,PK,PAK,Islāmābād,primary,780000,mobility,smart infrastructure ,1
+10.42.0.211-104.244.43.35-41821-443-6,Cotonou,Cotonou,6.4,2.52,Benin,BJ,BEN,Littoral,primary,762000,building performance ,smart healthcare system ,1
+172.217.12.174-10.42.0.42-443-44753-6,Vientiane,Vientiane,17.9667,102.6,Laos,LA,LAO,Viangchan,primary,754000,street furniture management,better governance ,1
+10.42.0.211-23.77.88.53-43881-443-6,Riga,Riga,56.95,24.1,Latvia,LV,LVA,Rīga,primary,742572,building performance ,better transportation system ,1
+172.217.10.42-10.42.0.211-443-45534-6,Nouakchott,Nouakchott,18.0864,-15.9753,Mauritania,MR,MRT,Unknown,primary,742144,street furniture management,better surveillance for security ,0
+10.42.0.1-10.42.0.42-53-56346-17,Muscat,Muscat,23.6133,58.5933,Oman,OM,OMN,Masqaţ,primary,734697,waste disposal ,smart infrastructure ,0
+10.42.0.211-64.71.142.124-55658-443-6,Ashgabat,Ashgabat,37.95,58.3833,Turkmenistan,TM,TKM,Unknown,primary,727700,mobility,better job opportunities,0
+10.42.0.42-23.208.168.108-43192-443-6,Zagreb,Zagreb,45.8,16,Croatia,HR,HRV,"Zagreb, Grad",primary,722526,building performance ,better governance ,1
+10.42.0.211-10.42.0.1-43279-53-17,Sarajevo,Sarajevo,43.85,18.383,Bosnia And Herzegovina,BA,BIH,"Bosnia and Herzegovina, Federation of",primary,696731,street furniture management,better transportation system ,1
+10.42.0.211-74.6.105.13-46443-443-6,Chisinau,Chisinau,47.005,28.8577,Moldova,MD,MDA,Chişinău,primary,688134,street furniture management,better surveillance for security ,0
+172.217.11.38-10.42.0.211-443-56508-6,Lilongwe,Lilongwe,-13.9833,33.7833,Malawi,MW,MWI,Lilongwe,primary,646750,waste disposal ,smart infrastructure ,0
+203.205.158.62-10.42.0.151-80-37705-6,Asmara,Asmara,15.3333,38.9333,Eritrea,ER,ERI,Ma’ākel,primary,620802,mobility,better governance ,0
+172.217.6.206-10.42.0.151-443-45553-6,Abu Dhabi,Abu Dhabi,24.4667,54.3666,United Arab Emirates,AE,ARE,Abū Z̧aby,primary,603492,building performance ,better transportation system ,0
+10.42.0.211-47.88.66.107-52538-443-6,Port Louis,Port Louis,-20.1666,57.5,Mauritius,MU,MUS,Port Louis,primary,595491,street furniture management,better surveillance for security ,0
+192.229.163.180-10.42.0.151-443-46526-6,Libreville,Libreville,0.3854,9.458,Gabon,GA,GAB,Estuaire,primary,578156,building performance ,smart infrastructure ,0
+10.42.0.211-66.198.24.240-48285-80-6,Manama,Manama,26.2361,50.5831,Bahrain,BH,BHR,Al ‘Āşimah,primary,563920,street furniture management,smart healthcare system ,1
+209.10.120.26-10.42.0.211-80-34454-6,Vilnius,Vilnius,54.6834,25.3166,Lithuania,LT,LTU,Vilniaus Miestas,primary,542366,waste disposal ,better governance ,1
+172.217.11.33-10.42.0.42-443-52649-6,Skopje,Skopje,42,21.4335,Macedonia,MK,MKD,Skopje,primary,494087,mobility,better transportation system ,1
+172.217.3.110-10.42.0.211-443-33171-6,Bloemfontein,Bloemfontein,-29.12,26.2299,South Africa,ZA,ZAF,Free State,primary,463064,building performance ,better surveillance for security ,0
+172.217.10.131-10.42.0.42-443-55775-6,Bratislava,Bratislava,48.15,17.117,Slovakia,SK,SVK,Bratislavský,primary,423737,street furniture management,smart infrastructure ,0
+172.217.12.142-10.42.0.42-80-49005-6,Bissau,Bissau,11.865,-15.5984,Guinea-Bissau,GW,GNB,Bissau,primary,403339,building performance ,better job opportunities,0
+172.217.12.206-10.42.0.151-443-43494-6,Tallinn,Tallinn,59.4339,24.728,Estonia,EE,EST,Harjumaa,primary,394024,street furniture management,better governance ,1
+222.73.28.96-10.42.0.151-80-55805-6,Wellington,Wellington,-41.3,174.7833,New Zealand,NZ,NZL,Wellington,primary,393400,waste disposal ,better transportation system ,1
+10.42.0.151-10.42.0.1-9594-53-17,Valletta,Valletta,35.8997,14.5147,Malta,MT,MLT,Valletta,primary,368250,mobility,better surveillance for security ,0
+10.42.0.151-10.42.0.1-64887-53-17,Maseru,Maseru,-29.3167,27.4833,Lesotho,LS,LSO,Maseru,primary,361324,building performance ,smart infrastructure ,1
+10.42.0.211-69.147.82.60-39054-443-6,Nur-Sultan,Nur-Sultan,51.1811,71.4278,Kazakhstan,KZ,KAZ,Astana,primary,345604,street furniture management,better governance ,0
+10.42.0.151-76.13.28.196-53343-443-6,Bujumbura,Bujumbura,-3.3761,29.36,Burundi,BI,BDI,Bujumbura Mairie,primary,331700,waste disposal ,better transportation system ,0
+172.217.10.106-10.42.0.151-443-45984-6,Canberra,Canberra,-35.283,149.129,Australia,AU,AUS,Australian Capital Territory,primary,327700,mobility,better surveillance for security ,0
+182.254.5.234-10.42.0.151-80-34165-6,New Delhi,New Delhi,28.6,77.2,India,IN,IND,Delhi,primary,317797,building performance ,smart infrastructure ,1
+10.42.0.151-10.42.0.1-23829-53-17,Ljubljana,Ljubljana,46.0553,14.515,Slovenia,SI,SVN,Ljubljana,primary,314807,street furniture management,smart infrastructure ,1
+192.229.173.173-10.42.0.211-80-44480-6,Porto-Novo,Porto-Novo,6.4833,2.6166,Benin,BJ,BEN,Ouémé,primary,300000,building performance ,smart healthcare system ,0
+10.42.0.151-10.42.0.1-35001-53-17,Bandar Seri Begawan,Bandar Seri Begawan,4.8833,114.9333,Brunei,BN,BRN,Brunei and Muara,primary,296500,street furniture management,better governance ,1
+10.42.0.211-23.66.169.49-41289-80-6,Port of Spain,Port of Spain,10.652,-61.517,Trinidad And Tobago,TT,TTO,Port of Spain,primary,294934,waste disposal ,better transportation system ,0
+217.69.136.176-10.42.0.151-443-33474-6,Port Moresby,Port Moresby,-9.4647,147.1925,Papua New Guinea,PG,PNG,National Capital,primary,283733,mobility,better surveillance for security ,0
+10.42.0.211-10.42.0.1-14087-53-17,Bern,Bern,46.9167,7.467,Switzerland,CH,CHE,Bern,primary,275329,building performance ,smart infrastructure ,0
+180.76.152.13-10.42.0.151-80-51366-6,Windhoek,Windhoek,-22.57,17.0835,Namibia,NA,NAM,Khomas,primary,268132,street furniture management,better job opportunities,1
+10.42.0.211-10.42.0.1-42220-53-17,Georgetown,Georgetown,6.802,-58.167,Guyana,GY,GUY,Demerara-Mahaica,primary,264350,building performance ,better governance ,1
+172.217.10.3-10.42.0.151-443-36793-6,Paramaribo,Paramaribo,5.835,-55.167,Suriname,SR,SUR,Paramaribo,primary,254169,street furniture management,better transportation system ,0
+202.77.129.150-10.42.0.42-443-33853-6,Dili,Dili,-8.5594,125.5795,Timor-Leste,TL,TLS,Díli,primary,234331,waste disposal ,better surveillance for security ,0
+10.42.0.211-66.198.24.225-53466-443-6,Nassau,Nassau,25.0834,-77.35,"Bahamas, The",BS,BHS,Unknown,primary,227940,mobility,smart infrastructure ,0
+10.42.0.211-77.234.44.41-55258-80-6,Sucre,Sucre,-19.041,-65.2595,Bolivia,BO,BOL,Chuquisaca,primary,224838,building performance ,better governance ,0
+172.217.10.66-10.42.0.211-443-52234-6,Nicosia,Nicosia,35.1667,33.3666,Cyprus,CY,CYP,Lefkosía,primary,224300,street furniture management,better transportation system ,1
+157.240.2.25-10.42.0.211-443-57405-6,Dodoma,Dodoma,-6.1833,35.75,Tanzania,TZ,TZA,Dodoma,primary,218269,building performance ,smart infrastructure ,0
+216.58.219.202-10.42.0.211-443-39839-6,Colombo,Colombo,6.932,79.8578,Sri Lanka,LK,LKA,Western,primary,217000,street furniture management,smart healthcare system ,0
+183.79.250.123-10.42.0.42-80-37556-6,Gaborone,Gaborone,-24.6463,25.9119,Botswana,BW,BWA,Gaborone,primary,208411,street furniture management,better governance ,0
+10.42.0.151-72.21.206.141-36651-443-6,Yamoussoukro,Yamoussoukro,6.8184,-5.2755,Côte D’Ivoire,CI,CIV,Yamoussoukro,primary,206499,waste disposal ,better transportation system ,0
+157.240.18.15-10.42.0.211-443-58041-6,Bridgetown,Bridgetown,13.102,-59.6165,Barbados,BB,BRB,Saint Michael,primary,191152,mobility,better surveillance for security ,0
+216.58.219.195-10.42.0.42-443-42081-6,Suva,Suva,-18.133,178.4417,Fiji,FJ,FJI,Rewa,primary,175399,building performance ,smart infrastructure ,1
+10.42.0.211-10.42.0.1-12948-53-17,Reykjavík,Reykjavik,64.15,-21.95,Iceland,IS,ISL,Höfuðborgarsvæði,primary,166212,street furniture management,better job opportunities,0
+10.42.0.211-107.23.222.87-41864-80-6,Malabo,Malabo,3.75,8.7833,Equatorial Guinea,GQ,GNQ,Bioko Norte,primary,155963,building performance ,better governance ,0
+169.47.5.236-10.42.0.42-5222-52140-6,Willemstad,Willemstad,12.2004,-69.02,Curaçao,CW,CUW,Unknown,primary,146813,street furniture management,better transportation system ,0
+10.42.0.42-42.236.125.112-48503-80-6,Podgorica,Podgorica,42.466,19.2663,Montenegro,ME,MNE,Podgorica,primary,145850,waste disposal ,better surveillance for security ,0
+10.42.0.42-62.138.0.117-45174-80-6,Moroni,Moroni,-11.7042,43.2402,Comoros,KM,COM,Grande Comore,primary,128698,mobility,smart infrastructure ,1
+10.42.0.151-103.7.30.118-56209-80-6,Sri Jayewardenepura Kotte,Sri Jayewardenepura Kotte,6.9,79.95,Sri Lanka,LK,LKA,Western,primary,115826,building performance ,better governance ,1
+10.42.0.211-23.8.102.138-60486-443-6,Praia,Praia,14.9167,-23.5167,Cabo Verde,CV,CPV,Praia,primary,113364,street furniture management,better transportation system ,1
+162.208.22.39-10.42.0.211-443-49073-6,Male,Male,4.1667,73.4999,Maldives,MV,MDV,Maale,primary,112927,building performance ,smart healthcare system ,0
+172.217.9.234-10.42.0.42-443-38076-6,Juba,Juba,4.83,31.58,South Sudan,SS,SSD,Central Equatoria,primary,111975,street furniture management,better governance ,1
+10.42.0.211-10.42.0.1-34444-53-17,Luxembourg,Luxembourg,49.6117,6.13,Luxembourg,LU,LUX,Luxembourg,primary,107260,waste disposal ,better transportation system ,0
+10.42.0.151-10.42.0.1-6271-53-17,Thimphu,Thimphu,27.473,89.639,Bhutan,BT,BTN,Thimphu,primary,98676,mobility,better surveillance for security ,0
+10.42.0.151-23.208.168.108-54198-443-6,Mbabane,Mbabane,-26.3167,31.1333,Swaziland,SZ,SWZ,Hhohho,primary,90138,building performance ,smart infrastructure ,0
+10.42.0.151-10.42.0.1-26887-53-17,São Tomé,Sao Tome,0.3334,6.7333,Sao Tome And Principe,ST,STP,São Tomé,primary,88219,street furniture management,better job opportunities,1
+10.42.0.211-52.6.206.34-45352-443-6,Honiara,Honiara,-9.438,159.9498,Solomon Islands,SB,SLB,Honiara,primary,76328,street furniture management,better governance ,0
+10.42.0.151-10.42.0.1-45636-53-17,Oranjestad,Oranjestad,12.5304,-70.029,Aruba,AW,ABW,Unknown,primary,68775,waste disposal ,better transportation system ,1
+157.240.2.35-10.42.0.42-80-45534-6,Apia,Apia,-13.8415,-171.7386,Samoa,WS,WSM,Tuamasaga,primary,61916,mobility,better surveillance for security ,0
+220.181.7.190-10.42.0.42-443-40568-6,Andorra la Vella,Andorra la Vella,42.5,1.5165,Andorra,AD,AND,Andorra la Vella,primary,53998,building performance ,smart infrastructure ,1
+10.42.0.42-123.125.115.164-39500-443-6,Kingstown,Kingstown,13.1483,-61.2121,Saint Vincent And The Grenadines,VC,VCT,Saint George,primary,49485,street furniture management,better governance ,0
+10.42.0.211-10.42.0.1-27938-53-17,Port-Vila,Port-Vila,-17.7334,168.3166,Vanuatu,VU,VUT,Shefa,primary,44040,building performance ,better transportation system ,1
+203.90.242.126-10.42.0.211-80-56368-6,Banjul,Banjul,13.4539,-16.5917,"Gambia, The",GM,GMB,Banjul,primary,43094,street furniture management,smart infrastructure ,1
+172.217.10.42-10.42.0.211-443-54248-6,Nuku‘alofa,Nuku`alofa,-21.1385,-175.2206,Tonga,TO,TON,Tongatapu,primary,42620,waste disposal ,smart healthcare system ,0
+172.217.3.97-10.42.0.42-443-50689-6,Castries,Castries,14.002,-61,Saint Lucia,LC,LCA,Castries,primary,37963,mobility,better governance ,0
+202.77.129.150-10.42.0.211-80-35469-6,Monaco,Monaco,43.7396,7.4069,Monaco,MC,MCO,Unknown,primary,36371,building performance ,better transportation system ,0
+10.42.0.1-10.42.0.42-53-3474-17,Vaduz,Vaduz,47.1337,9.5167,Liechtenstein,LI,LIE,Vaduz,primary,36281,street furniture management,better surveillance for security ,0
+172.217.3.104-10.42.0.42-443-52092-6,Saint John’s,Saint John's,17.118,-61.85,Antigua And Barbuda,AG,ATG,Saint John,primary,35499,building performance ,smart infrastructure ,1
+10.42.0.151-31.13.80.52-57082-443-6,Saint George’s,Saint George's,12.0526,-61.7416,Grenada,GD,GRD,Saint George,primary,33734,street furniture management,better job opportunities,1
+174.35.73.77-10.42.0.211-80-50428-6,Victoria,Victoria,-4.6166,55.45,Seychelles,SC,SYC,Unknown,primary,33576,waste disposal ,better governance ,1
+172.217.12.174-10.42.0.151-443-34277-6,San Marino,San Marino,43.9172,12.4667,San Marino,SM,SMR,San Marino Città,primary,29579,mobility,better transportation system ,1
+10.42.0.211-77.234.44.199-54351-80-6,Tarawa,Tarawa,1.3382,173.0176,Kiribati,KI,KIR,Unknown,primary,28802,waste disposal ,smart healthcare system ,0
+10.42.0.211-115.239.210.141-51354-443-6,Majuro,Majuro,7.103,171.38,Marshall Islands,MH,MHL,Majuro,primary,25400,mobility,better governance ,0
+10.42.0.211-10.42.0.1-16702-53-17,Roseau,Roseau,15.301,-61.387,Dominica,DM,DMA,Saint George,primary,23336,building performance ,better transportation system ,0
+220.181.7.190-10.42.0.211-443-39236-6,Basseterre,Basseterre,17.302,-62.717,Saint Kitts And Nevis,KN,KNA,Saint George Basseterre,primary,21887,street furniture management,better surveillance for security ,0
+183.79.253.231-10.42.0.211-443-50052-6,Belmopan,Belmopan,17.252,-88.7671,Belize,BZ,BLZ,Cayo,primary,15220,building performance ,smart infrastructure ,1
+172.217.12.163-10.42.0.211-443-33652-6,Pago Pago,Pago Pago,-14.274,-170.7046,American Samoa,AS,ASM,Unknown,primary,12576,street furniture management,better job opportunities,1
+172.217.3.106-10.42.0.42-443-50929-6,Lobamba,Lobamba,-26.4667,31.2,Swaziland,SZ,SWZ,Hhohho,primary,9782,waste disposal ,better governance ,0
+183.79.17.108-10.42.0.151-443-60432-6,Funafuti,Funafuti,-8.5167,179.2166,Tuvalu,TV,TUV,Funafuti,primary,4749,mobility,better transportation system ,0
+10.42.0.211-23.194.142.7-36995-443-6,Palikir,Palikir,6.9166,158.15,"Micronesia, Federated States Of",FM,FSM,Pohnpei,primary,4645,building performance ,better surveillance for security ,0
+172.217.6.196-10.42.0.42-443-52766-6,Capitol Hill,Capitol Hill,15.2137,145.7546,Northern Mariana Islands,MP,MNP,Unknown,primary,2500,street furniture management,smart infrastructure ,0
+180.149.136.194-10.42.0.211-80-37465-6,Hagåtña,Hagta,13.4745,144.7504,Guam,GU,GUM,Unknown,primary,1051,building performance ,better governance ,0
+10.42.0.211-23.21.95.195-45473-443-6,Al Quds,Al Quds,31.7764,35.2269,West Bank,XW,XWB,Unknown,primary,Unknown,street furniture management,better transportation system ,1
+219.142.78.162-10.42.0.211-80-57083-6,Philipsburg,Philipsburg,18.0255,-63.045,Sint Maarten,SX,SXM,Unknown,primary,Unknown,waste disposal ,smart infrastructure ,1
+157.240.18.35-10.42.0.211-443-45094-6,Gitega,Gitega,-3.4271,29.9246,Burundi,BI,BDI,Gitega,primary,Unknown,mobility,smart healthcare system ,1
+203.205.158.66-10.42.0.151-80-55438-6,Pristina,Pristina,42.6666,21.1724,Kosovo,XK,XKS,Prishtinë,primary,Unknown,building performance ,better governance ,0
+198.11.188.75-10.42.0.151-443-38415-6,Ngerulmud,Ngerulmud,7.5,134.6242,Palau,PW,PLW,Melekeok,primary,Unknown,street furniture management,better transportation system ,0
+216.58.217.99-10.42.0.42-443-60673-6,Aden,Aden,12.7797,45.0095,Yemen,YE,YEM,‘Adan,admin,1000000,building performance ,better surveillance for security ,0
+162.208.22.39-10.42.0.211-443-37016-6,Cochabamba,Cochabamba,-17.41,-66.17,Bolivia,BO,BOL,Cochabamba,admin,1000000,street furniture management,smart infrastructure ,1
+10.42.0.151-10.42.0.1-6031-53-17,Yongzhou,Yongzhou,26.2304,111.62,China,CN,CHN,Hunan,Unknown,1000000,street furniture management,better job opportunities,1
+10.42.0.151-10.42.0.1-25467-53-17,Baoshan,Baoshan,25.12,99.15,China,CN,CHN,Yunnan,Unknown,1000000,waste disposal ,better governance ,1
+180.149.136.194-10.42.0.211-443-49673-6,Quảng Hà,Quang Ha,16.06,108.25,Vietnam,VN,VNM,Quảng Nam,Unknown,1000000,mobility,better transportation system ,1
+10.42.0.151-63.250.200.63-45857-443-6,Kitaku,Kitaku,33.8704,130.82,Japan,JP,JPN,Fukuoka,Unknown,997536,building performance ,smart healthcare system ,0
+10.42.0.42-47.89.69.217-54360-443-6,Perm’,Perm',58,56.25,Russia,RU,RUS,Permskiy Kray,Unknown,997000,street furniture management,better governance ,0
+169.45.248.122-10.42.0.151-5222-56368-6,Ahvāz,Ahvaz,31.28,48.72,Iran,IR,IRN,Khūzestān,admin,996000,building performance ,better transportation system ,0
+10.42.0.211-72.247.70.190-47957-80-6,Jodhpur,Jodhpur,26.2918,73.0168,India,IN,IND,Rājasthān,Unknown,995000,street furniture management,better surveillance for security ,0
+10.42.0.211-104.97.95.172-34742-80-6,San Luis Potosí,San Luis Potosi,22.17,-101,Mexico,MX,MEX,San Luis Potosí,admin,992000,waste disposal ,smart infrastructure ,1
+192.229.163.180-10.42.0.151-443-58360-6,Odesa,Odesa,46.49,30.71,Ukraine,UA,UKR,Odes’ka Oblast’,admin,991000,mobility,better job opportunities,0
+10.42.0.211-59.38.112.48-33938-443-6,Yinchuan,Yinchuan,38.468,106.273,China,CN,CHN,Ningxia,admin,991000,building performance ,better governance ,1
+172.217.12.170-10.42.0.151-443-37256-6,Jiaxing,Jiaxing,30.7704,120.75,China,CN,CHN,Zhejiang,minor,988000,street furniture management,better transportation system ,0
+10.42.0.151-23.44.160.219-49986-443-6,Joinvile,Joinvile,-26.32,-48.8399,Brazil,BR,BRA,Santa Catarina,Unknown,988000,building performance ,better surveillance for security ,0
+172.217.11.10-10.42.0.151-443-48688-6,Donets’k,Donets'k,48,37.83,Ukraine,UA,UKR,Donets’ka Oblast’,admin,988000,street furniture management,smart infrastructure ,1
+180.163.255.159-10.42.0.211-80-47957-6,Guilin,Guilin,25.28,110.28,China,CN,CHN,Guangxi,minor,987000,waste disposal ,better governance ,0
+10.42.0.211-64.71.142.110-45255-443-6,Dahūk,Dahuk,36.8667,43,Iraq,IQ,IRQ,Dahūk,admin,986000,mobility,better transportation system ,1
+203.205.191.23-10.42.0.42-80-52340-6,Volgograd,Volgograd,48.71,44.5,Russia,RU,RUS,Volgogradskaya Oblast’,admin,984000,building performance ,smart infrastructure ,0
+10.42.0.211-23.194.141.191-48920-443-6,Guwāhāti,Guwahati,26.16,91.77,India,IN,IND,Assam,Unknown,983000,street furniture management,smart healthcare system ,1
+10.42.0.211-23.21.95.195-52107-443-6,Yichun,Yichun,27.8333,114.4,China,CN,CHN,Jiangxi,minor,982000,street furniture management,better governance ,0
+10.42.0.211-74.6.105.13-58634-443-6,Yangquan,Yangquan,37.87,113.57,China,CN,CHN,Shanxi,minor,981448,waste disposal ,better surveillance for security ,0
+172.217.11.10-10.42.0.211-443-50655-6,Natal,Natal,-6.9838,-60.2699,Brazil,BR,BRA,Amazonas,Unknown,980588,mobility,smart infrastructure ,0
+10.42.0.211-104.118.222.110-51153-443-6,Chandigarh,Chandigarh,30.72,76.78,India,IN,IND,Chandīgarh,admin,979000,building performance ,better job opportunities,1
+172.217.11.3-10.42.0.42-443-54319-6,Gwalior,Gwalior,26.23,78.1801,India,IN,IND,Madhya Pradesh,Unknown,978000,street furniture management,better governance ,0
+172.217.10.234-10.42.0.151-443-42653-6,Hamamatsu,Hamamatsu,34.7181,137.7327,Japan,JP,JPN,Shizuoka,Unknown,977023,building performance ,better transportation system ,1
+10.42.0.211-104.192.108.27-42060-80-6,Qom,Qom,34.65,50.95,Iran,IR,IRN,Qom,admin,973000,street furniture management,better surveillance for security ,0
+192.229.173.173-10.42.0.211-80-37045-6,Jixi,Jixi,45.3,130.97,China,CN,CHN,Heilongjiang,minor,965000,waste disposal ,smart infrastructure ,1
+202.77.129.146-10.42.0.211-80-59104-6,Mérida,Merida,20.9666,-89.6166,Mexico,MX,MEX,Yucatán,admin,965000,mobility,better governance ,0
+172.217.12.129-10.42.0.211-443-52823-6,Xin’an,Xin'an,34.38,118.35,China,CN,CHN,Jiangsu,Unknown,962656,building performance ,better transportation system ,1
+180.149.153.234-10.42.0.211-80-39432-6,Querétaro,Queretaro,20.63,-100.38,Mexico,MX,MEX,Querétaro,admin,961000,street furniture management,better surveillance for security ,0
+10.42.0.211-31.13.80.8-42504-443-6,Pingxiang,Pingxiang,27.62,113.85,China,CN,CHN,Jiangxi,minor,961000,building performance ,smart infrastructure ,1
+10.42.0.151-52.84.142.16-47647-443-6,João Pessoa,Joao Pessoa,-7.1011,-34.8761,Brazil,BR,BRA,Paraíba,admin,956000,street furniture management,smart healthcare system ,0
+172.217.12.174-10.42.0.42-443-33226-6,Klang,Klang,3.0204,101.55,Malaysia,MY,MYS,Selangor,Unknown,956000,waste disposal ,better governance ,1
+203.205.158.61-10.42.0.42-80-46305-6,Jinzhou,Jinzhou,41.1204,121.1,China,CN,CHN,Liaoning,Unknown,956000,mobility,better transportation system ,0
+172.217.10.238-10.42.0.151-443-59677-6,Oklahoma City,Oklahoma City,35.4676,-97.5137,United States,US,USA,Oklahoma,admin,955998,waste disposal ,better surveillance for security ,0
+220.181.7.190-10.42.0.42-443-47489-6,Salerno,Salerno,40.6804,14.7699,Italy,IT,ITA,Campania,minor,954265,mobility,smart infrastructure ,0
+10.42.0.151-104.208.28.54-39698-443-6,Thiruvananthapuram,Thiruvananthapuram,8.5,76.95,India,IN,IND,Kerala,admin,954000,building performance ,better job opportunities,1
+203.205.179.170-10.42.0.151-80-48221-6,Calicut,Calicut,11.2504,75.77,India,IN,IND,Kerala,minor,953000,street furniture management,better governance ,0
+172.217.10.78-10.42.0.42-443-55471-6,Trichinopoly,Trichinopoly,10.81,78.69,India,IN,IND,Tamil Nādu ,Unknown,951000,building performance ,better transportation system ,1
+10.42.0.211-98.139.199.204-55824-443-6,Ogbomoso,Ogbomoso,8.13,4.24,Nigeria,NG,NGA,Oyo,minor,951000,street furniture management,better surveillance for security ,0
+10.42.0.211-10.42.0.1-57180-53-17,General Santos,General Santos,6.1108,125.1747,Philippines,PH,PHL,General Santos,admin,950530,waste disposal ,smart infrastructure ,0
+202.77.129.150-10.42.0.211-443-39231-6,Huế,Hue,16.47,107.58,Vietnam,VN,VNM,Thừa Thiên-Huế,admin,950000,mobility,better job opportunities,0
+10.42.0.211-23.194.141.179-48936-443-6,Bacolod,Bacolod,10.6317,122.9817,Philippines,PH,PHL,Bacolod,admin,949354,building performance ,better governance ,0
+169.45.214.251-10.42.0.42-443-52539-6,Nantong,Nantong,32.0304,120.825,China,CN,CHN,Jiangsu,minor,947000,street furniture management,better transportation system ,1
+172.217.10.132-10.42.0.211-443-36516-6,Foshan,Foshan,23.0301,113.12,China,CN,CHN,Guangdong,minor,943000,building performance ,better surveillance for security ,0
+10.42.0.211-64.71.142.96-59470-80-6,Sŏngnam,Songnam,37.4386,127.1378,"Korea, South",KR,KOR,Gyeonggi,Unknown,942000,street furniture management,smart infrastructure ,0
+216.58.219.196-10.42.0.42-443-45549-6,Bridgeport,Bridgeport,41.1918,-73.1953,United States,US,USA,Connecticut,Unknown,938406,waste disposal ,better governance ,0
+10.42.0.151-10.42.0.1-41896-53-17,Nice,Nice,43.715,7.265,France,FR,FRA,Provence-Alpes-Côte d’Azur,minor,927000,mobility,better transportation system ,0
+180.76.145.14-10.42.0.211-80-45075-6,Buffalo,Buffalo,42.9017,-78.8487,United States,US,USA,New York,Unknown,926261,building performance ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-31292-53-17,Erbil,Erbil,36.179,44.0086,Iraq,IQ,IRQ,Arbīl,admin,926000,street furniture management,smart infrastructure ,1
+172.217.6.206-10.42.0.151-443-44913-6,Krasnoyarsk,Krasnoyarsk,56.014,92.866,Russia,RU,RUS,Krasnoyarskiy Kray,admin,925000,building performance ,smart healthcare system ,0
+172.217.12.130-10.42.0.211-443-49161-6,Olinda,Olinda,-8,-34.85,Brazil,BR,BRA,Pernambuco,Unknown,921840,street furniture management,better governance ,0
+10.42.0.151-10.42.0.1-25685-53-17,Antwerp,Antwerp,51.2204,4.415,Belgium,BE,BEL,Flanders,minor,920000,street furniture management,better transportation system ,0
+10.42.0.151-104.193.88.109-56822-80-6,Konya,Konya,37.875,32.475,Turkey,TR,TUR,Konya,admin,919000,waste disposal ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-33470-53-17,Bogor,Bogor,-6.57,106.75,Indonesia,ID,IDN,Jawa Barat,Unknown,918000,mobility,smart infrastructure ,1
+10.42.0.151-31.13.71.36-59758-443-6,Hartford,Hartford,41.7661,-72.6834,United States,US,USA,Connecticut,Unknown,914751,building performance ,better job opportunities,1
+10.42.0.211-10.42.0.1-11920-53-17,Huaibei,Huaibei,33.9504,116.75,China,CN,CHN,Anhui,Unknown,913000,street furniture management,better governance ,1
+222.73.28.96-10.42.0.151-80-55805-6,Xinyu,Xinyu,27.8,114.93,China,CN,CHN,Jiangxi,minor,913000,building performance ,better transportation system ,0
+182.22.25.252-10.42.0.211-443-38737-6,Teresina,Teresina,-5.095,-42.78,Brazil,BR,BRA,Piauí,admin,907000,street furniture management,better surveillance for security ,0
+203.205.191.25-10.42.0.151-80-54167-6,Naha,Naha,26.2072,127.673,Japan,JP,JPN,Okinawa,admin,905238,waste disposal ,smart infrastructure ,0
+182.254.5.234-10.42.0.211-80-44879-6,Goyang,Goyang,37.6527,126.8372,"Korea, South",KR,KOR,Gyeonggi,minor,903000,mobility,better governance ,1
+10.42.0.211-104.79.152.104-44335-443-6,Nangandao,Nangandao,35.3204,113.87,China,CN,CHN,Henan,minor,903000,building performance ,better transportation system ,0
+10.42.0.42-66.231.239.96-34357-443-6,Yibin,Yibin,28.77,104.57,China,CN,CHN,Sichuan,minor,902000,street furniture management,better surveillance for security ,0
+203.205.158.60-10.42.0.42-80-58920-6,Aba,Aba,5.1004,7.35,Nigeria,NG,NGA,Abia,minor,897560,building performance ,smart infrastructure ,0
+10.42.0.211-10.42.0.1-55696-53-17,Maiduguri,Maiduguri,11.85,13.16,Nigeria,NG,NGA,Borno,admin,896000,street furniture management,smart healthcare system ,1
+10.42.0.211-10.42.0.1-22043-53-17,Az Zarqā’,Az Zarqa',32.07,36.1,Jordan,JO,JOR,Az Zarqā’,admin,894691,waste disposal ,better governance ,0
+10.42.0.42-108.174.11.1-52108-80-6,Tarsus,Tarsus,36.9204,34.88,Turkey,TR,TUR,Mersin,minor,894318,mobility,better transportation system ,1
+10.42.0.211-10.42.0.1-4023-53-17,Bengbu,Bengbu,32.95,117.33,China,CN,CHN,Anhui,Unknown,894000,building performance ,better surveillance for security ,0
+10.42.0.211-123.125.29.220-56056-80-6,Mendoza,Mendoza,-32.8833,-68.8166,Argentina,AR,ARG,Mendoza,admin,893000,street furniture management,smart infrastructure ,1
+10.42.0.211-10.42.0.1-54296-53-17,Hubli,Hubli,15.36,75.125,India,IN,IND,Karnātaka,Unknown,890000,street furniture management,better job opportunities,1
+8.0.6.4-8.6.0.1-0-0-0,Concepción,Concepcion,-36.83,-73.05,Chile,CL,CHL,Biobío,admin,889725,waste disposal ,better governance ,0
+10.42.0.151-10.42.0.1-61659-53-17,Zaria,Zaria,11.08,7.71,Nigeria,NG,NGA,Kaduna,minor,889000,mobility,better transportation system ,0
+10.42.0.42-31.13.71.37-33718-443-6,Dengtalu,Dengtalu,36.08,114.35,China,CN,CHN,Henan,minor,887000,building performance ,better surveillance for security ,0
+172.217.6.226-10.42.0.151-443-44325-6,Cartagena,Cartagena,10.3997,-75.5144,Colombia,CO,COL,Bolívar,admin,887000,street furniture management,smart infrastructure ,0
+10.42.0.42-23.199.25.36-50542-80-6,Mysore,Mysore,12.31,76.66,India,IN,IND,Karnātaka,Unknown,887000,building performance ,better governance ,1
+10.42.0.211-123.125.29.220-60523-80-6,Mexicali,Mexicali,32.65,-115.48,Mexico,MX,MEX,Baja California,admin,885000,street furniture management,better transportation system ,1
+10.42.0.211-69.147.82.61-34477-443-6,Tongliao,Tongliao,43.62,122.27,China,CN,CHN,Inner Mongolia,minor,884000,waste disposal ,better surveillance for security ,0
+192.229.173.173-10.42.0.151-443-35041-6,Mombasa,Mombasa,-4.04,39.6899,Kenya,KE,KEN,Mombasa,admin,882000,mobility,smart infrastructure ,1
+10.42.0.1-10.42.0.42-53-48093-17,Newcastle upon Tyne,Newcastle upon Tyne,55.0004,-1.6,United Kingdom,GB,GBR,Newcastle upon Tyne,admin,882000,building performance ,smart infrastructure ,0
+172.217.10.238-10.42.0.151-443-55667-6,Novo Hamburgo,Novo Hamburgo,-29.7096,-51.14,Brazil,BR,BRA,Rio Grande do Sul,Unknown,876990,street furniture management,smart healthcare system ,0
+10.42.0.211-123.125.29.220-57796-80-6,Callao,Callao,-12.07,-77.135,Peru,PE,PER,Callao,admin,876877,building performance ,better governance ,0
+10.42.0.42-119.146.74.49-60415-443-6,Bilbao,Bilbao,43.25,-2.93,Spain,ES,ESP,Basque Country,minor,875552,street furniture management,better transportation system ,1
+10.42.0.211-23.208.168.108-40203-443-6,Johor Bahru,Johor Bahru,1.48,103.73,Malaysia,MY,MYS,Johor,admin,875000,waste disposal ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-10094-53-17,Raipur,Raipur,21.235,81.635,India,IN,IND,Chhattīsgarh,admin,875000,mobility,smart infrastructure ,1
+10.42.0.211-10.42.0.1-64343-53-17,Xiaoxita,Xiaoxita,30.7,111.28,China,CN,CHN,Hubei,minor,875000,street furniture management,better job opportunities,0
+10.42.0.42-119.146.74.34-51153-80-6,Fort Worth,Fort Worth,32.7812,-97.3472,United States,US,USA,Texas,Unknown,874168,building performance ,better governance ,0
+172.217.11.35-10.42.0.211-443-33112-6,Salem,Salem,11.67,78.1801,India,IN,IND,Tamil Nādu ,Unknown,873000,street furniture management,better transportation system ,0
+10.42.0.42-115.239.210.141-52031-80-6,Yangjiang,Yangjiang,21.8504,111.97,China,CN,CHN,Guangdong,minor,872363,waste disposal ,better surveillance for security ,0
+239.255.255.250-10.42.0.151-1900-60044-17,Marrakech,Marrakech,31.63,-8,Morocco,MA,MAR,Marrakech-Safi,admin,872000,mobility,smart infrastructure ,0
+152.163.56.2-10.42.0.211-443-48352-6,Kaifeng Chengguanzhen,Kaifeng Chengguanzhen,34.85,114.35,China,CN,CHN,Henan,minor,872000,building performance ,better governance ,1
+182.22.67.70-10.42.0.211-443-44720-6,Dandong,Dandong,40.1436,124.3936,China,CN,CHN,Liaoning,Unknown,870000,street furniture management,better transportation system ,1
+10.42.0.211-10.42.0.1-46429-53-17,Al Başrah,Al Basrah,30.5135,47.8136,Iraq,IQ,IRQ,Al Başrah,admin,870000,building performance ,smart infrastructure ,1
+203.205.158.34-10.42.0.211-80-42988-6,Aguascalientes,Aguascalientes,21.8795,-102.2904,Mexico,MX,MEX,Aguascalientes,admin,869000,street furniture management,smart healthcare system ,0
+10.42.0.211-10.42.0.1-37408-53-17,Tucson,Tucson,32.1545,-110.8782,United States,US,USA,Arizona,Unknown,868391,waste disposal ,better governance ,0
+10.42.0.151-87.240.165.80-48501-80-6,Okayama,Okayama,34.672,133.9171,Japan,JP,JPN,Okayama,admin,866092,mobility,better transportation system ,0
+172.217.10.131-10.42.0.151-443-46990-17,Bucheon,Bucheon,37.4989,126.7831,"Korea, South",KR,KOR,Gyeonggi,minor,866000,building performance ,better surveillance for security ,0
+10.42.0.211-64.71.142.110-57908-443-6,Xuanzhou,Xuanzhou,30.9525,118.7553,China,CN,CHN,Anhui,Unknown,866000,street furniture management,smart infrastructure ,1
+10.42.0.211-47.89.67.240-49207-443-6,Bandar Lampung,Bandar Lampung,-5.43,105.27,Indonesia,ID,IDN,Lampung,admin,865000,street furniture management,better job opportunities,1
+10.42.0.42-103.235.46.212-52714-443-6,Rizhao,Rizhao,35.4304,119.45,China,CN,CHN,Shandong,minor,865000,waste disposal ,better governance ,1
+172.217.10.109-10.42.0.42-443-53363-17,Palermo,Palermo,38.125,13.35,Italy,IT,ITA,Sicilia,admin,863000,mobility,better transportation system ,0
+172.217.11.46-10.42.0.151-443-39820-6,Caerdydd,Caerdydd,51.5,-3.225,United Kingdom,GB,GBR,Cardiff,admin,861400,building performance ,better surveillance for security ,0
+172.217.12.142-10.42.0.42-443-33868-6,Tampico,Tampico,22.3,-97.87,Mexico,MX,MEX,Tamaulipas,minor,859419,street furniture management,smart infrastructure ,0
+172.217.12.206-10.42.0.211-443-52499-6,Jiaozuo,Jiaozuo,35.25,113.22,China,CN,CHN,Henan,Unknown,857000,building performance ,better governance ,1
+10.42.0.151-10.42.0.1-16817-53-17,Padang,Padang,-0.96,100.36,Indonesia,ID,IDN,Sumatera Barat,admin,855000,street furniture management,better transportation system ,1
+172.217.12.174-10.42.0.42-443-56202-6,Jalandhar,Jalandhar,31.3349,75.569,India,IN,IND,Punjab,Unknown,855000,waste disposal ,smart healthcare system ,0
+180.149.136.194-10.42.0.42-443-51506-6,Zhenjiang,Zhenjiang,32.22,119.43,China,CN,CHN,Jiangsu,minor,854000,mobility,better governance ,1
+10.42.0.42-52.84.143.34-50235-80-6,Valparaíso,Valparaiso,-33.0478,-71.621,Chile,CL,CHL,Valparaíso,admin,854000,building performance ,better transportation system ,0
+172.217.10.78-10.42.0.151-443-52740-6,Pingdingshan,Pingdingshan,33.7304,113.3,China,CN,CHN,Henan,Unknown,849000,street furniture management,better surveillance for security ,0
+10.42.0.211-10.42.0.1-37285-53-17,Zunyi,Zunyi,27.7,106.92,China,CN,CHN,Guizhou,Unknown,849000,building performance ,smart infrastructure ,0
+10.42.0.211-106.39.169.66-52036-80-6,Anshun,Anshun,26.2504,105.93,China,CN,CHN,Guizhou,Unknown,849000,street furniture management,better job opportunities,1
+10.42.0.211-66.231.239.120-48296-443-6,Toulouse,Toulouse,43.62,1.4499,France,FR,FRA,Occitanie,admin,847000,waste disposal ,better governance ,1
+192.229.173.173-10.42.0.42-80-51412-6,El Paso,El Paso,31.8479,-106.4309,United States,US,USA,Texas,Unknown,845674,mobility,better transportation system ,0
+10.42.0.211-104.193.88.109-53754-80-6,Iguaçu,Iguacu,-22.74,-43.47,Brazil,BR,BRA,Rio de Janeiro,Unknown,844583,building performance ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-40300-53-17,Bhubaneshwar,Bhubaneshwar,20.2704,85.8274,India,IN,IND,Odisha,admin,844000,street furniture management,smart infrastructure ,0
+10.42.0.1-10.42.0.42-53-24557-17,Voronezh,Voronezh,51.73,39.27,Russia,RU,RUS,Voronezhskaya Oblast’,admin,844000,waste disposal ,better governance ,0
+10.42.0.211-10.42.0.1-54404-53-17,Saratov,Saratov,51.58,46.03,Russia,RU,RUS,Saratovskaya Oblast’,admin,843000,mobility,better transportation system ,1
+10.42.0.211-10.42.0.1-38327-53-17,Yuci,Yuci,37.6804,112.73,China,CN,CHN,Shanxi,Unknown,840000,building performance ,smart infrastructure ,0
+202.77.129.185-10.42.0.211-80-42624-6,Yancheng,Yancheng,33.3856,120.1253,China,CN,CHN,Jiangsu,minor,839000,street furniture management,smart healthcare system ,0
+10.42.0.211-23.208.26.242-50710-443-6,Cuernavaca,Cuernavaca,18.9211,-99.24,Mexico,MX,MEX,Morelos,admin,834001,building performance ,better governance ,0
+203.205.158.62-10.42.0.211-80-60548-6,Linfen,Linfen,36.0803,111.52,China,CN,CHN,Shanxi,Unknown,834000,street furniture management,better transportation system ,0
+10.42.0.211-77.234.41.79-33319-443-6,Honolulu,Honolulu,21.3294,-157.846,United States,US,USA,Hawaii,admin,833671,waste disposal ,better surveillance for security ,0
+172.217.12.161-10.42.0.151-443-54018-6,Warri,Warri,5.52,5.76,Nigeria,NG,NGA,Delta,minor,830106,mobility,smart infrastructure ,1
+172.217.10.99-10.42.0.42-443-50426-17,Basel,Basel,47.5804,7.59,Switzerland,CH,CHE,Basel-Stadt,admin,830000,building performance ,better job opportunities,0
+172.217.10.8-10.42.0.151-443-46677-6,San Miguel de Tucumán,San Miguel de Tucuman,-26.816,-65.2166,Argentina,AR,ARG,Tucumán,admin,830000,street furniture management,better governance ,0
+10.42.0.211-10.42.0.1-6243-53-17,Kermānshāh,Kermanshah,34.38,47.06,Iran,IR,IRN,Kermānshāh,admin,828313,building performance ,better transportation system ,0
+140.205.230.8-10.42.0.211-80-57763-6,Thessaloníki,Thessaloniki,40.6961,22.885,Greece,GR,GRC,Kentrikí Makedonía,admin,828000,street furniture management,smart healthcare system ,0
+172.217.12.202-10.42.0.211-443-33167-6,Omaha,Omaha,41.2628,-96.0498,United States,US,USA,Nebraska,Unknown,827786,waste disposal ,better governance ,1
+192.229.173.173-10.42.0.42-80-55478-6,Kota,Kota,25.18,75.835,India,IN,IND,Rājasthān,Unknown,827000,mobility,better transportation system ,1
+162.208.22.39-10.42.0.211-443-58908-6,Braga,Braga,41.555,-8.4213,Portugal,PT,PRT,Braga,admin,826833,building performance ,better surveillance for security ,0
+10.42.0.151-10.42.0.1-60173-53-17,Jhānsi,Jhansi,25.453,78.5575,India,IN,IND,Uttar Pradesh,Unknown,826494,street furniture management,smart infrastructure ,0
+10.42.0.151-10.42.0.1-41930-53-17,Rongjiawan,Rongjiawan,29.3801,113.1,China,CN,CHN,Hunan,minor,826000,building performance ,better job opportunities,1
+10.42.0.42-87.240.165.80-41928-80-6,Nottingham,Nottingham,52.9703,-1.17,United Kingdom,GB,GBR,Nottingham,admin,825600,street furniture management,better governance ,0
+10.42.0.151-10.42.0.1-8905-53-17,Agadir,Agadir,30.44,-9.62,Morocco,MA,MAR,Souss-Massa,admin,825467,street furniture management,better transportation system ,1
+10.42.0.211-64.71.142.120-41721-443-6,Butterworth,Butterworth,5.4171,100.4,Malaysia,MY,MYS,Pulau Pinang,Unknown,821652,waste disposal ,better surveillance for security ,0
+174.35.73.110-10.42.0.211-80-47715-6,Bareilly,Bareilly,28.3454,79.42,India,IN,IND,Uttar Pradesh,Unknown,817000,mobility,smart infrastructure ,1
+10.42.0.211-10.42.0.1-44249-53-17,Jos,Jos,9.93,8.89,Nigeria,NG,NGA,Plateau,admin,816824,building performance ,better governance ,0
+10.42.0.1-10.42.0.42-53-53887-17,Xingyi,Xingyi,25.0904,104.89,China,CN,CHN,Guizhou,Unknown,816000,street furniture management,better transportation system ,1
+172.217.9.238-10.42.0.151-443-49502-6,Cebu City,Cebu City,10.32,123.9001,Philippines,PH,PHL,Cebu,admin,815000,building performance ,smart infrastructure ,0
+10.42.0.211-10.42.0.1-22786-53-17,Arequipa,Arequipa,-16.42,-71.53,Peru,PE,PER,Arequipa,admin,815000,street furniture management,smart healthcare system ,1
+10.42.0.211-104.192.110.245-53511-443-6,Liverpool,Liverpool,53.416,-2.918,United Kingdom,GB,GBR,Liverpool,admin,811000,waste disposal ,better governance ,0
+172.217.12.131-10.42.0.151-443-52803-6,Wuhu,Wuhu,31.3504,118.37,China,CN,CHN,Anhui,minor,810000,mobility,better transportation system ,1
+10.42.0.211-10.42.0.1-10641-53-17,Langfang,Langfang,39.5204,116.68,China,CN,CHN,Hebei,Unknown,810000,building performance ,better surveillance for security ,0
+163.177.93.222-10.42.0.151-80-59939-6,Rājshāhi,Rajshahi,24.375,88.605,Bangladesh,BD,BGD,Rājshāhi,admin,810000,street furniture management,smart infrastructure ,0
+172.217.3.110-10.42.0.211-443-59382-6,Zhaotong,Zhaotong,27.3204,103.72,China,CN,CHN,Yunnan,Unknown,809000,building performance ,better job opportunities,0
+172.217.10.110-10.42.0.151-443-55275-6,Culiacán,Culiacan,24.83,-107.38,Mexico,MX,MEX,Sinaloa,admin,809000,street furniture management,better governance ,0
+182.22.67.91-10.42.0.151-443-49755-6,Valencia,Valencia,39.485,-0.4,Spain,ES,ESP,Valencia,admin,808000,waste disposal ,better transportation system ,0
+10.42.0.211-10.42.0.1-41689-53-17,Lingyuan,Lingyuan,41.24,119.4011,China,CN,CHN,Liaoning,Unknown,806000,mobility,smart healthcare system ,1
+8.41.222.241-10.42.0.211-443-42065-6,Cuiabá,Cuiaba,-15.5696,-56.085,Brazil,BR,BRA,Mato Grosso,admin,806000,building performance ,better governance ,1
+192.229.173.173-10.42.0.151-80-44704-6,Quy Nhơn,Quy Nhon,13.78,109.18,Vietnam,VN,VNM,Bình Định,admin,805290,street furniture management,better transportation system ,1
+10.42.0.211-10.42.0.1-34014-53-17,Malang,Malang,-7.98,112.61,Indonesia,ID,IDN,Jawa Timur,Unknown,805000,street furniture management,better surveillance for security ,0
+10.42.0.211-10.42.0.1-59327-53-17,Alīgarh,Aligarh,27.8922,78.0618,India,IN,IND,Uttar Pradesh,Unknown,805000,waste disposal ,smart infrastructure ,0
+172.217.6.227-10.42.0.211-443-55393-6,L’viv,L'viv,49.835,24.03,Ukraine,UA,UKR,L’vivs’ka Oblast’,admin,803880,mobility,better job opportunities,0
+10.42.0.211-10.42.0.1-43691-53-17,Bordeaux,Bordeaux,44.85,-0.595,France,FR,FRA,Nouvelle-Aquitaine,admin,803000,building performance ,better governance ,0
+10.42.0.211-23.21.51.186-50298-443-6,McAllen,McAllen,26.2273,-98.2471,United States,US,USA,Texas,Unknown,800904,street furniture management,better transportation system ,1
+172.217.10.234-10.42.0.42-443-58499-6,Baojishi,Baojishi,34.38,107.15,China,CN,CHN,Shaanxi,Unknown,800000,building performance ,better surveillance for security ,0
+174.35.73.165-10.42.0.42-80-52265-6,Pekanbaru,Pekanbaru,0.565,101.425,Indonesia,ID,IDN,Riau,admin,799000,street furniture management,smart infrastructure ,1
+10.42.0.211-10.42.0.1-46534-53-17,Oran,Oran,35.71,-0.62,Algeria,DZ,DZA,Oran,admin,798000,waste disposal ,better governance ,0
+172.217.9.227-10.42.0.211-443-50059-6,Yingkou,Yingkou,40.6703,122.28,China,CN,CHN,Liaoning,minor,795000,mobility,better transportation system ,0
+10.42.0.151-106.39.162.36-53608-80-6,Bhiwandi,Bhiwandi,19.35,73.13,India,IN,IND,Mahārāshtra,Unknown,795000,building performance ,smart infrastructure ,0
+203.205.158.66-10.42.0.151-80-55438-6,Liaoyang,Liaoyang,41.28,123.18,China,CN,CHN,Liaoning,Unknown,794000,street furniture management,smart healthcare system ,0
+172.217.9.227-10.42.0.42-80-60060-6,Chihuahua,Chihuahua,28.645,-106.085,Mexico,MX,MEX,Chihuahua,admin,793000,building performance ,better governance ,0
+10.42.0.211-10.42.0.1-4871-53-17,Jammu,Jammu,32.7118,74.8467,India,IN,IND,Jammu and Kashmīr,Unknown,791000,street furniture management,better transportation system ,1
+10.42.0.211-69.147.64.34-33128-443-6,Melaka,Melaka,2.2064,102.2465,Malaysia,MY,MYS,Melaka,admin,788706,waste disposal ,better surveillance for security ,0
+10.42.0.151-23.21.72.212-46930-443-6,Zaporizhzhya,Zaporizhzhya,47.8573,35.1768,Ukraine,UA,UKR,Zaporiz’ka Oblast’,admin,788000,mobility,smart infrastructure ,1
+173.241.242.143-10.42.0.211-443-50911-6,Morādābād,Moradabad,28.8418,78.7568,India,IN,IND,Uttar Pradesh,Unknown,787000,waste disposal ,better job opportunities,0
+10.42.0.151-10.42.0.1-16353-53-17,Antalya,Antalya,36.89,30.7,Turkey,TR,TUR,Antalya,admin,783000,mobility,better governance ,0
+10.42.0.211-74.217.63.52-53398-443-6,Al Ḩudaydah,Al Hudaydah,14.7979,42.953,Yemen,YE,YEM,Al Ḩudaydah,admin,780000,building performance ,better transportation system ,0
+211.144.37.229-10.42.0.211-80-59949-6,Campo Grande,Campo Grande,-20.45,-54.6166,Brazil,BR,BRA,Mato Grosso do Sul,admin,778000,street furniture management,better surveillance for security ,0
+10.42.0.211-121.12.98.64-58425-80-6,Shaoxing,Shaoxing,30.0004,120.57,China,CN,CHN,Zhejiang,minor,777000,building performance ,smart infrastructure ,1
+10.42.0.211-77.234.42.92-57781-443-6,Yichun,Yichun,47.6999,128.9,China,CN,CHN,Heilongjiang,minor,777000,street furniture management,better job opportunities,1
+10.42.0.151-10.42.0.1-58459-53-17,Mangalore,Mangalore,12.9,74.85,India,IN,IND,Karnātaka,Unknown,776632,waste disposal ,better governance ,1
+172.217.11.14-10.42.0.151-443-37232-6,Wuppertal,Wuppertal,51.25,7.17,Germany,DE,DEU,North Rhine-Westphalia,minor,776525,mobility,better transportation system ,0
+172.217.10.10-10.42.0.211-443-55641-6,Cheongju,Cheongju,36.6439,127.5012,"Korea, South",KR,KOR,Chungbuk,admin,775096,building performance ,better surveillance for security ,0
+10.42.0.42-103.235.46.211-39424-443-6,Zamboanga City,Zamboanga City,6.92,122.08,Philippines,PH,PHL,Zamboanga,admin,773000,street furniture management,smart infrastructure ,0
+8.0.6.4-8.6.0.1-0-0-0,Hamhŭng,Hamhung,39.9101,127.5454,"Korea, North",KP,PRK,Hamnam,admin,773000,building performance ,better governance ,1
+172.217.10.138-10.42.0.151-443-33568-6,Fuyang,Fuyang,30.0533,119.9519,China,CN,CHN,Zhejiang,minor,771000,street furniture management,better transportation system ,1
+151.101.1.134-10.42.0.151-443-35329-6,Ilorin,Ilorin,8.49,4.55,Nigeria,NG,NGA,Kwara,admin,771000,waste disposal ,better surveillance for security ,0
+172.217.8.3-10.42.0.42-443-46316-6,Saarbrücken,Saarbrucken,49.2504,6.97,Germany,DE,DEU,Saarland,admin,770001,mobility,smart infrastructure ,1
+10.42.0.1-10.42.0.42-53-23164-17,Fuxin,Fuxin,42.0105,121.66,China,CN,CHN,Liaoning,Unknown,770000,building performance ,smart healthcare system ,0
+172.217.11.14-10.42.0.211-443-37667-6,Shiyan,Shiyan,32.57,110.78,China,CN,CHN,Hubei,minor,770000,street furniture management,better governance ,0
+172.217.10.1-10.42.0.211-443-34132-6,Quetta,Quetta,30.22,67.025,Pakistan,PK,PAK,Balochistān,admin,768000,building performance ,better transportation system ,1
+10.42.0.151-31.13.71.37-40974-443-6,Trujillo,Trujillo,-8.12,-79.02,Peru,PE,PER,La Libertad,admin,765171,street furniture management,better surveillance for security ,0
+10.42.0.211-10.42.0.1-38492-53-17,Kananga,Kananga,-5.89,22.4,Congo (Kinshasa),CD,COD,Kasaï Central,admin,765000,street furniture management,smart infrastructure ,1
+10.42.0.151-10.42.0.1-11104-53-17,Trabzon,Trabzon,40.98,39.72,Turkey,TR,TUR,Trabzon,admin,764714,waste disposal ,better job opportunities,0
+173.194.66.188-10.42.0.42-5228-38135-6,Jincheng,Jincheng,35.5004,112.83,China,CN,CHN,Shanxi,minor,760000,mobility,better governance ,1
+10.42.0.211-104.193.88.109-54723-80-6,Albuquerque,Albuquerque,35.1053,-106.6464,United States,US,USA,New Mexico,Unknown,758523,building performance ,better transportation system ,0
+209.10.120.26-10.42.0.211-80-44657-6,Łódź,Lodz,51.775,19.4514,Poland,PL,POL,Łódzkie,admin,758000,street furniture management,better surveillance for security ,0
+180.149.153.234-10.42.0.211-80-39998-6,Kraków,Krakow,50.06,19.96,Poland,PL,POL,Małopolskie,admin,756000,building performance ,smart infrastructure ,0
+180.149.136.194-10.42.0.211-443-40291-6,Saltillo,Saltillo,25.42,-101.005,Mexico,MX,MEX,Coahuila de Zaragoza,admin,754000,street furniture management,better governance ,1
+10.42.0.211-76.13.28.196-39700-443-6,São José dos Campos,Sao Jose dos Campos,-23.2,-45.8799,Brazil,BR,BRA,São Paulo,Unknown,753769,waste disposal ,better transportation system ,0
+10.42.0.151-52.84.142.16-47986-443-6,Hŭngnam,Hungnam,39.8231,127.6232,"Korea, North",KP,PRK,Hamnam,Unknown,751322,mobility,better surveillance for security ,0
+10.42.0.211-66.198.24.225-58096-443-6,Ta‘izz,Ta`izz,13.6045,44.0394,Yemen,YE,YEM,Ta‘izz,admin,751000,building performance ,smart infrastructure ,0
+180.163.255.159-10.42.0.211-80-52116-6,Pietermaritzburg,Pietermaritzburg,-29.61,30.39,South Africa,ZA,ZAF,KwaZulu-Natal,admin,750845,street furniture management,smart healthcare system ,1
+172.217.6.238-10.42.0.42-443-35433-6,Tangier,Tangier,35.7473,-5.8327,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,admin,750060,building performance ,better governance ,0
+10.42.0.211-123.125.29.220-55281-80-6,Hsinchu,Hsinchu,24.8168,120.9767,Taiwan,TW,TWN,Hsinchu,admin,750000,street furniture management,better transportation system ,1
+10.42.0.211-103.235.46.39-51713-80-6,Changhua,Changhua,24.0734,120.5134,Taiwan,TW,TWN,Changhua,admin,750000,waste disposal ,better surveillance for security ,0
+10.42.0.42-23.206.125.17-39542-80-6,Kolhāpur,Kolhapur,16.7,74.22,India,IN,IND,Mahārāshtra,Unknown,750000,mobility,smart infrastructure ,1
+10.42.0.151-52.84.64.213-49594-443-6,Farg‘ona,Farg`ona,40.39,71.78,Uzbekistan,UZ,UZB,Farg‘ona,admin,750000,building performance ,better job opportunities,0
+10.42.0.151-31.13.80.5-48569-443-6,Namangan,Namangan,41,71.67,Uzbekistan,UZ,UZB,Namangan,admin,750000,street furniture management,better governance ,1
+216.58.217.100-10.42.0.151-443-59609-6,Liège,Liege,50.63,5.58,Belgium,BE,BEL,Wallonia,minor,749110,street furniture management,better transportation system ,0
+10.42.0.151-10.42.0.1-11637-53-17,Ciudad Guayana,Ciudad Guayana,8.37,-62.62,Venezuela,VE,VEN,Bolívar,minor,746535,waste disposal ,better surveillance for security ,0
+172.217.11.10-10.42.0.151-443-34857-6,Birmingham,Birmingham,33.5277,-86.7987,United States,US,USA,Alabama,Unknown,744189,mobility,smart infrastructure ,0
+208.80.154.224-10.42.0.211-80-50785-6,Hegang,Hegang,47.4,130.37,China,CN,CHN,Heilongjiang,minor,743307,building performance ,better governance ,1
+151.101.45.140-10.42.0.211-443-34476-6,Naga City,Naga City,13.6192,123.1814,Philippines,PH,PHL,Naga,admin,741635,street furniture management,better transportation system ,0
+172.217.9.238-10.42.0.151-443-41409-6,Gdańsk,Gdansk,54.36,18.64,Poland,PL,POL,Pomorskie,admin,740000,building performance ,better surveillance for security ,0
+216.58.219.202-10.42.0.211-443-40904-6,Ansan,Ansan,37.3481,126.8595,"Korea, South",KR,KOR,Gyeonggi,Unknown,739493,street furniture management,smart infrastructure ,0
+10.42.0.211-10.42.0.1-17438-53-17,Nuremberg,Nuremberg,49.45,11.08,Germany,DE,DEU,Bavaria,minor,737304,waste disposal ,smart infrastructure ,1
+10.42.0.211-103.235.46.211-37397-80-6,Oyo,Oyo,7.8504,3.93,Nigeria,NG,NGA,Oyo,minor,736072,mobility,smart healthcare system ,0
+175.100.207.233-10.42.0.211-443-37804-6,Amrāvati,Amravati,20.95,77.77,India,IN,IND,Mahārāshtra,Unknown,734451,building performance ,better governance ,1
+10.42.0.151-10.42.0.1-18761-53-17,Denpasar,Denpasar,-8.65,115.22,Indonesia,ID,IDN,Bali,admin,732344,street furniture management,better transportation system ,0
+10.42.0.211-98.139.183.24-55771-80-6,Sokoto,Sokoto,13.06,5.24,Nigeria,NG,NGA,Sokoto,admin,732178,building performance ,better surveillance for security ,0
+174.129.32.118-10.42.0.211-443-36751-6,Beihai,Beihai,21.4804,109.1,China,CN,CHN,Guangxi,Unknown,728978,street furniture management,smart infrastructure ,0
+183.79.249.252-10.42.0.42-443-39810-6,Bremen,Bremen,53.08,8.8,Germany,DE,DEU,Bremen,admin,724909,waste disposal ,better job opportunities,1
+10.42.0.42-104.254.66.16-38129-80-6,As Sulaymānīyah,As Sulaymaniyah,35.5613,45.4309,Iraq,IQ,IRQ,As Sulaymānīyah,admin,723170,mobility,better governance ,0
+10.42.0.211-66.198.24.250-49701-80-6,Hannover,Hannover,52.367,9.7167,Germany,DE,DEU,Lower Saxony,admin,722490,waste disposal ,better transportation system ,1
+10.42.0.1-10.42.0.42-53-19286-17,Cúcuta,Cucuta,7.92,-72.52,Colombia,CO,COL,Norte de Santander,admin,722146,mobility,better surveillance for security ,0
+172.217.10.42-10.42.0.211-443-48125-6,Hamilton,Hamilton,43.25,-79.83,Canada,CA,CAN,Ontario,Unknown,721053,building performance ,smart infrastructure ,1
+10.42.0.151-42.56.79.30-49954-80-6,Moshi,Moshi,-3.3396,37.34,Tanzania,TZ,TZA,Kilimanjaro,admin,721018,street furniture management,better governance ,0
+172.217.10.234-10.42.0.151-443-58873-6,Shaoguan,Shaoguan,24.8,113.58,China,CN,CHN,Guangdong,minor,720266,building performance ,better transportation system ,1
+10.42.0.211-69.147.82.61-46971-443-6,Kumamoto,Kumamoto,32.8009,130.7006,Japan,JP,JPN,Kumamoto,admin,718232,street furniture management,smart infrastructure ,0
+172.217.10.46-10.42.0.151-443-41156-6,Dayton,Dayton,39.7797,-84.1998,United States,US,USA,Ohio,Unknown,718169,waste disposal ,smart healthcare system ,1
+202.77.129.150-10.42.0.211-443-35599-6,Xinpu,Xinpu,34.6004,119.17,China,CN,CHN,Jiangsu,minor,715600,mobility,better governance ,0
+10.42.0.211-123.125.29.138-41978-80-6,Acapulco de Juárez,Acapulco de Juarez,16.85,-99.916,Mexico,MX,MEX,Guerrero,minor,715584,building performance ,better transportation system ,1
+172.217.10.129-10.42.0.211-443-39645-6,Kandahār,Kandahar,31.61,65.6949,Afghanistan,AF,AFG,Kandahār,admin,715542,street furniture management,better surveillance for security ,0
+172.217.9.238-10.42.0.211-443-49125-6,Dehra Dūn,Dehra Dun,30.3204,78.05,India,IN,IND,Uttarakhand,admin,714223,building performance ,smart infrastructure ,1
+172.217.10.142-10.42.0.151-443-57576-6,Rochester,Rochester,43.168,-77.6162,United States,US,USA,New York,Unknown,711998,street furniture management,better job opportunities,0
+10.42.0.211-52.84.139.108-46611-80-6,Jeonju,Jeonju,35.8314,127.1404,"Korea, South",KR,KOR,Jeonbuk,minor,711424,waste disposal ,better governance ,1
+198.11.189.16-10.42.0.211-443-42583-6,Samarkand,Samarkand,39.67,66.945,Uzbekistan,UZ,UZB,Samarqand,admin,708000,mobility,better transportation system ,0
+10.42.0.151-10.42.0.1-5173-53-17,Qingyuan,Qingyuan,23.7004,113.0301,China,CN,CHN,Guangdong,minor,706717,building performance ,better surveillance for security ,0
+172.217.10.3-10.42.0.151-443-55011-6,Sarasota,Sarasota,27.3386,-82.543,United States,US,USA,Florida,Unknown,706245,street furniture management,smart infrastructure ,0
+10.42.0.211-36.110.210.167-48473-80-6,Changzhi,Changzhi,36.1839,113.1053,China,CN,CHN,Shanxi,minor,706000,building performance ,better governance ,1
+10.42.0.151-10.42.0.1-12123-53-17,Tol’yatti,Tol'yatti,53.4804,49.53,Russia,RU,RUS,Samarskaya Oblast’,Unknown,702879,street furniture management,better transportation system ,0
+10.42.0.211-64.71.142.124-41056-80-6,Jaboatão,Jaboatao,-8.11,-35.02,Brazil,BR,BRA,Pernambuco,Unknown,702621,street furniture management,smart healthcare system ,1
+10.42.0.211-10.42.0.1-3243-53-17,Shizuoka,Shizuoka,34.9858,138.3854,Japan,JP,JPN,Shizuoka,admin,701561,waste disposal ,better governance ,0
+172.217.10.106-10.42.0.211-443-53471-6,Bulawayo,Bulawayo,-20.17,28.58,Zimbabwe,ZW,ZWE,Bulawayo,admin,699385,mobility,better transportation system ,1
+10.42.0.211-10.42.0.1-29628-53-17,Soledad,Soledad,10.92,-74.77,Colombia,CO,COL,Atlántico,minor,698852,street furniture management,better surveillance for security ,0
+10.42.0.211-104.192.110.245-53749-443-6,Fresno,Fresno,36.7831,-119.7941,United States,US,USA,California,Unknown,698021,building performance ,smart infrastructure ,1
+140.205.164.47-10.42.0.42-443-43123-6,Meknès,Meknes,33.9004,-5.56,Morocco,MA,MAR,Fès-Meknès,Unknown,697628,street furniture management,better job opportunities,0
+10.42.0.211-10.42.0.1-65199-53-17,La Plata,La Plata,-34.9096,-57.96,Argentina,AR,ARG,Buenos Aires,admin,694253,waste disposal ,better governance ,0
+172.217.10.77-10.42.0.151-443-47158-6,Mālegaon,Malegaon,20.5604,74.525,India,IN,IND,Mahārāshtra,Unknown,690844,mobility,better transportation system ,1
+174.35.73.174-10.42.0.211-80-35250-6,Enugu,Enugu,6.45,7.5,Nigeria,NG,NGA,Enugu,admin,688862,building performance ,better surveillance for security ,0
+10.42.0.151-31.13.71.37-40262-443-6,Huangshi,Huangshi,30.22,115.1,China,CN,CHN,Hubei,minor,688090,street furniture management,smart infrastructure ,1
+172.217.10.74-10.42.0.151-443-56050-6,Aracaju,Aracaju,-10.9,-37.12,Brazil,BR,BRA,Sergipe,admin,685356,building performance ,better governance ,0
+182.22.24.124-10.42.0.211-443-33030-6,Allentown,Allentown,40.5961,-75.4755,United States,US,USA,Pennsylvania,Unknown,682899,street furniture management,better transportation system ,1
+203.205.191.22-10.42.0.151-80-41134-6,Bonn,Bonn,50.7205,7.08,Germany,DE,DEU,North Rhine-Westphalia,minor,680543,waste disposal ,smart infrastructure ,0
+174.129.32.118-10.42.0.211-443-58108-6,San Pedro Sula,San Pedro Sula,15.5,-88.03,Honduras,HN,HND,Cortés,admin,680091,mobility,smart healthcare system ,1
+172.217.10.74-10.42.0.151-443-35416-6,Nellore,Nellore,14.44,79.9899,India,IN,IND,Andhra Pradesh,Unknown,678004,building performance ,better governance ,0
+10.42.0.1-10.42.0.42-53-20567-17,Catania,Catania,37.5,15.08,Italy,IT,ITA,Sicilia,minor,674542,street furniture management,better transportation system ,1
+10.42.0.151-108.168.180.104-36381-5222-6,Gorakhpur,Gorakhpur,26.7504,83.38,India,IN,IND,Uttar Pradesh,Unknown,674246,street furniture management,better surveillance for security ,0
+192.229.173.173-10.42.0.42-80-51965-6,Ipoh,Ipoh,4.6,101.065,Malaysia,MY,MYS,Perak,admin,673318,waste disposal ,smart infrastructure ,0
+172.217.10.74-10.42.0.151-443-57211-6,Ch’ŏngjin,Ch'ongjin,41.7846,129.79,"Korea, North",KP,PRK,Hambuk,minor,672614,mobility,better job opportunities,0
+10.42.0.211-10.42.0.1-59274-53-17,Tulsa,Tulsa,36.1284,-95.9043,United States,US,USA,Oklahoma,Unknown,672054,building performance ,better governance ,0
+10.42.0.211-31.13.69.203-33969-443-6,Utsunomiya,Utsunomiya,36.55,139.87,Japan,JP,JPN,Tochigi,admin,667752,street furniture management,better transportation system ,1
+172.217.6.234-10.42.0.151-443-55980-6,Puyang Chengguanzhen,Puyang Chengguanzhen,35.7004,114.98,China,CN,CHN,Henan,minor,666322,building performance ,smart healthcare system ,0
+172.217.10.8-10.42.0.151-443-58329-6,An Najaf,An Najaf,32.0003,44.3354,Iraq,IQ,IRQ,An Najaf,admin,665552,street furniture management,better governance ,0
+219.142.78.162-10.42.0.211-80-54686-6,São José dos Pinhais,Sao Jose dos Pinhais,-25.57,-49.18,Brazil,BR,BRA,Paraná,Unknown,665063,waste disposal ,better transportation system ,0
+10.42.0.211-23.23.199.129-33664-443-6,Santo André,Santo Andre,-23.6528,-46.5278,Brazil,BR,BRA,São Paulo,Unknown,662373,mobility,better surveillance for security ,0
+10.42.0.42-66.198.24.224-51856-443-6,Bytom,Bytom,50.35,18.91,Poland,PL,POL,Śląskie,minor,662247,building performance ,smart infrastructure ,1
+10.42.0.42-91.190.216.53-54674-12350-6,Pointe-Noire,Pointe-Noire,-4.77,11.88,Congo (Brazzaville),CG,COG,Pointe-Noire,admin,659084,street furniture management,better job opportunities,1
+10.42.0.151-121.12.98.64-59109-80-6,Aţ Ţā’if,At Ta'if,21.2622,40.3823,Saudi Arabia,SA,SAU,Makkah al Mukarramah,Unknown,657282,building performance ,better governance ,0
+157.240.18.19-10.42.0.42-443-43261-6,Ismailia,Ismailia,30.5903,32.26,Egypt,EG,EGY,Al Ismā‘īlīyah,admin,656135,street furniture management,better transportation system ,0
+157.240.2.20-10.42.0.151-443-39010-6,Concord,Concord,37.9722,-122.0016,United States,US,USA,California,Unknown,654770,waste disposal ,better surveillance for security ,0
+172.217.6.195-10.42.0.151-443-35178-6,Shimoga,Shimoga,13.9304,75.56,India,IN,IND,Karnātaka,Unknown,654055,mobility,smart infrastructure ,0
+10.42.0.151-121.12.98.64-33802-80-6,Biên Hòa,Bien Hoa,10.97,106.8301,Vietnam,VN,VNM,Đồng Nai,admin,652646,building performance ,better governance ,1
+183.79.250.123-10.42.0.211-443-60634-6,Xiping,Xiping,25.6005,103.8166,China,CN,CHN,Yunnan,minor,652604,street furniture management,better transportation system ,1
+10.42.0.211-10.42.0.1-13482-53-17,Kryvyy Rih,Kryvyy Rih,47.9283,33.345,Ukraine,UA,UKR,Dnipropetrovs’ka Oblast’,minor,652380,building performance ,smart infrastructure ,1
+174.35.73.71-10.42.0.42-80-39413-6,Irbid,Irbid,32.55,35.85,Jordan,JO,JOR,Irbid,admin,650000,street furniture management,smart healthcare system ,0
+182.22.24.124-10.42.0.211-443-45685-6,Tiruppūr,Tiruppur,11.0804,77.33,India,IN,IND,Tamil Nādu ,Unknown,650000,waste disposal ,better governance ,1
+10.42.0.211-115.239.210.141-56029-443-6,Andijon,Andijon,40.79,72.34,Uzbekistan,UZ,UZB,Andijon,admin,650000,mobility,better transportation system ,0
+208.80.154.224-10.42.0.151-443-56520-6,Krasnodar,Krasnodar,45.02,39,Russia,RU,RUS,Krasnodarskiy Kray,admin,649851,building performance ,better surveillance for security ,0
+172.217.6.238-10.42.0.151-443-37351-6,Zaragoza,Zaragoza,41.65,-0.89,Spain,ES,ESP,Aragon,admin,649404,street furniture management,smart infrastructure ,0
+172.217.6.193-10.42.0.151-443-37587-6,Genoa,Genoa,44.41,8.93,Italy,IT,ITA,Liguria,admin,647497,street furniture management,better job opportunities,1
+10.42.0.211-106.39.162.36-47022-80-6,Diyarbakır,Diyarbakir,37.9204,40.23,Turkey,TR,TUR,Diyarbakır,admin,644763,waste disposal ,better governance ,0
+10.42.0.211-10.42.0.1-48987-53-17,Morelia,Morelia,19.7334,-101.1895,Mexico,MX,MEX,Michoacán de Ocampo,Unknown,644306,mobility,better transportation system ,1
+203.205.179.170-10.42.0.211-80-56280-6,Ul’yanovsk,Ul'yanovsk,54.33,48.41,Russia,RU,RUS,Ul’yanovskaya Oblast’,admin,640680,building performance ,smart healthcare system ,0
+10.42.0.211-104.97.95.172-45768-80-6,Utrecht,Utrecht,52.1003,5.12,Netherlands,NL,NLD,Utrecht,admin,640000,street furniture management,better governance ,1
+220.243.205.152-10.42.0.42-80-57633-6,Kikwit,Kikwit,-5.03,18.85,Congo (Kinshasa),CD,COD,Kwilu,admin,637736,building performance ,better transportation system ,0
+216.58.219.227-10.42.0.42-443-59572-6,Al Hufūf,Al Hufuf,25.3487,49.5856,Saudi Arabia,SA,SAU,Ash Sharqīyah,Unknown,637389,street furniture management,better surveillance for security ,0
+10.42.0.151-104.193.88.109-56820-80-6,Yogyakarta,Yogyakarta,-7.78,110.375,Indonesia,ID,IDN,Yogyakarta,admin,636660,waste disposal ,smart infrastructure ,1
+10.42.0.1-10.42.0.42-53-2704-17,Wrocław,Wroclaw,51.1104,17.03,Poland,PL,POL,Dolnośląskie,admin,634893,mobility,better job opportunities,0
+10.42.0.211-31.13.71.1-34168-443-6,Winnipeg,Winnipeg,49.883,-97.166,Canada,CA,CAN,Manitoba,admin,632063,building performance ,better governance ,0
+203.205.147.229-10.42.0.211-80-56215-6,Izhevsk,Izhevsk,56.85,53.23,Russia,RU,RUS,Udmurtiya,admin,631038,street furniture management,better transportation system ,0
+172.217.11.10-10.42.0.151-443-35897-6,Cape Coral,Cape Coral,26.6445,-81.9955,United States,US,USA,Florida,Unknown,630134,building performance ,better surveillance for security ,0
+169.45.248.101-10.42.0.151-5222-45490-6,Springfield,Springfield,42.1155,-72.5395,United States,US,USA,Massachusetts,Unknown,628076,street furniture management,smart infrastructure ,1
+10.42.0.211-10.42.0.1-18521-53-17,Zhuozhou,Zhuozhou,39.5401,115.79,China,CN,CHN,Hebei,Unknown,628000,waste disposal ,better governance ,1
+8.0.6.4-8.6.0.1-0-0-0,Raurkela,Raurkela,22.2304,84.83,India,IN,IND,Odisha,Unknown,625831,mobility,better transportation system ,1
+10.42.0.211-111.1.17.152-55060-8077-6,Québec,Quebec,46.84,-71.2456,Canada,CA,CAN,Québec,admin,624177,building performance ,smart infrastructure ,1
+10.42.0.42-104.97.95.172-59566-80-6,Poznań,Poznan,52.4058,16.8999,Poland,PL,POL,Wielkopolskie,admin,623997,street furniture management,smart healthcare system ,0
+10.42.0.211-50.18.185.97-52767-443-6,Colorado Springs,Colorado Springs,38.8674,-104.7606,United States,US,USA,Colorado,Unknown,623946,waste disposal ,better governance ,0
+10.42.0.211-104.88.106.16-54096-80-6,Port Said,Port Said,31.26,32.29,Egypt,EG,EGY,Būr Sa‘īd,admin,623864,mobility,better surveillance for security ,0
+10.42.0.151-74.125.22.139-48577-443-6,Nānded,Nanded,19.17,77.3,India,IN,IND,Mahārāshtra,Unknown,623708,building performance ,smart infrastructure ,1
+198.105.244.11-10.42.0.151-80-48875-6,Bannu,Bannu,32.989,70.5986,Pakistan,PK,PAK,Khyber Pakhtunkhwa,minor,622419,street furniture management,better job opportunities,1
+10.42.0.151-10.42.0.1-64850-53-17,Southend-on-Sea,Southend-on-Sea,51.55,0.72,United Kingdom,GB,GBR,Southend-on-Sea,admin,618386,building performance ,better governance ,1
+222.73.28.96-10.42.0.211-80-45278-6,Dresden,Dresden,51.05,13.75,Germany,DE,DEU,Saxony,admin,617515,street furniture management,better transportation system ,0
+201.92.16.176-10.42.0.151-33827-43477-17,Wiesbaden,Wiesbaden,50.0804,8.25,Germany,DE,DEU,Hesse,admin,617126,waste disposal ,better surveillance for security ,0
+10.42.0.211-23.21.95.195-56350-443-6,Charleston,Charleston,32.8151,-79.963,United States,US,USA,South Carolina,Unknown,616085,mobility,smart infrastructure ,0
+10.42.0.211-10.42.0.1-43702-53-17,Changping,Changping,40.2248,116.1944,China,CN,CHN,Beijing,Unknown,614821,building performance ,better governance ,0
+10.42.0.42-104.192.110.245-35948-80-6,Palu,Palu,-0.907,119.833,Indonesia,ID,IDN,Sulawesi Tengah,admin,612445,street furniture management,better transportation system ,0
+10.42.0.211-54.192.38.65-58614-443-6,Taizhou,Taizhou,32.4904,119.9,China,CN,CHN,Jiangsu,minor,612356,building performance ,better surveillance for security ,0
+10.42.0.211-47.88.68.21-44484-443-6,Xingtai,Xingtai,37.05,114.5,China,CN,CHN,Hebei,Unknown,611739,street furniture management,smart infrastructure ,1
+184.72.52.0-10.42.0.211-443-46621-6,Samsun,Samsun,41.28,36.3437,Turkey,TR,TUR,Samsun,admin,609339,waste disposal ,smart healthcare system ,1
+10.42.0.211-10.42.0.1-3975-53-17,Luxor,Luxor,25.7,32.65,Egypt,EG,EGY,Al Uqşur,admin,609248,mobility,better governance ,0
+10.42.0.211-77.234.41.79-45071-443-6,Belgaum,Belgaum,15.865,74.505,India,IN,IND,Karnātaka,Unknown,608756,building performance ,better transportation system ,0
+209.85.232.188-10.42.0.151-5228-58243-6,Pontianak,Pontianak,-0.03,109.32,Indonesia,ID,IDN,Kalimantan Barat,admin,607311,street furniture management,better surveillance for security ,0
+10.42.0.211-114.134.80.163-40774-80-6,Yaroslavl’,Yaroslavl',57.62,39.87,Russia,RU,RUS,Yaroslavskaya Oblast’,admin,606730,building performance ,smart infrastructure ,1
+140.205.230.8-10.42.0.42-80-44645-6,Constantine,Constantine,36.36,6.5999,Algeria,DZ,DZA,Constantine,admin,605179,street furniture management,better job opportunities,1
+172.217.10.65-10.42.0.211-443-46046-6,Banjarmasin,Banjarmasin,-3.33,114.5801,Indonesia,ID,IDN,Kalimantan Selatan,admin,603576,street furniture management,better governance ,1
+180.149.138.210-10.42.0.151-80-46160-6,Grand Rapids,Grand Rapids,42.9615,-85.6557,United States,US,USA,Michigan,Unknown,602694,waste disposal ,better transportation system ,1
+172.217.12.168-10.42.0.211-443-53542-6,Kirkuk,Kirkuk,35.4722,44.3923,Iraq,IQ,IRQ,Kirkūk,admin,601433,mobility,better surveillance for security ,0
+10.42.0.1-10.42.0.42-53-35239-17,Sāngli,Sangli,16.8604,74.575,India,IN,IND,Mahārāshtra,Unknown,601214,building performance ,smart infrastructure ,0
+209.10.120.26-10.42.0.211-80-43355-6,Barcelona,Barcelona,10.1304,-64.72,Venezuela,VE,VEN,Anzoátegui,admin,600954,street furniture management,better job opportunities,0
+10.42.0.42-119.146.74.34-52569-80-6,Mission Viejo,Mission Viejo,33.6095,-117.655,United States,US,USA,California,Unknown,600474,building performance ,better governance ,1
+10.42.0.211-104.192.110.245-53232-443-6,Sūhāj,Suhaj,26.5504,31.7,Egypt,EG,EGY,Sūhāj,admin,600000,street furniture management,better transportation system ,1
+172.217.6.227-10.42.0.211-443-45594-6,Al Manşūrah,Al Mansurah,31.0504,31.38,Egypt,EG,EGY,Ad Daqahlīyah,admin,600000,waste disposal ,better surveillance for security ,0
+10.42.0.211-104.88.106.21-36787-80-6,Canoas,Canoas,-29.92,-51.18,Brazil,BR,BRA,Rio Grande do Sul,Unknown,600000,mobility,smart infrastructure ,1
+10.42.0.211-10.42.0.1-65029-53-17,Barnaul,Barnaul,53.355,83.745,Russia,RU,RUS,Altayskiy Kray,admin,599579,building performance ,better governance ,0
+180.149.153.234-10.42.0.211-80-38431-6,Zāhedān,Zahedan,29.5,60.83,Iran,IR,IRN,Sīstān va Balūchestān,admin,598887,street furniture management,better transportation system ,1
+10.42.0.42-23.194.140.226-54739-80-6,Jalālābād,Jalalabad,34.4415,70.4361,Afghanistan,AF,AFG,Nangarhār,admin,597971,building performance ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-25591-53-17,Albany,Albany,42.6664,-73.7987,United States,US,USA,New York,admin,597270,street furniture management,smart infrastructure ,1
+180.163.255.159-10.42.0.211-80-52591-6,Chiclayo,Chiclayo,-6.7629,-79.8366,Peru,PE,PER,Lambayeque,admin,596792,waste disposal ,smart healthcare system ,1
+222.73.28.96-10.42.0.151-80-55680-6,Hermosillo,Hermosillo,29.0989,-110.9541,Mexico,MX,MEX,Sonora,admin,595811,mobility,better governance ,0
+219.142.78.162-10.42.0.151-443-46188-6,Chānda,Chanda,19.97,79.3,India,IN,IND,Mahārāshtra,Unknown,595118,building performance ,better transportation system ,0
+220.243.219.55-10.42.0.211-80-54773-6,Al Ḩillah,Al Hillah,32.4721,44.4217,Iraq,IQ,IRQ,Bābil,admin,594605,street furniture management,better surveillance for security ,0
+10.42.0.151-10.42.0.1-59760-53-17,Al Ḩillah,Al Hillah,23.4895,46.7564,Saudi Arabia,SA,SAU,Ar Riyāḑ,Unknown,594605,street furniture management,smart infrastructure ,0
+216.58.217.163-10.42.0.211-443-32806-6,Rasht,Rasht,37.3,49.63,Iran,IR,IRN,Gīlān,admin,594590,waste disposal ,better job opportunities,1
+202.77.129.150-10.42.0.151-80-39358-6,Nagano,Nagano,36.65,138.17,Japan,JP,JPN,Nagano,admin,594311,mobility,better governance ,0
+172.217.12.129-10.42.0.211-443-45900-6,Vinh,Vinh,18.7,105.68,Vietnam,VN,VNM,Nghệ An,admin,593645,building performance ,better transportation system ,0
+10.42.0.211-10.42.0.1-52735-53-17,Abeokuta,Abeokuta,7.1604,3.35,Nigeria,NG,NGA,Ogun,admin,593100,street furniture management,better surveillance for security ,0
+172.217.10.2-10.42.0.211-443-47218-6,Kayseri,Kayseri,38.735,35.49,Turkey,TR,TUR,Kayseri,admin,592840,building performance ,smart infrastructure ,0
+10.42.0.151-10.42.0.1-10322-53-17,Samarinda,Samarinda,-0.5,117.15,Indonesia,ID,IDN,Kalimantan Timur,admin,592228,street furniture management,better governance ,1
+172.217.7.227-10.42.0.42-443-57012-6,Ajmer,Ajmer,26.45,74.64,India,IN,IND,Rājasthān,Unknown,589985,waste disposal ,better transportation system ,1
+10.42.0.42-27.221.28.204-39672-80-6,Dortmund,Dortmund,51.53,7.45,Germany,DE,DEU,North Rhine-Westphalia,minor,588462,mobility,better surveillance for security ,0
+10.42.0.211-106.11.92.1-48378-443-6,Vladivostok,Vladivostok,43.13,131.91,Russia,RU,RUS,Primorskiy Kray,admin,587022,building performance ,smart infrastructure ,0
+10.42.0.151-36.110.213.49-37843-80-6,Irkutsk,Irkutsk,52.32,104.245,Russia,RU,RUS,Irkutskaya Oblast’,admin,586695,street furniture management,smart healthcare system ,0
+222.73.28.96-10.42.0.211-80-40286-6,Knoxville,Knoxville,35.9692,-83.9496,United States,US,USA,Tennessee,Unknown,585249,building performance ,better governance ,0
+203.205.158.63-10.42.0.151-80-56747-6,Blantyre,Blantyre,-15.79,34.9899,Malawi,MW,MWI,Blantyre,admin,584877,street furniture management,better transportation system ,1
+10.42.0.211-106.11.14.99-50673-443-6,Baton Rouge,Baton Rouge,30.4419,-91.131,United States,US,USA,Louisiana,admin,583613,waste disposal ,better surveillance for security ,0
+209.15.224.11-10.42.0.211-443-39078-6,Anqing,Anqing,30.5,117.05,China,CN,CHN,Anhui,minor,580497,mobility,smart infrastructure ,1
+172.217.10.10-10.42.0.42-443-58004-6,Cuttack,Cuttack,20.47,85.8899,India,IN,IND,Odisha,Unknown,580000,waste disposal ,better job opportunities,0
+182.254.5.234-10.42.0.42-80-45290-6,Hachiōji,Hachioji,35.6577,139.3261,Japan,JP,JPN,Tōkyō,Unknown,579399,mobility,better governance ,1
+10.42.0.211-54.192.38.236-54579-443-6,Khabarovsk,Khabarovsk,48.455,135.12,Russia,RU,RUS,Khabarovskiy Kray,admin,579000,building performance ,better transportation system ,0
+216.58.219.196-10.42.0.211-443-60644-6,Veracruz,Veracruz,19.1773,-96.16,Mexico,MX,MEX,Veracruz,minor,578963,street furniture management,better surveillance for security ,0
+10.42.0.211-74.6.105.9-45678-443-6,Kisangani,Kisangani,0.52,25.22,Congo (Kinshasa),CD,COD,Tshopo,admin,578470,building performance ,smart infrastructure ,0
+10.42.0.151-52.88.110.117-47506-443-6,Kermān,Kerman,30.3,57.08,Iran,IR,IRN,Kermān,admin,577514,street furniture management,better governance ,1
+172.217.10.46-10.42.0.151-443-49578-6,Orūmīyeh,Orumiyeh,37.53,45,Iran,IR,IRN,Āz̄arbāyjān-e Gharbī,admin,577307,waste disposal ,better transportation system ,0
+10.42.0.211-98.139.180.180-51618-443-6,Bīkaner,Bikaner,28.0304,73.3299,India,IN,IND,Rājasthān,Unknown,576015,mobility,better surveillance for security ,0
+10.42.0.151-10.42.0.1-5310-53-17,Quetzaltenango,Quetzaltenango,14.83,-91.52,Guatemala,GT,GTM,Quetzaltenango,admin,575263,building performance ,smart infrastructure ,0
+198.105.244.11-10.42.0.151-80-48969-6,Bakersfield,Bakersfield,35.353,-119.0359,United States,US,USA,California,Unknown,574362,street furniture management,smart infrastructure ,1
+10.42.0.151-10.42.0.1-5351-40157-17,Ogden,Ogden,41.228,-111.9677,United States,US,USA,Utah,Unknown,573632,building performance ,smart healthcare system ,0
+10.42.0.211-10.42.0.1-42978-53-17,Shihezi,Shihezi,44.3,86.0299,China,CN,CHN,Xinjiang,minor,573182,street furniture management,better governance ,1
+180.149.134.221-10.42.0.211-80-42281-6,Kuching,Kuching,1.53,110.33,Malaysia,MY,MYS,Sarawak,admin,570407,waste disposal ,better transportation system ,1
+10.42.0.151-40.69.150.36-55177-443-6,Shuozhou,Shuozhou,39.3004,112.42,China,CN,CHN,Shanxi,minor,570000,mobility,better surveillance for security ,0
+10.42.0.211-111.202.114.77-56144-443-6,Niigata,Niigata,37.92,139.04,Japan,JP,JPN,Niigata,admin,569797,building performance ,smart infrastructure ,0
+10.42.0.211-63.250.200.101-47403-443-6,Pereira,Pereira,4.8104,-75.68,Colombia,CO,COL,Risaralda,admin,568750,street furniture management,better job opportunities,0
+150.138.170.22-10.42.0.211-443-59653-6,Macau,Macau,22.203,113.545,Macau,MO,MAC,Unknown,Unknown,568700,building performance ,better governance ,0
+10.42.0.151-52.84.1.143-49721-443-6,New Haven,New Haven,41.3112,-72.9246,United States,US,USA,Connecticut,Unknown,568144,street furniture management,better transportation system ,1
+172.217.11.14-10.42.0.151-443-33549-6,Bouaké,Bouake,7.69,-5.03,Côte D’Ivoire,CI,CIV,Vallée du Bandama,admin,567481,street furniture management,better surveillance for security ,0
+172.217.10.67-10.42.0.42-443-46346-6,Columbia,Columbia,34.0376,-80.9037,United States,US,USA,South Carolina,admin,566166,waste disposal ,smart infrastructure ,1
+184.169.166.225-10.42.0.211-443-58401-6,Akron,Akron,41.0798,-81.5219,United States,US,USA,Ohio,Unknown,565920,mobility,better governance ,1
+172.217.9.227-10.42.0.151-443-56530-6,Binjai,Binjai,3.6204,98.5001,Indonesia,ID,IDN,Sumatera Utara,Unknown,564979,building performance ,better transportation system ,0
+10.42.0.211-10.42.0.1-26036-53-17,Uberlândia,Uberlandia,-18.9,-48.28,Brazil,BR,BRA,Minas Gerais,Unknown,563536,street furniture management,smart infrastructure ,0
+172.217.6.225-10.42.0.211-443-54835-6,Sorocaba,Sorocaba,-23.49,-47.47,Brazil,BR,BRA,São Paulo,Unknown,563281,building performance ,smart healthcare system ,0
+10.42.0.151-10.42.0.1-4267-53-17,Wusong,Wusong,30.9504,117.78,China,CN,CHN,Anhui,minor,562832,street furniture management,better governance ,1
+10.42.0.211-10.42.0.1-48859-53-17,Weihai,Weihai,37.5,122.1,China,CN,CHN,Shandong,minor,560255,waste disposal ,better transportation system ,1
+10.42.0.211-10.42.0.1-20673-53-17,Mar del Plata,Mar del Plata,-38,-57.58,Argentina,AR,ARG,Buenos Aires,minor,555897,mobility,better surveillance for security ,0
+172.217.10.42-10.42.0.211-443-52822-6,Santiago de Cuba,Santiago de Cuba,20.025,-75.8213,Cuba,CU,CUB,Santiago de Cuba,admin,555865,building performance ,smart infrastructure ,0
+10.42.0.211-31.13.80.52-57396-443-6,Siping,Siping,43.17,124.33,China,CN,CHN,Jilin,Unknown,555609,street furniture management,better job opportunities,0
+10.42.0.1-10.42.0.42-53-47871-17,Kagoshima,Kagoshima,31.586,130.5611,Japan,JP,JPN,Kagoshima,admin,555352,building performance ,better governance ,0
+172.217.12.163-10.42.0.211-80-56357-6,Surakarta,Surakarta,-7.565,110.825,Indonesia,ID,IDN,Jawa Tengah,Unknown,555308,street furniture management,better transportation system ,0
+172.217.12.193-10.42.0.151-443-44620-17,Makhachkala,Makhachkala,42.98,47.5,Russia,RU,RUS,Dagestan,admin,554981,waste disposal ,better surveillance for security ,0
+175.100.207.206-10.42.0.211-80-35487-6,Bhāvnagar,Bhavnagar,21.7784,72.13,India,IN,IND,Gujarāt,Unknown,554978,mobility,smart infrastructure ,1
+10.42.0.211-10.42.0.1-17648-53-17,Uyo,Uyo,5.008,7.85,Nigeria,NG,NGA,Akwa Ibom,admin,554906,building performance ,better governance ,1
+203.205.158.63-10.42.0.211-80-58573-6,Bristol,Bristol,51.45,-2.5833,United Kingdom,GB,GBR,"Bristol, City of",admin,553528,street furniture management,better transportation system ,1
+172.217.11.46-10.42.0.151-443-35604-6,Bahawalpur,Bahawalpur,29.39,71.675,Pakistan,PK,PAK,Punjab,minor,552607,street furniture management,smart healthcare system ,0
+220.243.235.201-10.42.0.42-80-52599-6,Kenitra,Kenitra,34.2704,-6.58,Morocco,MA,MAR,Rabat-Salé-Kénitra,Unknown,551786,waste disposal ,better governance ,0
+172.217.10.227-10.42.0.42-80-44282-6,Ribeirão Prêto,Ribeirao Preto,-21.17,-47.83,Brazil,BR,BRA,São Paulo,Unknown,551267,mobility,better transportation system ,0
+10.42.0.211-104.192.110.245-57641-443-6,Kanazawa,Kanazawa,36.56,136.64,Japan,JP,JPN,Ishikawa,admin,551249,building performance ,better surveillance for security ,0
+10.42.0.211-10.42.0.1-50516-53-17,Orenburg,Orenburg,51.78,55.11,Russia,RU,RUS,Orenburgskaya Oblast’,admin,550204,street furniture management,smart infrastructure ,1
+172.217.11.33-10.42.0.151-443-33645-6,Málaga,Malaga,36.7204,-4.42,Spain,ES,ESP,Andalusia,minor,550058,building performance ,better job opportunities,1
+184.50.111.246-10.42.0.151-443-53505-6,Tabūk,Tabuk,28.3838,36.555,Saudi Arabia,SA,SAU,Tabūk,admin,547957,street furniture management,better governance ,1
+10.42.0.151-52.84.29.154-34146-443-6,Puerto La Cruz,Puerto La Cruz,10.17,-64.68,Venezuela,VE,VEN,Anzoátegui,minor,546616,waste disposal ,better transportation system ,0
+10.42.0.211-104.88.106.21-36787-80-6,Jiujiang,Jiujiang,29.73,115.98,China,CN,CHN,Jiangxi,minor,545616,mobility,better surveillance for security ,0
+172.217.9.238-10.42.0.151-443-52854-6,Hisar,Hisar,29.17,75.725,India,IN,IND,Haryāna,Unknown,544829,building performance ,smart infrastructure ,0
+10.42.0.211-10.42.0.1-39808-53-17,Kashgar,Kashgar,39.4763,75.9699,China,CN,CHN,Xinjiang,minor,543914,street furniture management,better governance ,1
+172.217.11.34-10.42.0.211-443-43916-6,Matola,Matola,-25.9696,32.46,Mozambique,MZ,MOZ,Maputo,Unknown,543907,building performance ,better transportation system ,1
+216.58.219.234-10.42.0.42-443-47241-6,Bilāspur,Bilaspur,22.0904,82.16,India,IN,IND,Chhattīsgarh,Unknown,543454,street furniture management,smart infrastructure ,0
+10.42.0.211-31.13.71.7-49079-443-6,Sargodha,Sargodha,32.0854,72.675,Pakistan,PK,PAK,Punjab,minor,542603,waste disposal ,smart healthcare system ,1
+151.101.1.140-10.42.0.42-80-36385-6,Leipzig,Leipzig,51.3354,12.41,Germany,DE,DEU,Saxony,minor,542529,mobility,better governance ,0
+172.217.3.106-10.42.0.151-443-53083-6,Tinnevelly,Tinnevelly,8.7304,77.69,India,IN,IND,Tamil Nādu ,Unknown,542200,waste disposal ,better transportation system ,0
+10.42.0.42-66.198.178.91-57417-443-6,Cancún,Cancun,21.17,-86.83,Mexico,MX,MEX,Quintana Roo,minor,542043,mobility,better surveillance for security ,0
+10.42.0.211-104.254.66.16-44444-80-6,Yangzhou,Yangzhou,32.4,119.43,China,CN,CHN,Jiangsu,Unknown,539715,building performance ,smart infrastructure ,0
+10.42.0.151-14.204.144.143-39503-80-6,Novokuznetsk,Novokuznetsk,53.75,87.115,Russia,RU,RUS,Kemerovskaya Oblast’,Unknown,539616,street furniture management,better job opportunities,1
+172.217.12.170-10.42.0.151-443-44491-6,Latakia,Latakia,35.54,35.78,Syria,SY,SYR,Al Lādhiqīyah,admin,539147,building performance ,better governance ,0
+172.217.10.78-10.42.0.151-443-57693-6,Heroica Matamoros,Heroica Matamoros,25.88,-97.5,Mexico,MX,MEX,Tamaulipas,minor,538785,street furniture management,better transportation system ,1
+184.29.173.155-10.42.0.211-80-59505-6,Göteborg,Goteborg,57.75,12,Sweden,SE,SWE,Västra Götaland,admin,537797,waste disposal ,smart healthcare system ,0
+172.217.10.74-10.42.0.211-443-33776-6,Ōtsu,Otsu,35.0064,135.8674,Japan,JP,JPN,Shiga,admin,536976,mobility,better governance ,1
+172.217.10.10-10.42.0.151-443-52357-6,Tomsk,Tomsk,56.495,84.975,Russia,RU,RUS,Tomskaya Oblast’,admin,535479,building performance ,better transportation system ,0
+180.149.138.210-10.42.0.42-80-58498-6,Linxia Chengguanzhen,Linxia Chengguanzhen,35.6,103.2,China,CN,CHN,Gansu,minor,534555,street furniture management,better surveillance for security ,0
+10.42.0.211-52.84.143.74-51243-80-6,Matsuyama,Matsuyama,33.8455,132.7658,Japan,JP,JPN,Ehime,admin,533541,building performance ,smart infrastructure ,0
+172.217.12.195-10.42.0.151-443-50038-6,Rouen,Rouen,49.4304,1.08,France,FR,FRA,Normandie,admin,532559,street furniture management,better job opportunities,1
+10.42.0.211-64.71.142.124-43104-443-6,Jiangmen,Jiangmen,22.5804,113.08,China,CN,CHN,Guangdong,minor,532419,waste disposal ,better governance ,0
+10.42.0.151-10.42.0.1-63000-53-17,Oaxaca,Oaxaca,17.0827,-96.6699,Mexico,MX,MEX,Oaxaca,admin,530728,mobility,better transportation system ,1
+10.42.0.211-23.45.196.130-59824-443-6,Beira,Beira,-19.82,34.87,Mozambique,MZ,MOZ,Sofala,admin,530604,building performance ,better surveillance for security ,0
+203.205.158.56-10.42.0.211-80-59413-6,Guntūr,Guntur,16.33,80.45,India,IN,IND,Andhra Pradesh,Unknown,530577,street furniture management,smart infrastructure ,1
+10.42.0.151-10.42.0.1-5128-53-17,Tripoli,Tripoli,34.42,35.87,Lebanon,LB,LBN,Liban-Nord,admin,530000,building performance ,better governance ,0
+10.42.0.211-64.71.142.110-60198-443-6,Hamadān,Hamadan,34.796,48.515,Iran,IR,IRN,Hamadān,admin,528256,street furniture management,better transportation system ,1
+169.47.42.215-10.42.0.211-443-41852-6,Cangzhou,Cangzhou,38.3204,116.87,China,CN,CHN,Hebei,Unknown,527681,street furniture management,smart infrastructure ,0
+172.217.11.46-10.42.0.151-443-39498-6,Kota Kinabalu,Kota Kinabalu,5.98,116.11,Malaysia,MY,MYS,Sabah,admin,527671,waste disposal ,smart healthcare system ,1
+151.101.1.140-10.42.0.211-443-44559-6,Gold Coast,Gold Coast,-28.0815,153.4482,Australia,AU,AUS,Queensland,Unknown,527660,mobility,better governance ,0
+172.217.10.238-10.42.0.211-443-37167-6,Ji’an,Ji'an,27.1304,115,China,CN,CHN,Jiangxi,minor,520248,building performance ,better transportation system ,1
+10.42.0.151-50.17.232.169-37598-443-6,Londrina,Londrina,-23.3,-51.18,Brazil,BR,BRA,Paraná,Unknown,520238,street furniture management,better surveillance for security ,0
+172.217.12.174-10.42.0.151-443-51724-6,Ryazan’,Ryazan',54.62,39.72,Russia,RU,RUS,Ryazanskaya Oblast’,admin,520173,building performance ,smart infrastructure ,1
+10.42.0.211-121.12.98.64-40872-80-6,Shashi,Shashi,30.32,112.23,China,CN,CHN,Hubei,Unknown,520000,street furniture management,better job opportunities,0
+10.42.0.211-23.208.106.113-49708-443-6,Bello,Bello,6.33,-75.57,Colombia,CO,COL,Antioquia,minor,519670,waste disposal ,better governance ,1
+172.217.3.97-10.42.0.42-443-40598-6,Tyumen’,Tyumen',57.14,65.53,Russia,RU,RUS,Tyumenskaya Oblast’,admin,519119,mobility,better transportation system ,0
+180.149.134.221-10.42.0.151-80-45154-6,Lipetsk,Lipetsk,52.62,39.64,Russia,RU,RUS,Lipetskaya Oblast’,admin,515655,building performance ,smart healthcare system ,0
+202.77.129.161-10.42.0.151-80-34125-6,Shiliguri,Shiliguri,26.7204,88.455,India,IN,IND,West Bengal,Unknown,515574,street furniture management,better governance ,0
+10.42.0.211-10.42.0.1-54397-53-17,Eskişehir,Eskisehir,39.795,30.53,Turkey,TR,TUR,Eskişehir,admin,514869,building performance ,better transportation system ,0
+10.42.0.151-14.204.144.144-33144-80-6,Banda Aceh,Banda Aceh,5.55,95.32,Indonesia,ID,IDN,Aceh,admin,513698,street furniture management,better surveillance for security ,0
+172.217.12.193-10.42.0.42-443-50794-6,Ujjain,Ujjain,23.1904,75.79,India,IN,IND,Madhya Pradesh,Unknown,513350,waste disposal ,smart infrastructure ,0
+10.42.0.211-10.42.0.1-9779-53-17,Salta,Salta,-24.7834,-65.4166,Argentina,AR,ARG,Salta,admin,512686,mobility,better job opportunities,0
+172.217.10.238-10.42.0.211-443-51662-6,Penza,Penza,53.18,45,Russia,RU,RUS,Penzenskaya Oblast’,admin,512602,building performance ,better governance ,0
+10.42.0.211-123.125.115.190-56889-80-6,Blida,Blida,36.4203,2.83,Algeria,DZ,DZA,Blida,admin,511348,street furniture management,better transportation system ,0
+10.42.0.211-10.42.0.1-23546-53-17,Mykolayiv,Mykolayiv,46.9677,31.9843,Ukraine,UA,UKR,Mykolayivs’ka Oblast’,admin,510840,street furniture management,better surveillance for security ,0
+172.217.10.78-10.42.0.151-443-49821-6,Karbalā’,Karbala',32.6149,44.0245,Iraq,IQ,IRQ,Karbalā’,admin,510692,waste disposal ,smart infrastructure ,1
+10.42.0.151-52.216.1.211-46011-443-6,Suez,Suez,30.005,32.5499,Egypt,EG,EGY,As Suways,admin,508335,mobility,better governance ,0
+208.185.50.65-10.42.0.211-443-40195-6,Gliwice,Gliwice,50.3304,18.67,Poland,PL,POL,Śląskie,minor,507670,building performance ,better transportation system ,0
+10.42.0.151-31.13.80.12-55406-443-6,Bukittinggi,Bukittinggi,-0.3031,100.3615,Indonesia,ID,IDN,Sumatera Barat,Unknown,506964,street furniture management,smart infrastructure ,0
+172.217.12.174-10.42.0.151-443-50174-6,Liaoyuan,Liaoyuan,42.9,125.13,China,CN,CHN,Jilin,Unknown,506548,building performance ,smart healthcare system ,0
+10.42.0.211-104.196.69.241-35023-443-6,Kota Bharu,Kota Bharu,6.12,102.23,Malaysia,MY,MYS,Kelantan,admin,505583,street furniture management,better governance ,1
+10.42.0.211-10.42.0.1-32619-53-17,Jundiaí,Jundiai,-23.2,-46.88,Brazil,BR,BRA,São Paulo,Unknown,505548,waste disposal ,better transportation system ,1
+10.42.0.211-103.7.30.118-45636-80-6,Edinburgh,Edinburgh,55.9483,-3.2191,United Kingdom,GB,GBR,"Edinburgh, City of",admin,504966,mobility,better surveillance for security ,0
+10.42.0.211-106.11.92.16-35045-443-6,Tlaxcala,Tlaxcala,19.32,-98.23,Mexico,MX,MEX,Tlaxcala,admin,503878,building performance ,smart infrastructure ,0
+209.10.120.26-10.42.0.211-80-39958-6,Provo,Provo,40.2457,-111.6457,United States,US,USA,Utah,Unknown,503695,street furniture management,better job opportunities,1
+239.255.255.250-10.42.0.1-1900-33661-17,Arāk,Arak,34.0804,49.7,Iran,IR,IRN,Markazī,admin,503647,building performance ,better governance ,0
+172.217.11.2-10.42.0.42-443-52707-6,Davangere,Davangere,14.47,75.92,India,IN,IND,Karnātaka,Unknown,503564,street furniture management,better transportation system ,1
+182.22.67.91-10.42.0.211-443-60535-6,Viña del Mar,Vina del Mar,-33.03,-71.54,Chile,CL,CHL,Valparaíso,Unknown,503534,waste disposal ,better surveillance for security ,0
+10.42.0.211-69.147.64.215-40757-443-6,Pingtung,Pingtung,22.6817,120.4817,Taiwan,TW,TWN,Pingtung,admin,503530,mobility,smart infrastructure ,1
+172.217.12.142-10.42.0.151-443-40348-6,Annaba,Annaba,36.92,7.76,Algeria,DZ,DZA,Annaba,admin,503524,street furniture management,better job opportunities,0
+10.42.0.211-10.42.0.1-15089-53-17,Akola,Akola,20.71,77.01,India,IN,IND,Mahārāshtra,Unknown,503502,building performance ,better governance ,1
+172.217.10.74-10.42.0.211-443-33589-6,Brighton,Brighton,50.8303,-0.17,United Kingdom,GB,GBR,Brighton and Hove,Unknown,503008,street furniture management,better transportation system ,0
+10.42.0.42-104.254.66.16-49957-80-6,Astrakhan’,Astrakhan',46.3487,48.055,Russia,RU,RUS,Astrakhanskaya Oblast’,admin,502533,waste disposal ,better surveillance for security ,0
+10.42.0.151-10.42.0.1-34893-53-17,Bradford,Bradford,53.8,-1.75,United Kingdom,GB,GBR,Bradford,admin,501700,mobility,smart infrastructure ,0
+10.42.0.211-123.125.29.220-47214-80-6,Bari,Bari,41.1142,16.8728,Italy,IT,ITA,Puglia,admin,500577,building performance ,better governance ,1
+172.217.12.206-10.42.0.211-443-56968-6,Damanhūr,Damanhur,31.0504,30.47,Egypt,EG,EGY,Al Buḩayrah,admin,500000,street furniture management,better transportation system ,1
+10.42.0.211-54.165.129.5-49352-443-6,Al Minyā,Al Minya,28.09,30.75,Egypt,EG,EGY,Al Minyā,admin,500000,building performance ,better surveillance for security ,0
+10.42.0.151-123.125.115.190-41823-80-6,Taoyuan District,Taoyuan District,24.9889,121.3111,Taiwan,TW,TWN,Taoyuan,admin,500000,street furniture management,smart infrastructure ,0
+10.42.0.211-10.42.0.1-64468-53-17,Keelung,Keelung,25.1333,121.7333,Taiwan,TW,TWN,Keelung,admin,500000,waste disposal ,smart healthcare system ,0
+184.72.52.0-10.42.0.211-443-54452-6,San Lorenzo,San Lorenzo,-25.34,-57.52,Paraguay,PY,PRY,Central,Unknown,500000,mobility,better governance ,0
+10.42.0.151-23.44.160.219-49984-443-6,Pasuruan,Pasuruan,-7.6296,112.9,Indonesia,ID,IDN,Jawa Timur,Unknown,500000,building performance ,better transportation system ,1
+10.42.0.211-66.231.239.110-39311-443-6,Chiayi,Chiayi,23.4755,120.4351,Taiwan,TW,TWN,Chiayi,admin,500000,street furniture management,better surveillance for security ,0
+10.42.0.211-77.234.44.196-39596-443-6,Thái Nguyên,Thai Nguyen,21.6,105.83,Vietnam,VN,VNM,Thái Nguyên,admin,500000,street furniture management,smart infrastructure ,1
+10.42.0.211-123.125.46.161-49630-80-6,Awka,Awka,6.2104,7.07,Nigeria,NG,NGA,Anambra,admin,500000,waste disposal ,better job opportunities,1
+202.77.129.150-10.42.0.151-443-40088-6,Shuangyashan,Shuangyashan,46.6704,131.35,China,CN,CHN,Heilongjiang,Unknown,500000,mobility,better governance ,0
+182.22.67.75-10.42.0.151-443-35634-6,Mazatán,Mazatan,29.0171,-110.1333,Mexico,MX,MEX,Sonora,minor,500000,building performance ,better transportation system ,0
+217.69.133.211-10.42.0.211-443-36807-6,Tsu,Tsu,34.7171,136.5167,Japan,JP,JPN,Mie,admin,500000,street furniture management,better surveillance for security ,0
+172.217.9.238-10.42.0.151-443-40053-6,Mataram,Mataram,-8.5795,116.135,Indonesia,ID,IDN,Nusa Tenggara Barat,admin,499409,building performance ,smart infrastructure ,1
+10.42.0.151-10.42.0.1-47526-53-17,Macapá,Macapa,0.033,-51.05,Brazil,BR,BRA,Amapá,admin,499166,street furniture management,better governance ,1
+10.42.0.1-10.42.0.42-53-36937-17,Worcester,Worcester,42.2705,-71.8079,United States,US,USA,Massachusetts,Unknown,498997,waste disposal ,better transportation system ,1
+10.42.0.211-10.42.0.1-35991-53-17,Reynosa,Reynosa,26.08,-98.3,Mexico,MX,MEX,Tamaulipas,minor,498654,mobility,better surveillance for security ,0
+10.42.0.211-10.42.0.1-35853-53-17,Shahrisabz,Shahrisabz,39.0618,66.8315,Uzbekistan,UZ,UZB,Qashqadaryo,Unknown,498545,building performance ,smart infrastructure ,0
+172.217.11.42-10.42.0.42-443-44536-6,Mesa,Mesa,33.4017,-111.7181,United States,US,USA,Arizona,Unknown,496401,street furniture management,smart healthcare system ,0
+10.42.0.211-77.234.44.43-46919-80-6,Dūmā,Duma,33.5833,36.4,Syria,SY,SYR,Rīf Dimashq,minor,496145,building performance ,better governance ,0
+203.205.158.63-10.42.0.151-80-36749-6,Mwanza,Mwanza,-2.52,32.93,Tanzania,TZ,TZA,Mwanza,admin,493944,street furniture management,better transportation system ,0
+192.229.163.180-10.42.0.151-443-46522-6,Wuwei,Wuwei,37.928,102.641,China,CN,CHN,Gansu,minor,493092,waste disposal ,better surveillance for security ,0
+172.217.10.67-10.42.0.211-80-48123-6,Palm Bay,Palm Bay,27.955,-80.6628,United States,US,USA,Florida,Unknown,489912,mobility,smart infrastructure ,1
+203.130.53.126-10.42.0.42-80-50977-6,Port Sudan,Port Sudan,19.6158,37.2164,Sudan,SD,SDN,Red Sea,admin,489725,building performance ,better job opportunities,1
+10.42.0.211-10.42.0.1-53608-53-17,Santa Fe,Santa Fe,-31.6239,-60.69,Argentina,AR,ARG,Santa Fe,admin,489505,street furniture management,better governance ,0
+208.80.153.224-10.42.0.151-443-37992-6,Tula,Tula,54.2,37.6299,Russia,RU,RUS,Tul’skaya Oblast’,admin,489486,waste disposal ,better transportation system ,0
+172.217.10.42-10.42.0.151-443-50396-6,Banī Suwayf,Bani Suwayf,29.0804,31.09,Egypt,EG,EGY,Banī Suwayf,admin,489450,mobility,better surveillance for security ,0
+10.42.0.211-10.42.0.1-38853-53-17,Yanji,Yanji,42.8823,129.5128,China,CN,CHN,Jilin,Unknown,488740,building performance ,smart infrastructure ,1
+10.42.0.211-10.42.0.1-5021-53-17,Toledo,Toledo,41.6639,-83.5822,United States,US,USA,Ohio,Unknown,488672,street furniture management,better governance ,1
+172.217.10.138-10.42.0.151-443-35329-6,Bologna,Bologna,44.5004,11.34,Italy,IT,ITA,Emilia-Romagna,admin,488172,building performance ,better transportation system ,1
+172.217.10.35-10.42.0.211-443-54428-6,Brookhaven,Brookhaven,40.8321,-72.9518,United States,US,USA,New York,Unknown,487731,street furniture management,better surveillance for security ,0
+10.42.0.151-10.42.0.1-44339-53-17,Sahāranpur,Saharanpur,29.97,77.55,India,IN,IND,Uttar Pradesh,Unknown,484873,waste disposal ,smart infrastructure ,0
+172.217.6.202-10.42.0.151-443-51615-6,Murrieta,Murrieta,33.572,-117.1909,United States,US,USA,California,Unknown,483681,mobility,smart infrastructure ,0
+172.217.10.104-10.42.0.211-443-53162-6,Gulbarga,Gulbarga,17.35,76.82,India,IN,IND,Karnātaka,Unknown,483615,building performance ,smart healthcare system ,0
+8.0.6.4-8.6.0.1-0-0-0,Bhātpāra,Bhatpara,22.8504,88.52,India,IN,IND,West Bengal,Unknown,483129,street furniture management,better governance ,1
+182.22.25.252-10.42.0.211-443-38360-6,Wichita,Wichita,37.6897,-97.3441,United States,US,USA,Kansas,Unknown,483057,building performance ,better transportation system ,1
+10.42.0.211-104.244.42.2-45397-443-6,Ile-Ife,Ile-Ife,7.4804,4.56,Nigeria,NG,NGA,Osun,minor,482365,street furniture management,better surveillance for security ,0
+10.42.0.151-125.39.240.46-42682-80-6,Feira de Santana,Feira de Santana,-12.25,-38.97,Brazil,BR,BRA,Bahia,Unknown,481911,waste disposal ,smart infrastructure ,1
+10.42.0.151-10.42.0.1-45821-53-17,Shah Alam,Shah Alam,3.0667,101.55,Malaysia,MY,MYS,Selangor,admin,481654,mobility,better job opportunities,0
+172.217.12.142-10.42.0.211-443-60028-6,Mariupol’,Mariupol',47.0962,37.5562,Ukraine,UA,UKR,Donets’ka Oblast’,Unknown,481626,building performance ,better governance ,1
+209.10.120.26-10.42.0.211-80-44733-6,Des Moines,Des Moines,41.5725,-93.6105,United States,US,USA,Iowa,admin,481222,street furniture management,better transportation system ,0
+10.42.0.211-23.66.169.49-56314-80-6,Tuxtla,Tuxtla,16.75,-93.15,Mexico,MX,MEX,Chiapas,admin,481128,building performance ,better surveillance for security ,0
+10.42.0.151-31.13.71.52-47620-443-6,Herāt,Herat,34.33,62.17,Afghanistan,AF,AFG,Herāt,admin,481009,street furniture management,smart infrastructure ,1
+151.101.117.140-10.42.0.211-443-36821-6,Homyel’,Homyel',52.43,31,Belarus,BY,BLR,Homyel’skaya Voblasts’,admin,480951,street furniture management,better governance ,0
+205.204.101.196-10.42.0.151-443-50664-6,Zhaoqing,Zhaoqing,23.0504,112.45,China,CN,CHN,Guangdong,minor,480000,waste disposal ,better transportation system ,0
+205.185.216.42-10.42.0.211-80-56393-6,Americana,Americana,-22.7499,-47.33,Brazil,BR,BRA,São Paulo,Unknown,479472,mobility,smart infrastructure ,0
+172.217.7.161-10.42.0.211-443-40512-6,Dhūlia,Dhulia,20.9,74.77,India,IN,IND,Mahārāshtra,Unknown,479073,building performance ,smart healthcare system ,0
+192.229.173.173-10.42.0.151-443-52508-6,Ostrava,Ostrava,49.8304,18.25,Czechia,CZ,CZE,Moravskoslezský Kraj ,admin,478963,street furniture management,better governance ,1
+8.41.222.241-10.42.0.211-443-37920-6,Yazd,Yazd,31.9201,54.37,Iran,IR,IRN,Yazd,admin,477905,building performance ,better transportation system ,0
+10.42.0.1-10.42.0.42-53-22097-17,Sialkot City,Sialkot City,32.52,74.56,Pakistan,PK,PAK,Punjab,minor,477396,street furniture management,better surveillance for security ,0
+10.42.0.151-72.21.206.135-52945-443-6,Kemerovo,Kemerovo,55.34,86.09,Russia,RU,RUS,Kemerovskaya Oblast’,admin,477090,waste disposal ,smart infrastructure ,0
+202.77.129.150-10.42.0.211-80-41780-6,Nazrēt,Nazret,8.55,39.27,Ethiopia,ET,ETH,Oromīya,Unknown,476892,mobility,better job opportunities,0
+10.42.0.1-10.42.0.42-53-57608-17,Staten Island,Staten Island,40.5834,-74.1496,United States,US,USA,New York,Unknown,476015,building performance ,better governance ,1
+10.42.0.211-115.239.210.141-43633-80-6,Jiaojiangcun,Jiaojiangcun,28.6804,121.45,China,CN,CHN,Zhejiang,Unknown,471500,street furniture management,better transportation system ,1
+172.217.3.106-10.42.0.42-443-44990-6,Chaoyang,Chaoyang,41.5504,120.42,China,CN,CHN,Liaoning,Unknown,470296,building performance ,better surveillance for security ,0
+10.42.0.211-95.213.11.133-57598-443-6,Juiz de Fora,Juiz de Fora,-21.77,-43.375,Brazil,BR,BRA,Minas Gerais,Unknown,470193,street furniture management,smart infrastructure ,0
+10.42.0.42-104.97.95.172-47351-80-6,Udaipur,Udaipur,24.6,73.73,India,IN,IND,Rājasthān,Unknown,469737,waste disposal ,better governance ,0
+10.42.0.211-104.192.110.245-49106-443-6,Long Beach,Long Beach,33.798,-118.1675,United States,US,USA,California,Unknown,469450,mobility,better transportation system ,0
+10.42.0.42-104.254.66.16-45747-80-6,Greenville,Greenville,34.8362,-82.3649,United States,US,USA,South Carolina,Unknown,467894,building performance ,smart healthcare system ,1
+10.42.0.211-10.42.0.1-5059-53-17,Kocaeli,Kocaeli,40.776,29.9306,Turkey,TR,TUR,Kocaeli,admin,466504,street furniture management,better governance ,1
+10.42.0.151-54.230.38.124-47519-80-6,Piraeus,Piraeus,37.95,23.7,Greece,GR,GRC,Attikí,minor,466065,street furniture management,better transportation system ,1
+162.208.22.39-10.42.0.151-443-60978-6,Shymkent,Shymkent,42.32,69.595,Kazakhstan,KZ,KAZ,Unknown,admin,465392,waste disposal ,better surveillance for security ,0
+182.22.31.124-10.42.0.211-443-57818-6,Iligan,Iligan,8.1712,124.2154,Philippines,PH,PHL,Iligan,admin,464599,mobility,smart infrastructure ,1
+209.10.120.26-10.42.0.211-80-39867-6,Qazvīn,Qazvin,36.27,50,Iran,IR,IRN,Qazvīn,admin,464551,building performance ,better job opportunities,0
+10.42.0.211-23.21.246.117-56963-443-6,Calabar,Calabar,4.9604,8.33,Nigeria,NG,NGA,Cross River,admin,461796,street furniture management,better governance ,1
+172.217.7.132-10.42.0.151-443-41001-6,Malatya,Malatya,38.3704,38.3,Turkey,TR,TUR,Malatya,admin,461574,building performance ,better transportation system ,0
+10.42.0.211-113.207.48.142-59167-80-6,Dadukou,Dadukou,26.55,101.73,China,CN,CHN,Sichuan,minor,461513,street furniture management,better surveillance for security ,0
+172.217.6.206-10.42.0.42-443-41474-6,Bandar ‘Abbās,Bandar `Abbas,27.2041,56.2721,Iran,IR,IRN,Hormozgān,admin,461499,waste disposal ,smart infrastructure ,0
+220.243.219.55-10.42.0.151-80-42898-6,Naberezhnyye Chelny,Naberezhnyye Chelny,55.7,52.3199,Russia,RU,RUS,Tatarstan,Unknown,461086,mobility,better governance ,1
+174.35.73.77-10.42.0.42-80-40089-6,Ḩamāh,Hamah,35.1503,36.73,Syria,SY,SYR,Ḩamāh,admin,460602,building performance ,better transportation system ,0
+10.42.0.211-104.254.66.16-44699-80-6,Cranbourne,Cranbourne,-38.0996,145.2834,Australia,AU,AUS,Victoria,Unknown,460491,street furniture management,smart infrastructure ,1
+10.42.0.211-64.71.142.96-42054-443-6,Iquitos,Iquitos,-3.75,-73.25,Peru,PE,PER,Loreto,admin,458729,building performance ,smart healthcare system ,0
+172.217.10.3-10.42.0.151-443-48229-6,Mazār-e Sharīf,Mazar-e Sharif,36.7,67.1,Afghanistan,AF,AFG,Balkh,admin,458151,street furniture management,better governance ,1
+10.42.0.211-52.84.29.154-47440-443-6,Leicester,Leicester,52.63,-1.1332,United Kingdom,GB,GBR,Leicester,admin,457983,waste disposal ,better transportation system ,1
+182.22.25.124-10.42.0.211-443-54109-6,Kirov,Kirov,58.5901,49.67,Russia,RU,RUS,Kirovskaya Oblast’,admin,457437,mobility,better surveillance for security ,0
+10.42.0.151-92.98.43.13-43477-8577-17,Jingdezhen,Jingdezhen,29.2704,117.18,China,CN,CHN,Jiangxi,minor,457298,waste disposal ,smart infrastructure ,0
+10.42.0.151-115.239.210.141-35808-443-6,Durango,Durango,24.0311,-104.67,Mexico,MX,MEX,Durango,admin,457140,mobility,better job opportunities,0
+10.42.0.211-61.155.222.80-55950-80-6,Jambi,Jambi,-1.59,103.61,Indonesia,ID,IDN,Jambi,admin,457090,building performance ,better governance ,0
+175.100.207.231-10.42.0.211-80-35719-6,Volta Redonda,Volta Redonda,-22.5196,-44.095,Brazil,BR,BRA,Rio de Janeiro,Unknown,456362,street furniture management,better transportation system ,1
+180.149.135.239-10.42.0.211-80-60245-6,Hengshui,Hengshui,37.72,115.7,China,CN,CHN,Hebei,Unknown,456356,building performance ,smart healthcare system ,1
+10.42.0.151-10.42.0.1-10232-53-17,Sfax,Sfax,34.75,10.72,Tunisia,TN,TUN,Sfax,admin,453050,street furniture management,better governance ,1
+180.149.136.194-10.42.0.211-80-50575-6,Sunderland,Sunderland,54.92,-1.38,United Kingdom,GB,GBR,Sunderland,admin,452934,waste disposal ,better transportation system ,1
+10.42.0.211-64.71.142.96-58355-443-6,Xalapa,Xalapa,19.53,-96.92,Mexico,MX,MEX,Veracruz,admin,452186,mobility,better surveillance for security ,0
+175.100.207.232-10.42.0.211-80-46720-6,Luhans’k,Luhans'k,48.5698,39.3344,Ukraine,UA,UKR,Luhans’ka Oblast’,admin,452000,building performance ,smart infrastructure ,0
+205.185.216.42-10.42.0.211-80-41784-6,Manado,Manado,1.48,124.85,Indonesia,ID,IDN,Sulawesi Utara,admin,451893,street furniture management,better job opportunities,0
+220.243.219.55-10.42.0.211-80-50901-6,Qaraghandy,Qaraghandy,49.885,73.115,Kazakhstan,KZ,KAZ,Qaraghandy,admin,451800,building performance ,better governance ,1
+10.42.0.211-10.42.0.1-47820-53-17,An Nāşirīyah,An Nasiriyah,31.0429,46.2676,Iraq,IQ,IRQ,Dhī Qār,admin,451547,street furniture management,better transportation system ,1
+10.42.0.211-10.42.0.1-9577-53-17,Oshawa,Oshawa,43.88,-78.85,Canada,CA,CAN,Ontario,Unknown,450963,waste disposal ,better surveillance for security ,0
+10.42.0.1-10.42.0.42-53-5589-17,Taihecun,Taihecun,45.8,130.85,China,CN,CHN,Heilongjiang,Unknown,450617,mobility,smart infrastructure ,0
+175.100.207.231-10.42.0.42-80-58451-6,Belfast,Belfast,54.6,-5.96,United Kingdom,GB,GBR,Belfast,Unknown,450406,building performance ,better governance ,0
+10.42.0.211-10.42.0.1-37390-53-17,Şanlıurfa,Sanliurfa,37.17,38.795,Turkey,TR,TUR,Şanlıurfa,admin,449549,street furniture management,better transportation system ,0
+172.217.3.106-10.42.0.151-443-34323-6,Chengde,Chengde,40.9604,117.93,China,CN,CHN,Hebei,Unknown,449325,building performance ,smart infrastructure ,0
+172.217.11.14-10.42.0.151-443-59031-6,Jiangguanchi,Jiangguanchi,34.0204,113.82,China,CN,CHN,Henan,minor,449258,street furniture management,smart healthcare system ,0
+175.100.207.233-10.42.0.211-80-42376-6,Chlef,Chlef,36.1704,1.32,Algeria,DZ,DZA,Chlef,admin,449167,street furniture management,better governance ,1
+192.229.163.180-10.42.0.211-443-51130-6,Ōita,Oita,33.2432,131.5979,Japan,JP,JPN,Ōita,admin,448907,waste disposal ,better transportation system ,1
+10.42.0.211-10.42.0.1-25347-53-17,Baguio City,Baguio City,16.43,120.5699,Philippines,PH,PHL,Baguio,admin,447824,mobility,better surveillance for security ,0
+10.42.0.211-77.234.42.92-41668-443-6,San Juan,San Juan,-31.55,-68.52,Argentina,AR,ARG,San Juan,admin,447048,building performance ,smart infrastructure ,0
+172.217.9.226-10.42.0.151-443-45077-6,Cheboksary,Cheboksary,56.13,47.25,Russia,RU,RUS,Chuvashiya,admin,446781,street furniture management,better job opportunities,0
+10.42.0.211-103.7.30.118-56421-80-6,Ado-Ekiti,Ado-Ekiti,7.6304,5.22,Nigeria,NG,NGA,Ekiti,admin,446749,building performance ,better governance ,0
+172.217.10.141-10.42.0.151-443-39762-6,Balikpapan,Balikpapan,-1.25,116.83,Indonesia,ID,IDN,Kalimantan Timur,Unknown,445905,street furniture management,better transportation system ,1
+182.254.5.234-10.42.0.151-80-45945-6,Bellary,Bellary,15.15,76.915,India,IN,IND,Karnātaka,Unknown,445388,waste disposal ,smart healthcare system ,1
+10.42.0.211-10.42.0.1-57761-53-17,Bamenda,Bamenda,5.96,10.15,Cameroon,CM,CMR,North-West,admin,445299,mobility,better governance ,1
+10.42.0.211-64.71.142.120-35949-80-6,Gent,Gent,51.03,3.7,Belgium,BE,BEL,Flanders,minor,444336,building performance ,better transportation system ,1
+139.162.45.175-10.42.0.42-80-44515-6,Tokushima,Tokushima,34.0674,134.5525,Japan,JP,JPN,Tokushima,admin,443760,street furniture management,better surveillance for security ,0
+10.42.0.151-52.84.29.134-39900-443-6,Little Rock,Little Rock,34.7255,-92.358,United States,US,USA,Arkansas,admin,442699,building performance ,smart infrastructure ,0
+203.205.158.52-10.42.0.211-80-40318-6,Wuzhou,Wuzhou,23.48,111.32,China,CN,CHN,Guangxi,minor,442315,street furniture management,better job opportunities,0
+203.205.158.61-10.42.0.211-80-53327-6,Portsmouth,Portsmouth,50.8003,-1.08,United Kingdom,GB,GBR,Portsmouth,admin,442252,waste disposal ,better governance ,1
+203.205.158.63-10.42.0.151-80-51961-6,Harrisburg,Harrisburg,40.2752,-76.8843,United States,US,USA,Pennsylvania,admin,441580,mobility,better transportation system ,1
+157.240.2.25-10.42.0.211-443-34219-6,Cabimas,Cabimas,10.43,-71.45,Venezuela,VE,VEN,Zulia,minor,441094,building performance ,better surveillance for security ,0
+172.217.3.99-10.42.0.42-443-56481-6,Foz do Iguaçu,Foz do Iguacu,-25.5235,-54.53,Brazil,BR,BRA,Paraná,Unknown,440455,street furniture management,smart infrastructure ,1
+172.217.10.104-10.42.0.151-443-49201-6,Denton,Denton,33.2176,-97.1419,United States,US,USA,Texas,Unknown,440146,street furniture management,better governance ,0
+172.217.12.142-10.42.0.151-443-38241-6,Wakayama,Wakayama,34.2231,135.1677,Japan,JP,JPN,Wakayama,admin,440006,waste disposal ,better transportation system ,0
+10.42.0.151-125.39.83.108-36365-443-6,Strasbourg,Strasbourg,48.58,7.75,France,FR,FRA,Grand Est,admin,439972,mobility,smart infrastructure ,1
+173.222.150.38-10.42.0.151-443-40518-6,Madison,Madison,43.0827,-89.3923,United States,US,USA,Wisconsin,admin,439553,building performance ,smart healthcare system ,0
+174.35.73.93-10.42.0.211-443-36735-6,Mawlamyine,Mawlamyine,16.5004,97.67,Burma,MM,MMR,Mon State,admin,438861,street furniture management,better governance ,1
+209.10.120.26-10.42.0.211-80-48313-6,San Cristóbal,San Cristobal,7.77,-72.25,Venezuela,VE,VEN,Táchira,admin,438798,building performance ,better surveillance for security ,0
+10.42.0.151-10.42.0.1-18191-53-17,Nantes,Nantes,47.2104,-1.59,France,FR,FRA,Pays de la Loire,admin,438537,street furniture management,smart infrastructure ,1
+162.208.22.39-10.42.0.42-443-55491-6,Khŭjand,Khujand,40.29,69.6199,Tajikistan,TJ,TJK,Sughd,admin,437684,waste disposal ,better job opportunities,0
+10.42.0.151-65.52.108.74-41781-443-6,Guangyuan,Guangyuan,32.43,105.87,China,CN,CHN,Sichuan,Unknown,437435,mobility,better governance ,1
+10.42.0.151-10.42.0.1-47232-53-17,Khomeynī Shahr,Khomeyni Shahr,32.7004,51.47,Iran,IR,IRN,Eşfahān,minor,437138,building performance ,better transportation system ,0
+10.42.0.151-106.11.176.1-39404-443-6,Garoua,Garoua,9.3,13.39,Cameroon,CM,CMR,Nord,admin,436899,street furniture management,better surveillance for security ,0
+171.84.4.11-10.42.0.42-80-38999-6,Bukavu,Bukavu,-2.51,28.84,Congo (Kinshasa),CD,COD,Sud-Kivu,admin,436779,building performance ,smart infrastructure ,0
+162.208.22.39-10.42.0.211-443-45169-6,Tuticorin,Tuticorin,8.82,78.13,India,IN,IND,Tamil Nādu ,Unknown,436094,street furniture management,better governance ,1
+10.42.0.42-31.13.71.3-36214-443-6,Nagasaki,Nagasaki,32.765,129.885,Japan,JP,JPN,Nagasaki,admin,435455,waste disposal ,better transportation system ,0
+10.42.0.211-10.42.0.1-24876-53-17,Pohang,Pohang,36.0209,129.3715,"Korea, South",KR,KOR,Gyeongbuk,minor,435266,mobility,better surveillance for security ,0
+10.42.0.151-64.71.142.110-54052-80-6,Kaliningrad,Kaliningrad,54.7,20.4973,Russia,RU,RUS,Kaliningradskaya Oblast’,admin,434954,waste disposal ,smart infrastructure ,0
+239.255.255.250-10.42.0.42-1900-37874-17,Likasi,Likasi,-10.97,26.78,Congo (Kinshasa),CD,COD,Haut-Katanga,Unknown,434408,mobility,smart healthcare system ,1
+182.22.24.124-10.42.0.42-443-45890-6,Reno,Reno,39.5497,-119.8483,United States,US,USA,Nevada,Unknown,433271,building performance ,better governance ,0
+203.205.191.25-10.42.0.211-80-47717-6,Spanish Town,Spanish Town,17.9833,-76.95,Jamaica,JM,JAM,Saint Catherine,admin,432704,street furniture management,better transportation system ,1
+10.42.0.211-64.71.142.110-57932-443-6,Port St. Lucie,Port St. Lucie,27.2796,-80.3884,United States,US,USA,Florida,Unknown,432589,building performance ,better surveillance for security ,0
+10.42.0.151-31.13.80.5-45947-443-6,San Luis,San Luis,-33.3,-66.35,Argentina,AR,ARG,San Luis,admin,432310,street furniture management,smart infrastructure ,1
+10.42.0.151-10.42.0.1-38135-53-17,Katsina,Katsina,12.9904,7.6,Nigeria,NG,NGA,Katsina,admin,432149,waste disposal ,better job opportunities,0
+10.42.0.151-10.42.0.1-31173-53-17,Welkom,Welkom,-27.97,26.73,South Africa,ZA,ZAF,Free State,Unknown,431944,mobility,better governance ,1
+10.42.0.211-77.234.42.92-40756-443-6,Santa Marta,Santa Marta,11.2472,-74.2017,Colombia,CO,COL,Magdalena,admin,431781,building performance ,better transportation system ,0
+203.205.158.63-10.42.0.211-80-58579-6,Villahermosa,Villahermosa,18,-92.9,Mexico,MX,MEX,Tabasco,admin,428564,street furniture management,better surveillance for security ,0
+172.217.12.174-10.42.0.151-443-59642-6,Bryansk,Bryansk,53.26,34.43,Russia,RU,RUS,Bryanskaya Oblast’,admin,427236,building performance ,smart infrastructure ,0
+172.217.9.238-10.42.0.211-443-57385-6,Bournemouth,Bournemouth,50.73,-1.9,United Kingdom,GB,GBR,Bournemouth,admin,426945,street furniture management,better job opportunities,1
+172.217.11.10-10.42.0.211-443-50655-6,Bengkulu,Bengkulu,-3.8,102.27,Indonesia,ID,IDN,Bengkulu,admin,426673,waste disposal ,better governance ,0
+10.42.0.151-10.42.0.1-63454-53-17,Heidelberg,Heidelberg,49.42,8.7,Germany,DE,DEU,Baden-Württemberg,minor,426590,mobility,better transportation system ,1
+219.142.78.162-10.42.0.211-80-53006-6,Oakland,Oakland,37.7903,-122.2165,United States,US,USA,California,Unknown,425195,building performance ,better surveillance for security ,0
+10.42.0.151-69.147.82.60-56406-443-6,Kurnool,Kurnool,15.83,78.03,India,IN,IND,Andhra Pradesh,Unknown,424920,street furniture management,smart infrastructure ,1
+10.42.0.211-77.234.42.92-39541-443-6,Chaozhou,Chaozhou,23.68,116.63,China,CN,CHN,Guangdong,minor,424787,building performance ,better governance ,0
+10.42.0.211-10.42.0.1-38038-53-17,Batangas,Batangas,13.7817,121.0217,Philippines,PH,PHL,Batangas,admin,424508,street furniture management,better transportation system ,1
+205.185.216.42-10.42.0.211-80-41824-6,Gaya,Gaya,24.8,85,India,IN,IND,Bihār,Unknown,423692,street furniture management,better surveillance for security ,0
+10.42.0.211-23.219.23.167-38406-80-6,Ibagué,Ibague,4.4389,-75.2322,Colombia,CO,COL,Tolima,admin,421685,waste disposal ,smart infrastructure ,1
+172.217.11.14-10.42.0.42-443-51277-6,Ivanovo,Ivanovo,57.01,41.01,Russia,RU,RUS,Ivanovskaya Oblast’,admin,420839,mobility,smart healthcare system ,0
+10.42.0.1-10.42.0.42-53-31123-17,Erzurum,Erzurum,39.9204,41.29,Turkey,TR,TUR,Erzurum,admin,420691,street furniture management,better governance ,1
+180.149.153.234-10.42.0.211-80-52402-6,Akure,Akure,7.2504,5.2,Nigeria,NG,NGA,Ondo,admin,420594,building performance ,better transportation system ,0
+182.22.25.124-10.42.0.151-443-37785-6,Asyūţ,Asyut,27.19,31.1799,Egypt,EG,EGY,Asyūţ,admin,420585,street furniture management,better surveillance for security ,0
+10.42.0.211-36.51.254.232-56316-443-6,Kolwezi,Kolwezi,-10.7167,25.4724,Congo (Kinshasa),CD,COD,Lualaba,admin,418000,waste disposal ,smart infrastructure ,0
+10.42.0.211-119.146.74.33-50804-443-6,Sukkur,Sukkur,27.7136,68.8486,Pakistan,PK,PAK,Sindh,minor,417767,mobility,better job opportunities,1
+10.42.0.211-10.42.0.1-4456-53-17,Luohe,Luohe,33.57,114.03,China,CN,CHN,Henan,minor,417356,building performance ,better governance ,0
+10.42.0.42-117.121.27.11-38989-80-6,Campina Grande,Campina Grande,-7.23,-35.88,Brazil,BR,BRA,Paraíba,Unknown,417261,street furniture management,better transportation system ,1
+10.42.0.211-104.244.42.129-36398-80-6,Kitchener,Kitchener,43.45,-80.5,Canada,CA,CAN,Ontario,Unknown,417001,building performance ,better surveillance for security ,0
+172.217.12.164-10.42.0.151-443-48882-6,Winston-Salem,Winston-Salem,36.1029,-80.261,United States,US,USA,North Carolina,Unknown,416581,street furniture management,smart infrastructure ,1
+219.142.78.162-10.42.0.211-80-59537-6,Middlesbrough,Middlesbrough,54.5804,-1.23,United Kingdom,GB,GBR,Redcar and Cleveland,admin,416042,waste disposal ,better governance ,0
+10.42.0.211-10.42.0.1-41677-53-17,Meizhou,Meizhou,24.3005,116.12,China,CN,CHN,Guangdong,minor,414930,mobility,better transportation system ,1
+10.42.0.151-31.13.80.5-34975-443-6,Ardabīl,Ardabil,38.25,48.3,Iran,IR,IRN,Ardabīl,admin,414603,building performance ,better surveillance for security ,0
+10.42.0.211-14.29.93.243-35661-80-6,Magnitogorsk,Magnitogorsk,53.4227,58.98,Russia,RU,RUS,Chelyabinskaya Oblast’,Unknown,413351,street furniture management,smart infrastructure ,1
+10.42.0.211-10.42.0.1-54447-53-17,Gifu,Gifu,35.4231,136.7628,Japan,JP,JPN,Gifu,admin,412895,street furniture management,smart healthcare system ,0
+10.42.0.211-119.146.74.33-50615-443-6,Huancayo,Huancayo,-12.08,-75.2,Peru,PE,PER,Junín,admin,412733,waste disposal ,better governance ,1
+172.217.7.164-10.42.0.42-443-50076-6,Nha Trang,Nha Trang,12.25,109.17,Vietnam,VN,VNM,Khánh Hòa,admin,411556,mobility,better transportation system ,0
+10.42.0.151-10.42.0.1-63090-53-17,Maturín,Maturin,9.75,-63.17,Venezuela,VE,VEN,Monagas,admin,410972,building performance ,better surveillance for security ,0
+10.42.0.211-50.17.222.169-53620-443-6,Zhangjiakou Shi Xuanhua Qu,Zhangjiakou Shi Xuanhua Qu,40.5944,115.0243,China,CN,CHN,Hebei,minor,409745,street furniture management,smart infrastructure ,0
+172.217.6.238-10.42.0.151-443-40562-6,Kursk,Kursk,51.74,36.19,Russia,RU,RUS,Kurskaya Oblast’,admin,409431,building performance ,better job opportunities,1
+10.42.0.211-123.125.29.138-40292-80-6,Oujda-Angad,Oujda-Angad,34.69,-1.91,Morocco,MA,MAR,Oriental,admin,409391,street furniture management,better governance ,0
+10.42.0.151-23.205.18.73-59388-443-6,Metz,Metz,49.1203,6.18,France,FR,FRA,Grand Est,minor,409186,waste disposal ,better transportation system ,1
+10.42.0.42-23.208.156.9-55616-443-6,Al ‘Ayn,Al `Ayn,24.2305,55.74,United Arab Emirates,AE,ARE,Abū Z̧aby,Unknown,408733,building performance ,better surveillance for security ,0
+172.217.12.200-10.42.0.211-443-48040-6,Jeju,Jeju,33.5101,126.5219,"Korea, South",KR,KOR,Jeju,admin,408364,street furniture management,smart infrastructure ,1
+172.217.12.202-10.42.0.42-443-45771-6,Osogbo,Osogbo,7.7704,4.56,Nigeria,NG,NGA,Osun,admin,408245,building performance ,better governance ,0
+10.42.0.211-111.221.77.148-32978-40010-6,Indio,Indio,33.7346,-116.2346,United States,US,USA,California,Unknown,408097,street furniture management,better transportation system ,0
+158.85.48.251-10.42.0.151-443-44770-6,Ipatinga,Ipatinga,-19.4796,-42.52,Brazil,BR,BRA,Minas Gerais,Unknown,407894,street furniture management,better surveillance for security ,0
+10.42.0.42-54.230.38.227-40978-443-6,Szczecin,Szczecin,53.4204,14.53,Poland,PL,POL,Zachodniopomorskie,admin,407811,waste disposal ,smart infrastructure ,0
+10.42.0.211-23.66.169.49-52106-80-6,Durham,Durham,35.9795,-78.9032,United States,US,USA,North Carolina,Unknown,407575,mobility,smart infrastructure ,1
+172.217.10.142-10.42.0.151-443-55236-6,Syracuse,Syracuse,43.0409,-76.1438,United States,US,USA,New York,Unknown,407259,building performance ,smart healthcare system ,0
+10.42.0.151-10.42.0.1-47979-53-17,Chattanooga,Chattanooga,35.0657,-85.2487,United States,US,USA,Tennessee,Unknown,407182,street furniture management,better governance ,1
+216.58.219.202-10.42.0.151-443-46555-6,Murcia,Murcia,37.98,-1.13,Spain,ES,ESP,Murcia,admin,406807,building performance ,better transportation system ,0
+140.205.230.8-10.42.0.211-80-40920-6,Ţanţā,Tanta,30.7904,31,Egypt,EG,EGY,Al Gharbīyah,admin,404901,street furniture management,better surveillance for security ,0
+172.217.12.206-10.42.0.211-443-57401-6,Kitwe,Kitwe,-12.81,28.22,Zambia,ZM,ZMB,Copperbelt,Unknown,404901,waste disposal ,smart infrastructure ,0
+10.42.0.211-98.139.183.24-35052-443-6,Lancaster,Lancaster,40.042,-76.3012,United States,US,USA,Pennsylvania,Unknown,404525,mobility,better job opportunities,1
+10.42.0.42-35.185.31.66-44705-443-6,Zanzibar,Zanzibar,-6.16,39.2,Tanzania,TZ,TZA,Zanzibar Urban/West,admin,403658,building performance ,better governance ,0
+172.217.12.142-10.42.0.151-443-49816-6,Taubaté,Taubate,-23.0195,-45.56,Brazil,BR,BRA,São Paulo,Unknown,403560,street furniture management,better transportation system ,0
+183.136.237.235-10.42.0.151-80-35978-6,Ghulja,Ghulja,43.9,81.35,China,CN,CHN,Xinjiang,minor,403489,building performance ,better surveillance for security ,0
+10.42.0.211-95.213.11.181-55235-80-6,Pasay City,Pasay City,14.5504,121,Philippines,PH,PHL,Pasay,admin,403064,street furniture management,smart infrastructure ,0
+10.42.0.211-10.42.0.1-16485-53-17,Spokane,Spokane,47.6671,-117.433,United States,US,USA,Washington,Unknown,403043,waste disposal ,better governance ,1
+10.42.0.211-23.206.173.182-47916-80-6,Mbale,Mbale,1.0904,34.17,Uganda,UG,UGA,Mbale,admin,402368,mobility,better transportation system ,0
+10.42.0.211-10.42.0.1-56886-53-17,Palm Coast,Palm Coast,29.5392,-81.246,United States,US,USA,Florida,Unknown,401757,building performance ,smart infrastructure ,0
+222.73.28.96-10.42.0.211-80-32929-6,Kassala,Kassala,15.46,36.39,Sudan,SD,SDN,Kassala,admin,401477,street furniture management,smart healthcare system ,0
+172.217.10.226-10.42.0.151-443-45561-6,Sunch’ŏn,Sunch'on,39.4236,125.939,"Korea, North",KP,PRK,P’yŏngnam,Unknown,400629,street furniture management,better governance ,0
